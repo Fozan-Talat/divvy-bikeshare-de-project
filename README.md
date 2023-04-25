@@ -13,7 +13,7 @@ vizualize
 ## Technology Stack 
 The following technologies are used to build this project
 - Google Cloud Storage (GCS) - as Data Lake <br>
-- Google BigQuery - for the project Data Warehouse <br>
+- Google BigQuery - for Data Warehouse <br>
 - Terraform - as Infrastructure-as-Code (IaC) tool <br>
 - Prefect - for orchestration <br>
 - dbt - for transformation and data modeling <br>
