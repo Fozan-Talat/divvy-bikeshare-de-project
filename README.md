@@ -10,3 +10,11 @@ vizualize
 - Average trip duration
 - Bike type distribution and Membership status distribution
 - Rides per month and year
+## Technology Stack 
+The following technologies are used to build this project
+- Google Cloud Storage (GCS) - as Data Lake <br>
+- Google BigQuery - for the project Data Warehouse <br>
+- Terraform - as Infrastructure-as-Code (IaC) tool <br>
+- Prefect - for orchestration <br>
+- dbt - for transformation and data modeling <br>
+- Google Looker studio - for visualizations <br>
