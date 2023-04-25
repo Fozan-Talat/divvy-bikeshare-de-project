@@ -20,3 +20,4 @@ The following technologies are used to build this project
 - Google Looker studio - for visualizations <br>
 ## Data Pipeline Architecture
 ![data-pipline](images/divvy.png)
+## Data Dictionary
