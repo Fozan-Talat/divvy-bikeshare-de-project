@@ -1,3 +1,3 @@
- <img src="images/Divvy-bikes.jpg" width="60%" height="30%">>
+ <img src="images/Divvy-bikes.jpg" width="75%" height="35%">
  
 # Divvy Bikeshare Data Engineering Project 🚴‍♀️
