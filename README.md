@@ -21,3 +21,19 @@ The following technologies are used to build this project
 ## Data Pipeline Architecture
 ![data-pipline](images/divvy.png)
 ## Data Dictionary
+| Column | Description | 
+|--------|-------------|
+| r_id | Unique surrogate built using ride_id and started_at |
+| ride_id | Unique ID Assigned to Each Divvy Trip |
+| rideable_type | Type of bikes user can take out (Docked, Classic, Electric) |
+| started_at  | Start of Trip Date and Time |
+| ended_at | End of Trip Date and Time |
+| start_station_name | Name of start station |
+| start_station_id | Unique Identification Number of Station the Trip Started at |
+| end_station_name | Name Assigned to Station the Trip Ended at |
+| end_station_id | Unique Identification Number of Station the Trip Ended at|
+| start_lat | Latitude of the Start Station|
+|start_lng |Longitude of the Start Station|
+|end_lat |Latitude of the End Station|
+|end_lng |Longitude of the End Station|
+|member_casual | Field with Two Values Indicating Whether the Rider has a Divvy Membership or Paid with Credit Card(Casual)|
