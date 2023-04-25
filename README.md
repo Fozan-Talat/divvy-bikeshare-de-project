@@ -1,2 +1,2 @@
 ![](images/Divvy-bikes.jpg)
-# Divvy Bikeshare Data Engineering Project 🚴‍♀️:
+# Divvy Bikeshare Data Engineering Project 🚴‍♀️
