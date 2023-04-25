@@ -55,3 +55,7 @@ gcloud auth activate-service-account --key-file $GOOGLE_APPLICATION_CREDENTIALS
 gcloud auth application-default login
 ```
 Check out this [link](https://www.youtube.com/watch?v=Hajwnmj0xfQ&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb&index=11&t=29s)  for a video walkthrough 
+2. Install all required dependencies into your environment
+```bash
+pip install -r requirements.txt
+```
