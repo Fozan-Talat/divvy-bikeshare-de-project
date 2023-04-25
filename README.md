@@ -103,5 +103,6 @@ You will get 4 tables in divvy_data_dbt data set
   - divvy_stations_lookup
   - facts_divvy
   - stg_divvy_data
+
 You can now query the data and connect it to looker to visualize the data, when connecting to data source use facts_divvy table to build the data source in looker, dont use partitioned table, as you wont get any data in your report.
 
