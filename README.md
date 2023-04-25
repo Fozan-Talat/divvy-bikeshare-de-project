@@ -43,7 +43,8 @@ Check out the interactive dashboard [here](https://lookerstudio.google.com/repor
 ![](images/divvy_dashboard.PNG)
 
 ## Reproduce it yourself
-1. Setup your Google Cloud environment
+1. First fork this repo, and clone it to your local environment.
+2. Setup your Google Cloud environment
 - Create a [Google Cloud Platform project](https://console.cloud.google.com/cloud-resource-manager)
 - Configure Identity and Access Management (IAM) for the service account, giving it the following privileges: BigQuery Admin, Storage Admin and Storage Object Admin
 - Download the JSON credentials and save it, e.g. to `~/.gc/<credentials>`
@@ -57,11 +58,11 @@ gcloud auth application-default login
 Check out this [link](https://www.youtube.com/watch?v=Hajwnmj0xfQ&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb&index=11&t=29s)  for a video walkthrough.
 
 
-2. Install all required dependencies into your environment
+3. Install all required dependencies into your environment
 ```bash
 pip install -r requirements.txt
 ```
-3. Setup your infrastructure
+4. Setup your infrastructure
 - Run the following commands to install Terraform - if you are using a different OS please choose the correct version [here](https://developer.hashicorp.com/terraform/downloads) and exchange the download link and zip file name
 
 ```bash
@@ -78,7 +79,7 @@ terraform init
 terraform plan -var="project=<your-gcp-project-id>"
 terraform apply -var="project=<your-gcp-project-id>"
 ```
-4. Setup your orchestration
+5. Setup your orchestration
 - If you do not have a prefect workspace, sign-up for the prefect cloud and create a workspace [here](https://app.prefect.cloud/auth/login)
 - Create the [prefect blocks](https://docs.prefect.io/concepts/blocks/) via the cloud UI or adjust the variables in `/prefect/prefect_blocks.py` and run
 ```bash
