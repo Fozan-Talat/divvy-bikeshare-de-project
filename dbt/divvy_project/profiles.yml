@@ -1,0 +1,21 @@
+config: {}
+divvy-dbt-cli-profile:
+  outputs:
+    dev:
+      keyfile_json: # fill the below fields from the google cloud credentials json file or specify the path where you have saved the json credentials file.
+        auth_provider_x509_cert_url: 
+        auth_uri: 
+        client_email: 
+        client_id: 
+        client_x509_cert_url: 
+        private_key: 
+        private_key_id: 
+        project_id: 
+        token_uri: 
+        type: 
+      method: service-account-json
+      project: 
+      schema: divvy_data_dbt
+      threads: 8
+      type: bigquery
+  target: dev

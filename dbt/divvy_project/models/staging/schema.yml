@@ -1,0 +1,39 @@
+version: 2
+
+sources:
+    - name: staging
+      database: tidal-cipher-381616
+      schema: divvy_data_raw
+      tables:
+        - name: divvy_default_data
+
+models:
+  - name: stg_divvy_data
+    description: >
+        Bike trips made by annual and non-annual Divvy subscribers in the Chicago Metropolitan area between 2020-2023
+    columns:
+        - name: r_id
+          description: Primary key for this table
+          tests:
+            - unique:
+                    severity: warn
+            - not_null:
+                severity: warn
+        - name: ride_id
+          description: id of the ride provided by the source 
+        - name: rideable_type
+          description: Type of bikes user can take out (Docked, Classic, Electric)
+        - name: member_causal
+          description: Membership status of user
+        - name: start_station_name
+          description: Name of start station
+        - name: end_station_name
+          description: Name of end station
+        - name: start_lat
+          description: Start station's latitude coordinate
+        - name: start_lng
+          description: Start station's Longitude
+        - name: end_lat
+          description: End station's latitude coordinate
+        - name: end_lng
+          description: End station's Longitude

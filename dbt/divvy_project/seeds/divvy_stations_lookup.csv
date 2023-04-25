@@ -1,0 +1,1670 @@
+station_id,station_name,lat,lng,state,primary_neighbourhood,secondary_neighborhood
+465635,Damen Ave & Wellington Ave,41.9359,-87.6784,Illinois,North Center,NORTH CENTER
+449360,Leavitt St & Addison St,41.9467,-87.6834,Illinois,North Center,NORTH CENTER
+421805,Oakley Ave & Irving Park Rd,41.9543,-87.6861,Illinois,North Center,NORTH CENTER
+411109,Leavitt St & Belmont Ave (*),41.9394,-87.6833,Illinois,North Center,NORTH CENTER
+411112,Lincoln Ave & Waveland Ave,41.9488,-87.6753,Illinois,North Center,NORTH CENTER
+468662,Seeley Ave & Roscoe St,41.9434,-87.6796,Illinois,North Center,NORTH CENTER
+443581,Damen Ave & Melrose Ave,41.9406,-87.6785,Illinois,North Center,NORTH CENTER
+402126,Ravenswood Ave & Irving Park Rd,41.9547,-87.6739,Illinois,North Center,NORTH CENTER
+431818,Lincoln Ave & Belle Plaine Ave,41.956,-87.6803,Illinois,North Center,NORTH CENTER
+436979,Western Ave & Roscoe St,41.943,-87.6873,Illinois,North Center,NORTH CENTER
+425433,Wolcott (Ravenswood) Ave & Montrose Ave,41.9614,-87.6762,Illinois,North Center,NORTH CENTER
+404367,Talman Ave & Addison St,41.9466,-87.6946,Illinois,North Center,NORTH CENTER
+1666935,Leavitt St & Belmont Ave,41.939354,-87.683282,Illinois,North Center,NORTH CENTER
+5287859,Western Ave & Grace St,41.95,-87.69,Illinois,North Center,NORTH CENTER
+5320728,Rockwell St & Fletcher St,41.94,-87.69,Illinois,North Center,NORTH CENTER
+11475060,Campbell Ave & Irving Park Rd,41.95,-87.69,Illinois,North Center,NORTH CENTER
+10582370,Western Ave & Berteau Ave,41.96,-87.69,Illinois,North Center,NORTH CENTER
+437428,Wabash Ave & 16th St,41.8604,-87.6258,Illinois,Near South Side,NEAR SOUTH SIDE
+445410,Wabash Ave & Cermak Rd,41.8526,-87.6265,Illinois,Near South Side,NEAR SOUTH SIDE
+441812,McCormick Place,41.8514,-87.6188,Illinois,Near South Side,NEAR SOUTH SIDE
+444244,Michigan Ave & 14th St,41.8641,-87.6237,Illinois,Near South Side,NEAR SOUTH SIDE
+451966,Wabash Ave & Roosevelt Rd,41.8672,-87.626,Illinois,Near South Side,NEAR SOUTH SIDE
+448249,Calumet Ave & 18th St,41.8576,-87.6194,Illinois,Near South Side,NEAR SOUTH SIDE
+472455,Calumet Ave & 21st St,41.8542,-87.6192,Illinois,Near South Side,NEAR SOUTH SIDE
+432686,State St & 19th St,41.8566,-87.6275,Illinois,Near South Side,NEAR SOUTH SIDE
+421303,Michigan Ave & 18th St,41.8578,-87.6246,Illinois,Near South Side,NEAR SOUTH SIDE
+445436,Indiana Ave & 26th St,41.8457,-87.6225,Illinois,Near South Side,NEAR SOUTH SIDE
+3649246,Ping Tom Park (East),41.86,-87.63,Illinois,Near South Side,NEAR SOUTH SIDE
+444364,Mies van der Rohe Way & Chicago Ave,41.8969,-87.6217,Illinois,Streeterville,STREETERVILLE
+447708,McClurg Ct & Illinois St,41.8904,-87.6175,Illinois,Streeterville,STREETERVILLE
+454711,Fairbanks Ct & Grand Ave,41.8918,-87.6206,Illinois,Streeterville,STREETERVILLE
+400491,Lake Shore Dr & Ohio St,41.8926,-87.6145,Illinois,Streeterville,STREETERVILLE
+398662,Streeter Dr & Grand Ave,41.8923,-87.612,Illinois,Streeterville,STREETERVILLE
+412415,Fairbanks St & Superior St,41.8957,-87.6201,Illinois,Streeterville,STREETERVILLE
+406610,St. Clair St & Erie St,41.8944,-87.6227,Illinois,Streeterville,STREETERVILLE
+423801,McClurg Ct & Erie St,41.8945,-87.6179,Illinois,Streeterville,STREETERVILLE
+396359,Cityfront Plaza Dr & Pioneer Ct,41.8906,-87.6221,Illinois,Streeterville,STREETERVILLE
+407992,Mies van der Rohe Way & Chestnut St,41.8986,-87.6219,Illinois,Streeterville,STREETERVILLE
+429676,Michigan Ave & Pearson St,41.8977,-87.6235,Illinois,Streeterville,STREETERVILLE
+2890908,New St & Illinois St,41.890847,-87.618617,Illinois,Streeterville,STREETERVILLE
+4826254,DuSable Lake Shore Dr & Ohio St,41.89257,-87.614492,Illinois,Streeterville,STREETERVILLE
+5622255,McClurg Ct & Ohio St,41.89257,-87.614492,Illinois,Streeterville,STREETERVILLE
+437427,Wabash Ave & 9th St,41.8708,-87.6257,Illinois,Loop,LOOP
+453520,Michigan Ave & Lake St,41.886,-87.6241,Illinois,Loop,LOOP
+444783,Michigan Ave & Madison St,41.8821,-87.6251,Illinois,Loop,LOOP
+420972,LaSalle St & Adams St,41.8793,-87.632,Illinois,Loop,LOOP
+420973,Dearborn St & Adams St,41.8794,-87.6298,Illinois,Loop,LOOP
+412981,Franklin St & Lake St,41.8858,-87.6355,Illinois,Loop,LOOP
+419958,Clark St & 9th St (AMLI),41.8708,-87.6312,Illinois,Loop,LOOP
+462471,Columbus Dr & Randolph St,41.8847,-87.6195,Illinois,Loop,LOOP
+450681,Financial Pl & Ida B Wells Dr,41.875,-87.6331,Illinois,Loop,LOOP
+394205,Lake Shore Dr & Monroe St,41.881,-87.6167,Illinois,Loop,LOOP
+445671,Clark St & Ida B Wells Dr,41.8759,-87.6306,Illinois,Loop,LOOP
+450312,LaSalle St & Jackson Blvd,41.8782,-87.6319,Illinois,Loop,LOOP
+397245,Stetson Ave & South Water St,41.8868,-87.6223,Illinois,Loop,LOOP
+472454,State St & Van Buren St,41.8772,-87.6278,Illinois,Loop,LOOP
+427022,Wells St & Polk St,41.8726,-87.6335,Illinois,Loop,LOOP
+401871,LaSalle St & Washington St,41.8827,-87.6325,Illinois,Loop,LOOP
+442406,Daley Center Plaza,41.8842,-87.6296,Illinois,Loop,LOOP
+403000,Michigan Ave & Ida B Wells Dr,41.8762,-87.6244,Illinois,Loop,LOOP
+472171,Delano Ct & Roosevelt Rd,41.8675,-87.6322,Illinois,Loop,LOOP
+463594,Michigan Ave & Washington St,41.884,-87.6247,Illinois,Loop,LOOP
+400405,Franklin St & Adams St (Temp),41.8794,-87.6355,Illinois,Loop,LOOP
+414729,Clark St & Lake St,41.886,-87.6309,Illinois,Loop,LOOP
+468973,Franklin St & Jackson Blvd,41.8777,-87.6353,Illinois,Loop,LOOP
+416596,Dearborn St & Monroe St,41.8813,-87.6295,Illinois,Loop,LOOP
+416248,Clark St & Randolph St,41.8846,-87.6319,Illinois,Loop,LOOP
+397456,Wabash Ave & Adams St,41.8795,-87.6257,Illinois,Loop,LOOP
+440116,Dearborn St & Van Buren St,41.8763,-87.6292,Illinois,Loop,LOOP
+419957,Franklin St & Monroe St,41.8803,-87.6352,Illinois,Loop,LOOP
+444379,Field Blvd & South Water St,41.8863,-87.6175,Illinois,Loop,LOOP
+403055,Wabash Ave & Wacker Pl,41.8869,-87.626,Illinois,Loop,LOOP
+421054,State St & Randolph St,41.8847,-87.6277,Illinois,Loop,LOOP
+399391,Wacker Dr & Washington St,41.8831,-87.6373,Illinois,Loop,LOOP
+4261390,DIVVY CASSETTE REPAIR MOBILE STATION,41.880958,-87.616743,Illinois,Loop,LOOP
+4503871,DuSable Lake Shore Dr & Monroe St,41.880958,-87.616743,Illinois,Loop,LOOP
+446311,Kingsbury St & Erie St,41.8938,-87.6417,Illinois,River North,RIVER NORTH
+411360,Franklin St & Chicago Ave,41.8967,-87.6357,Illinois,River North,RIVER NORTH
+421540,Orleans St & Chestnut St (NEXT Apts),41.8982,-87.6375,Illinois,River North,RIVER NORTH
+394202,Wells St & Hubbard St,41.8899,-87.6343,Illinois,River North,RIVER NORTH
+424962,Orleans St & Elm St,41.9029,-87.6377,Illinois,River North,RIVER NORTH
+421174,Orleans St & Hubbard St,41.89,-87.6366,Illinois,River North,RIVER NORTH
+461890,Kingsbury St & Kinzie St,41.8892,-87.6385,Illinois,River North,RIVER NORTH
+427165,Wells St & Huron St,41.8947,-87.6344,Illinois,River North,RIVER NORTH
+462999,Halsted St & Clybourn Ave,41.9097,-87.6481,Illinois,River North,RIVER NORTH
+407007,State St & Kinzie St,41.8892,-87.6278,Illinois,River North,RIVER NORTH
+467671,Franklin St & Illinois St,41.891,-87.6355,Illinois,River North,RIVER NORTH
+416116,Sheffield Ave & Kingsbury St,41.9105,-87.6531,Illinois,River North,RIVER NORTH
+398397,Larrabee St & Division St,41.9035,-87.6434,Illinois,River North,RIVER NORTH
+451415,Wells St & Walton St,41.8999,-87.6344,Illinois,River North,RIVER NORTH
+401604,LaSalle Dr & Huron St,41.8949,-87.6323,Illinois,River North,RIVER NORTH
+474691,Dearborn St & Erie St,41.894,-87.6293,Illinois,River North,RIVER NORTH
+419974,Wells St & Elm St,41.9032,-87.6343,Illinois,River North,RIVER NORTH
+467741,Wabash Ave & Grand Ave,41.8915,-87.6268,Illinois,River North,RIVER NORTH
+455705,Dayton St & North Ave,41.9106,-87.6494,Illinois,River North,RIVER NORTH
+410921,Rush St & Hubbard St,41.8902,-87.6262,Illinois,River North,RIVER NORTH
+394164,Sedgwick St & Huron St,41.8947,-87.6384,Illinois,River North,RIVER NORTH
+448224,Cherry Ave & Blackhawk St,41.9072,-87.6556,Illinois,River North,RIVER NORTH
+422568,Larrabee St & Oak St,41.9002,-87.643,Illinois,River North,RIVER NORTH
+397454,Orleans St & Merchandise Mart Plaza,41.8882,-87.6364,Illinois,River North,RIVER NORTH
+456347,LaSalle St & Illinois St,41.8908,-87.6317,Illinois,River North,RIVER NORTH
+475621,Halsted St & North Branch St,41.8994,-87.6485,Illinois,River North,RIVER NORTH
+395264,Larrabee St & Kingsbury St,41.8978,-87.6429,Illinois,River North,RIVER NORTH
+12436723,Wells St & Institute Pl,41.897382,-87.63435566666666,Illinois,River North,RIVER NORTH
+397420,Sheridan Rd & Irving Park Rd,41.9542,-87.6544,Illinois,Lake View,LAKE VIEW
+406454,Southport Ave & Belmont Ave,41.9395,-87.6638,Illinois,Lake View,LAKE VIEW
+399228,Southport Ave & Irving Park Rd,41.9542,-87.6644,Illinois,Lake View,LAKE VIEW
+394119,Sheffield Ave & Wellington Ave,41.9363,-87.6527,Illinois,Lake View,LAKE VIEW
+474802,Broadway & Barry Ave,41.9377,-87.6441,Illinois,Lake View,LAKE VIEW
+428429,Southport Ave & Roscoe St,41.9437,-87.664,Illinois,Lake View,LAKE VIEW
+403143,Lincoln Ave & Belmont Ave,41.9394,-87.6684,Illinois,Lake View,LAKE VIEW
+407395,Ashland Ave & Wellington Ave,41.9361,-87.6698,Illinois,Lake View,LAKE VIEW
+424303,Clark St & Wellington Ave,41.9365,-87.6475,Illinois,Lake View,LAKE VIEW
+424302,Lake Shore Dr & Wellington Ave,41.9367,-87.6368,Illinois,Lake View,LAKE VIEW
+410846,Wilton Ave & Belmont Ave,41.9402,-87.653,Illinois,Lake View,LAKE VIEW
+426190,Racine Ave & Belmont Ave,41.9397,-87.6589,Illinois,Lake View,LAKE VIEW
+422794,Ashland Ave & Belle Plaine Ave,41.9561,-87.6688,Illinois,Lake View,LAKE VIEW
+437861,Lake Shore Dr & Belmont Ave,41.9408,-87.6392,Illinois,Lake View,LAKE VIEW
+456314,Burling St (Halsted) & Diversey Pkwy (Temp),41.9331,-87.6478,Illinois,Lake View,LAKE VIEW
+453722,Broadway & Sheridan Rd,41.9528,-87.65,Illinois,Lake View,LAKE VIEW
+425575,Pine Grove Ave & Waveland Ave,41.9493,-87.6463,Illinois,Lake View,LAKE VIEW
+407391,Southport Ave & Wellington Ave,41.9357,-87.6636,Illinois,Lake View,LAKE VIEW
+402127,Ravenswood Ave & Berteau Ave,41.9579,-87.6736,Illinois,Lake View,LAKE VIEW
+445254,Southport Ave & Clark St,41.9571,-87.6642,Illinois,Lake View,LAKE VIEW
+428391,Ashland Ave & Grace St,41.9507,-87.6687,Illinois,Lake View,LAKE VIEW
+437545,Lincoln Ave & Addison St,41.9462,-87.6733,Illinois,Lake View,LAKE VIEW
+415060,Pine Grove Ave & Irving Park Rd,41.9544,-87.648,Illinois,Lake View,LAKE VIEW
+432087,Lincoln Ave & Roscoe St,41.9433,-87.671,Illinois,Lake View,LAKE VIEW
+417181,Clark St & Newport St,41.9445,-87.6547,Illinois,Lake View,LAKE VIEW
+439283,Clark St & Montrose Ave,41.9616,-87.666,Illinois,Lake View,LAKE VIEW
+428135,Greenview Ave & Diversey Pkwy,41.9326,-87.6659,Illinois,Lake View,LAKE VIEW
+416633,Paulina St & Montrose Ave,41.9615,-87.6714,Illinois,Lake View,LAKE VIEW
+2399166,W Oakdale Ave & N Broadway,41.94,-87.64,Illinois,Lake View,LAKE VIEW
+629308,Burling St & Diversey Pkwy,41.93314,-87.64776,Illinois,Lake View,LAKE VIEW
+5453057,N Sheffield Ave & W Wellington Ave,41.94,-87.65,Illinois,Lake View,LAKE VIEW
+5403775,N Southport Ave & W Newport Ave,41.94,-87.66,Illinois,Lake View,LAKE VIEW
+5400683,N Paulina St & Lincoln Ave,41.94,-87.67,Illinois,Lake View,LAKE VIEW
+4277356,DuSable Lake Shore Dr & Belmont Ave,41.940775,-87.639192,Illinois,Lake View,LAKE VIEW
+4882592,DuSable Lake Shore Dr & Wellington Ave,41.936688,-87.636829,Illinois,Lake View,LAKE VIEW
+12089578,Lincoln Ave & Roscoe St - Charging,41.9437912,-87.6712579,Illinois,Lake View,LAKE VIEW
+13674590,Lincoln Ave & Roscoe St*,41.9433755,-87.67088533333333,Illinois,Lake View,LAKE VIEW
+9562567,Lincoln Ave & Belmont Ave (Temp),41.939532,-87.671114,Illinois,Lake View,LAKE VIEW
+393077,California Ave & Altgeld St,41.9267,-87.6977,Illinois,Logan Square,LOGAN SQUARE
+473853,Kedzie Ave & Palmer Ct,41.9215,-87.7073,Illinois,Logan Square,LOGAN SQUARE
+439508,Kedzie Ave & Milwaukee Ave,41.9296,-87.7079,Illinois,Logan Square,LOGAN SQUARE
+445595,California Ave & Francis Pl (Temp),41.9185,-87.6974,Illinois,Logan Square,LOGAN SQUARE
+438203,Milwaukee Ave & Rockwell St,41.9202,-87.693,Illinois,Logan Square,LOGAN SQUARE
+416716,Spaulding Ave & Armitage Ave,41.9171,-87.7102,Illinois,Logan Square,LOGAN SQUARE
+413629,Campbell Ave & Fullerton Ave,41.9246,-87.6893,Illinois,Logan Square,LOGAN SQUARE
+398006,Humboldt Blvd & Armitage Ave,41.9175,-87.7018,Illinois,Logan Square,LOGAN SQUARE
+441593,California Ave & Milwaukee Ave,41.9227,-87.6972,Illinois,Logan Square,LOGAN SQUARE
+469032,Stave St & Armitage Ave,41.9177,-87.6914,Illinois,Logan Square,LOGAN SQUARE
+419328,Albany Ave & Bloomingdale Ave,41.914,-87.7051,Illinois,Logan Square,LOGAN SQUARE
+446660,Richmond St & Diversey Ave,41.9319,-87.7012,Illinois,Logan Square,LOGAN SQUARE
+405114,Drake Ave & Fullerton Ave,41.9244,-87.7154,Illinois,Logan Square,LOGAN SQUARE
+417449,Kosciuszko Park,41.9306,-87.7238,Illinois,Logan Square,LOGAN SQUARE
+434120,Central Park Ave & Bloomingdale Ave,41.9142,-87.7168,Illinois,Logan Square,LOGAN SQUARE
+2980588,St. Louis Ave & Fullerton Ave,41.924815,-87.714495,Illinois,Logan Square,LOGAN SQUARE
+3261714,Kenosha & Wellington,41.93,-87.73,Illinois,Logan Square,LOGAN SQUARE
+6630372,Milwaukee Ave & Fullerton Ave,41.92,-87.7,Illinois,Logan Square,LOGAN SQUARE
+5221344,Elston Ave & George St,41.93,-87.69,Illinois,Logan Square,LOGAN SQUARE
+5320736,Kedzie Ave & George St,41.93,-87.71,Illinois,Logan Square,LOGAN SQUARE
+10081721,Milwaukee Ave & Diversey Ave,41.93,-87.71,Illinois,Logan Square,LOGAN SQUARE
+9544916,Lawndale Ave & Diversey Ave,41.93,-87.72,Illinois,Logan Square,LOGAN SQUARE
+10097884,Mozart Elementary School,41.92,-87.72,Illinois,Logan Square,LOGAN SQUARE
+9597139,Hamlin Ave & Fullerton Ave,41.92,-87.72,Illinois,Logan Square,LOGAN SQUARE
+10439427,Public Rack - Milwaukee Ave & Diversey Ave,41.93,-87.71,Illinois,Logan Square,LOGAN SQUARE
+10360678,Public Rack - Lawndale Ave & Diversey Ave,41.93,-87.72,Illinois,Logan Square,LOGAN SQUARE
+10768301,Public Rack - Mozart Elementary School,41.92,-87.72,Illinois,Logan Square,LOGAN SQUARE
+10720375,Public Rack - Hamlin Ave & Fullerton Ave,41.92,-87.72,Illinois,Logan Square,LOGAN SQUARE
+456399,Blue Island Ave & 18th St,41.8576,-87.6615,Illinois,Lower West Side,LOWER WEST SIDE
+400429,Damen Ave & Cullerton St,41.855,-87.6757,Illinois,Lower West Side,LOWER WEST SIDE
+465031,Morgan St & 18th St,41.8581,-87.6511,Illinois,Lower West Side,LOWER WEST SIDE
+398291,Racine Ave & 18th St,41.8582,-87.6565,Illinois,Lower West Side,LOWER WEST SIDE
+473171,Laflin St & Cullerton St,41.8549,-87.6636,Illinois,Lower West Side,LOWER WEST SIDE
+442723,Paulina St & 18th St,41.8579,-87.6687,Illinois,Lower West Side,LOWER WEST SIDE
+472168,Western Ave & 21st St,41.8541,-87.6858,Illinois,Lower West Side,LOWER WEST SIDE
+415923,Clinton St & 18th St,41.858,-87.6408,Illinois,Lower West Side,LOWER WEST SIDE
+399342,Western Ave & 24th St,41.8485,-87.6851,Illinois,Lower West Side,LOWER WEST SIDE
+396942,Western Ave & 28th St,41.8415,-87.6851,Illinois,Lower West Side,LOWER WEST SIDE
+414197,Ashland Ave & Archer Ave,41.8392,-87.6656,Illinois,Lower West Side,LOWER WEST SIDE
+427082,Halsted St & 21st St,41.8538,-87.6466,Illinois,Lower West Side,LOWER WEST SIDE
+446662,Halsted St & 18th St,41.8575,-87.6463,Illinois,Lower West Side,LOWER WEST SIDE
+451150,May St & Cullerton St,41.8551,-87.6541,Illinois,Lower West Side,LOWER WEST SIDE
+456369,Damen Ave & Coulter St,41.8492,-87.6756,Illinois,Lower West Side,LOWER WEST SIDE
+5830170,Western & 28th - Velasquez Institute Vaccination Site,41.84151770807,-87.6851314409,Illinois,Lower West Side,LOWER WEST SIDE
+4425120,Halsted St & 18th St (Temp),41.858371,-87.646388,Illinois,Lower West Side,LOWER WEST SIDE
+5136529,Throop/Hastings Mobile Station,41.851560473,-87.659110785,Illinois,Lower West Side,LOWER WEST SIDE
+462248,Clark St & Elm St,41.903,-87.6313,Illinois,Rush & Division,RUSH & DIVISION
+399227,Dearborn Pkwy & Delaware Pl,41.899,-87.6299,Illinois,Rush & Division,RUSH & DIVISION
+412640,Rush St & Superior St,41.8958,-87.6259,Illinois,Rush & Division,RUSH & DIVISION
+473090,Clark St & Chicago Ave,41.8968,-87.6309,Illinois,Rush & Division,RUSH & DIVISION
+431394,State St & Pearson St,41.8974,-87.6287,Illinois,Rush & Division,RUSH & DIVISION
+1000832,N Clark St & W Elm St,41.9,-87.63,Illinois,Rush & Division,RUSH & DIVISION
+5673908,State St & Chicago Ave,41.89666233333333,-87.628693,Illinois,Rush & Division,RUSH & DIVISION
+441219,May St & Taylor St,41.8695,-87.6555,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+445335,Ogden Ave & Congress Pkwy,41.875,-87.6733,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+419031,Paulina St & Flournoy St,41.873,-87.6691,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+402605,Morgan Ave & 14th Pl,41.8624,-87.6511,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+458623,Loomis St & Lexington St,41.8722,-87.6615,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+434432,Western Ave & Fillmore St (*),41.8686,-87.6862,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+466768,Racine Ave & Congress Pkwy,41.8746,-87.657,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+463038,Throop (Loomis) St & Taylor St,41.869,-87.6591,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+442268,Morgan St & Polk St,41.8717,-87.651,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+393858,Wolcott Ave & Polk St,41.8713,-87.6737,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+472863,Ogden Ave & Roosevelt Rd,41.8665,-87.6847,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+450009,Ashland Ave & 13th St,41.8652,-87.6665,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+442724,Wood St & Taylor St,41.8692,-87.671,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+437569,Halsted St & Polk St,41.8718,-87.6466,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+415001,Western Ave & Congress Pkwy,41.8747,-87.6864,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+470956,900 W Harrison St,41.8748,-87.6498,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+399001,Hermitage Ave & Polk St,41.8715,-87.6699,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+410623,Racine Ave & 13th St,41.8651,-87.657,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+446560,Halsted St & Maxwell St,41.8649,-87.6471,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+397273,Halsted St & Roosevelt Rd,41.8673,-87.6486,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+441785,Racine Ave & 15th St,41.8613,-87.6566,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+1657945,Western Ave & Fillmore St,41.868563,-87.686234,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+578577,Wood St & Taylor St (Temp),41.869265,-87.673731,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+600158,Throop St & Taylor St,41.868968,-87.659141,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+5329335,Washtenaw Ave & Polk St,41.87,-87.69,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+12067614,Hastings WH 2,41.863533139,-87.679664254,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+12352441,Loomis St & Lexington St*,41.8722165,-87.66150466666667,Illinois,"Little Italy, UIC","LITTLE ITALY, UIC"
+433765,Sheridan Rd & Buena Ave,41.9585,-87.655,Illinois,Uptown,UPTOWN
+431603,Broadway & Wilson Ave,41.9652,-87.6581,Illinois,Uptown,UPTOWN
+463288,Clarendon Ave & Gordon Ter,41.9579,-87.6495,Illinois,Uptown,UPTOWN
+407828,Broadway & Argyle St,41.9738,-87.6597,Illinois,Uptown,UPTOWN
+448550,Clark St & Leland Ave,41.9671,-87.6674,Illinois,Uptown,UPTOWN
+403486,Clark St & Winnemac Ave,41.9733,-87.6678,Illinois,Uptown,UPTOWN
+430909,Sheridan Rd & Montrose Ave,41.9617,-87.6546,Illinois,Uptown,UPTOWN
+438934,Clarendon Ave & Junior Ter,41.961,-87.6496,Illinois,Uptown,UPTOWN
+467455,Marine Dr & Ainslie St,41.9716,-87.6502,Illinois,Uptown,UPTOWN
+451773,Winthrop Ave & Lawrence Ave,41.9688,-87.6577,Illinois,Uptown,UPTOWN
+417603,Sheridan Rd & Lawrence Ave,41.9695,-87.6547,Illinois,Uptown,UPTOWN
+424864,Clarendon Ave & Leland Ave,41.968,-87.65,Illinois,Uptown,UPTOWN
+415657,Lakefront Trail & Wilson Ave,41.9658,-87.6454,Illinois,Uptown,UPTOWN
+1955694,Montrose Harbor,41.964,-87.6382,Illinois,Uptown,UPTOWN
+5459734,Broadway & Wilson - Truman College Vaccination Site,41.965221,-87.658139,Illinois,Uptown,UPTOWN
+12652432,Sheridan Rd & Argyle St,41.973287,-87.65476,Illinois,Uptown,UPTOWN
+395560,Emerald Ave & 28th St,41.8436,-87.6454,Illinois,Bridgeport,BRIDGEPORT
+449519,Halsted St & 37th St,41.8271,-87.6457,Illinois,Bridgeport,BRIDGEPORT
+429277,Wallace St & 35th St,41.8306,-87.6413,Illinois,Bridgeport,BRIDGEPORT
+429278,Emerald Ave & 31st St,41.8382,-87.6451,Illinois,Bridgeport,BRIDGEPORT
+396201,Morgan St & Pershing Rd,41.8236,-87.6509,Illinois,Bridgeport,BRIDGEPORT
+468781,Halsted St & 35th St,41.8307,-87.6472,Illinois,Bridgeport,BRIDGEPORT
+406376,Racine Ave & 35th St,41.8307,-87.656,Illinois,Bridgeport,BRIDGEPORT
+395951,Morgan St & 31st St,41.8378,-87.6511,Illinois,Bridgeport,BRIDGEPORT
+410972,Loomis St & Archer Ave,41.8416,-87.6574,Illinois,Bridgeport,BRIDGEPORT
+439384,Halsted St & Archer Ave,41.8472,-87.6468,Illinois,Bridgeport,BRIDGEPORT
+404563,Rush St & Cedar St,41.9023,-87.6277,Illinois,Gold Coast,GOLD COAST
+448125,Clark St & Schiller St,41.908,-87.6315,Illinois,Gold Coast,GOLD COAST
+399259,Michigan Ave & Oak St,41.901,-87.6238,Illinois,Gold Coast,GOLD COAST
+395417,Ritchie Ct & Banks St,41.9069,-87.6262,Illinois,Gold Coast,GOLD COAST
+412624,Sheffield Ave & Webster Ave,41.9215,-87.6538,Illinois,Lincoln Park,LINCOLN PARK
+449017,Larrabee St & Webster Ave,41.9218,-87.6441,Illinois,Lincoln Park,LINCOLN PARK
+453652,Halsted St & Dickens Ave,41.9199,-87.6488,Illinois,Lincoln Park,LINCOLN PARK
+435244,Southport Ave & Clybourn Ave,41.9208,-87.6637,Illinois,Lincoln Park,LINCOLN PARK
+449203,Clifton Ave & Armitage Ave,41.9182,-87.6569,Illinois,Lincoln Park,LINCOLN PARK
+473465,Sheffield Ave & Willow St,41.9137,-87.6529,Illinois,Lincoln Park,LINCOLN PARK
+398396,Ashland Ave & Wrightwood Ave,41.9288,-87.6685,Illinois,Lincoln Park,LINCOLN PARK
+421581,Lake Shore Dr & Diversey Pkwy,41.9326,-87.6364,Illinois,Lincoln Park,LINCOLN PARK
+456417,Clark St & Drummond Pl,41.9312,-87.6443,Illinois,Lincoln Park,LINCOLN PARK
+391951,Lincoln Park Conservatory,41.9239,-87.6358,Illinois,Lincoln Park,LINCOLN PARK
+456418,Bissell St & Armitage Ave,41.9184,-87.6522,Illinois,Lincoln Park,LINCOLN PARK
+403197,Racine Ave & Wrightwood Ave,41.9289,-87.659,Illinois,Lincoln Park,LINCOLN PARK
+422418,Clark St & Wrightwood Ave,41.9295,-87.6431,Illinois,Lincoln Park,LINCOLN PARK
+464730,Halsted St & Willow St,41.9139,-87.6488,Illinois,Lincoln Park,LINCOLN PARK
+412435,Stockton Dr & Wrightwood Ave,41.9313,-87.6387,Illinois,Lincoln Park,LINCOLN PARK
+475296,Lakeview Ave & Fullerton Pkwy,41.9259,-87.639,Illinois,Lincoln Park,LINCOLN PARK
+463965,Southport Ave & Wrightwood Ave,41.9288,-87.6639,Illinois,Lincoln Park,LINCOLN PARK
+407389,Damen Ave & Clybourn Ave,41.9319,-87.6779,Illinois,Lincoln Park,LINCOLN PARK
+465936,Greenview Ave & Fullerton Ave,41.9253,-87.6658,Illinois,Lincoln Park,LINCOLN PARK
+410498,Lake Shore Dr & North Blvd,41.9117,-87.6268,Illinois,Lincoln Park,LINCOLN PARK
+466452,Clark St & North Ave,41.912,-87.6319,Illinois,Lincoln Park,LINCOLN PARK
+401324,Sedgwick St & Webster Ave,41.9222,-87.6389,Illinois,Lincoln Park,LINCOLN PARK
+402042,Cannon Dr & Fullerton Ave,41.9268,-87.6344,Illinois,Lincoln Park,LINCOLN PARK
+433611,Theater on the Lake,41.9263,-87.6308,Illinois,Lincoln Park,LINCOLN PARK
+2288335,W Armitage Ave & N Sheffield Ave,41.92,-87.65,Illinois,Lincoln Park,LINCOLN PARK
+5901677,N Hampden Ct & W Diversey Ave,41.93,-87.64,Illinois,Lincoln Park,LINCOLN PARK
+3922586,Hampden Ct & Diversey Ave,41.93,-87.64,Illinois,Lincoln Park,LINCOLN PARK
+4850201,DuSable Lake Shore Dr & North Blvd,41.911722,-87.626804,Illinois,Lincoln Park,LINCOLN PARK
+4465354,DuSable Lake Shore Dr & Diversey Pkwy,41.932588,-87.636427,Illinois,Lincoln Park,LINCOLN PARK
+11522898,Bissell St & Armitage Ave - Charging,41.918018,-87.652183,Illinois,Lincoln Park,LINCOLN PARK
+13462930,Bissell St & Armitage Ave*,41.91841866666667,-87.65218316666666,Illinois,Lincoln Park,LINCOLN PARK
+470060,Canal St & Taylor St,41.8703,-87.6395,Illinois,West Loop,WEST LOOP
+451550,Canal St & Monroe St,41.8817,-87.6395,Illinois,West Loop,WEST LOOP
+440227,Canal St & Madison St,41.8821,-87.6398,Illinois,West Loop,WEST LOOP
+433079,Clinton St & Madison St,41.8822,-87.6411,Illinois,West Loop,WEST LOOP
+470341,Aberdeen St & Monroe St,41.8804,-87.6555,Illinois,West Loop,WEST LOOP
+433908,Clinton St & Washington Blvd,41.8834,-87.6412,Illinois,West Loop,WEST LOOP
+417856,Peoria St & Jackson Blvd,41.8776,-87.6496,Illinois,West Loop,WEST LOOP
+439600,Morgan St & Lake St,41.8855,-87.6523,Illinois,West Loop,WEST LOOP
+458188,Canal St & Adams St,41.8793,-87.6399,Illinois,West Loop,WEST LOOP
+456221,Desplaines St & Jackson Blvd,41.8783,-87.6439,Illinois,West Loop,WEST LOOP
+445435,Canal St & Jackson Blvd,41.8772,-87.6394,Illinois,West Loop,WEST LOOP
+449138,Jefferson St & Monroe St,41.8804,-87.6427,Illinois,West Loop,WEST LOOP
+404383,Sangamon St & Washington Blvd,41.8832,-87.6511,Illinois,West Loop,WEST LOOP
+413808,Green St & Randolph St,41.8837,-87.6487,Illinois,West Loop,WEST LOOP
+410622,Loomis St & Jackson Blvd,41.8779,-87.662,Illinois,West Loop,WEST LOOP
+391430,Green St & Madison St,41.8819,-87.6488,Illinois,West Loop,WEST LOOP
+446332,Racine Ave & Washington Blvd (*),41.8831,-87.657,Illinois,West Loop,WEST LOOP
+472169,Clinton St & Roosevelt Rd,41.8671,-87.6411,Illinois,West Loop,WEST LOOP
+439323,Racine Ave & Randolph St,41.8841,-87.6569,Illinois,West Loop,WEST LOOP
+391950,Clinton St & Jackson Blvd,41.8781,-87.6398,Illinois,West Loop,WEST LOOP
+432683,Clinton St & Lake St,41.8856,-87.6418,Illinois,West Loop,WEST LOOP
+420047,Ada St & Washington Blvd,41.8828,-87.6612,Illinois,West Loop,WEST LOOP
+455981,Aberdeen St & Randolph St,41.8841,-87.6543,Illinois,West Loop,WEST LOOP
+470061,Canal St & Harrison St,41.8743,-87.6396,Illinois,West Loop,WEST LOOP
+442363,Aberdeen St & Jackson Blvd,41.8777,-87.6548,Illinois,West Loop,WEST LOOP
+408196,Desplaines St & Randolph St,41.8846,-87.6446,Illinois,West Loop,WEST LOOP
+448517,Elizabeth (May) St & Fulton St,41.8866,-87.658,Illinois,West Loop,WEST LOOP
+462290,Clinton St & Tilden St,41.8759,-87.6408,Illinois,West Loop,WEST LOOP
+431561,Clinton St & Polk St,41.8715,-87.6409,Illinois,West Loop,WEST LOOP
+1573068,Racine Ave & Washington Blvd,41.883073,-87.656952,Illinois,West Loop,WEST LOOP
+5425667,W Washington Blvd & N Peoria St,41.88,-87.65,Illinois,West Loop,WEST LOOP
+13429602,Morgan St & Lake St*,41.88549170626906,-87.65228927135468,Illinois,West Loop,WEST LOOP
+13448001,Green St & Randolph St*,41.883601657275165,-87.64862671494483,Illinois,West Loop,WEST LOOP
+13225910,Sangamon St & Lake St,41.88601416666667,-87.65107433333333,Illinois,West Loop,WEST LOOP
+12596036,Green St & Washington Blvd,41.88325116666667,-87.64876133333334,Illinois,West Loop,WEST LOOP
+14274634,Elizabeth St & Fulton St,41.886711,-87.659657,Illinois,West Loop,WEST LOOP
+12144470,Green St & Madison Ave*,41.881838441,-87.648972154,Illinois,West Loop,WEST LOOP
+457653,Warren Park East,42.0046,-87.6807,Illinois,West Ridge,WEST RIDGE
+411304,Western Ave & Lunt Ave,42.0086,-87.6905,Illinois,West Ridge,WEST RIDGE
+407392,Western Ave & Howard St,42.0189,-87.69,Illinois,West Ridge,WEST RIDGE
+407390,Western Ave & Granville Ave,41.9942,-87.6894,Illinois,West Ridge,WEST RIDGE
+396550,2112 W Peterson Ave,41.9912,-87.6836,Illinois,West Ridge,WEST RIDGE
+463730,Oakley Ave & Touhy Ave,42.0123,-87.6882,Illinois,West Ridge,WEST RIDGE
+463729,Warren Park West,42.0018,-87.6888,Illinois,West Ridge,WEST RIDGE
+449115,Budlong Woods Library,41.9837,-87.6964,Illinois,West Ridge,WEST RIDGE
+432412,Maplewood Ave & Peterson Ave,41.9902,-87.6934,Illinois,West Ridge,WEST RIDGE
+5128333,Richmond St & Lincoln Ave,41.99,-87.7,Illinois,West Ridge,WEST RIDGE
+5325583,Washtenaw Ave & Peterson Ave,41.99,-87.7,Illinois,West Ridge,WEST RIDGE
+5228562,Western Ave & Ardmore Ave,41.99,-87.69,Illinois,West Ridge,WEST RIDGE
+9633150,Chase Ave & Touhy Ave - NE,42.01,-87.69,Illinois,West Ridge,WEST RIDGE
+10122639,California Ave & Touhy Ave - NW,42.01,-87.7,Illinois,West Ridge,WEST RIDGE
+9643348,Chase Ave & Touhy Ave - NW,42.01,-87.69,Illinois,West Ridge,WEST RIDGE
+10095319,Sacramento Ave & Greenleaf Ave,42.01,-87.7,Illinois,West Ridge,WEST RIDGE
+10094453,Sacramento Ave & Devon Ave,42.0,-87.7,Illinois,West Ridge,WEST RIDGE
+9571973,California Ave & Devon Ave - NW,42.0,-87.7,Illinois,West Ridge,WEST RIDGE
+10064208,Rockwell Ave & Touhy Ave ,42.01,-87.7,Illinois,West Ridge,WEST RIDGE
+10083854,California Ave & Devon Ave - NE,42.0,-87.7,Illinois,West Ridge,WEST RIDGE
+10686493,California Ave & Touhy Ave - SW,42.01,-87.7,Illinois,West Ridge,WEST RIDGE
+10698094,Public Rack - Washtenaw Ave & Devon Ave,42.0,-87.7,Illinois,West Ridge,WEST RIDGE
+10279663,Public Rack - Western Ave & Devon Ave,42.0,-87.69,Illinois,West Ridge,WEST RIDGE
+10735497,Public Rack - Rockwell Ave & Touhy Ave ,42.01,-87.7,Illinois,West Ridge,WEST RIDGE
+10432272,Public Rack - California Ave & Touhy Ave - NW,42.01,-87.7,Illinois,West Ridge,WEST RIDGE
+10360745,Public Rack - Chase Ave & Touhy Ave - NE,42.01,-87.69,Illinois,West Ridge,WEST RIDGE
+10815727,Public Rack - Chase Ave & Touhy Ave - NW,42.01,-87.69,Illinois,West Ridge,WEST RIDGE
+10734677,Public Rack - Campbell Ave & Pratt Blvd,42.01,-87.69,Illinois,West Ridge,WEST RIDGE
+10341726,Public Rack - Sacramento Ave & Devon Ave,42.0,-87.7,Illinois,West Ridge,WEST RIDGE
+10339437,Public Rack - California Ave & Devon Ave - NW,42.0,-87.7,Illinois,West Ridge,WEST RIDGE
+10355119,Public Rack - Sacramento Ave & Greenleaf Ave,42.01,-87.7,Illinois,West Ridge,WEST RIDGE
+10656429,Public Rack - California Ave & Devon Ave - NE,42.0,-87.7,Illinois,West Ridge,WEST RIDGE
+9022729,Public Rack - Richmond St & Thorndale Ave,41.99,-87.7,Illinois,West Ridge,WEST RIDGE
+9209698,Public Rack - California Ave & Touhy Ave - SW,42.01,-87.7,Illinois,West Ridge,WEST RIDGE
+9468386,Public Rack - California Ave & Touhy Ave - midblock,42.01,-87.7,Illinois,West Ridge,WEST RIDGE
+8920182,Public Rack - Francisco Ave & Touhy Ave,42.01,-87.7,Illinois,West Ridge,WEST RIDGE
+432519,Desplaines St & Kinzie St,41.8887,-87.6444,Illinois,West Town,"WICKER PARK,WEST TOWN"
+401942,Eckhart Park,41.8964,-87.661,Illinois,West Town,"WICKER PARK,WEST TOWN"
+407751,Damen Ave & Chicago Ave,41.8958,-87.6772,Illinois,West Town,"WICKER PARK,WEST TOWN"
+431815,Damen Ave & Grand Ave,41.8912,-87.6769,Illinois,West Town,"WICKER PARK,WEST TOWN"
+428099,Carpenter St & Huron St,41.8946,-87.6534,Illinois,West Town,"WICKER PARK,WEST TOWN"
+435767,Milwaukee Ave & Grand Ave,41.8916,-87.6484,Illinois,West Town,"WICKER PARK,WEST TOWN"
+391429,Ogden Ave & Race Ave,41.8918,-87.6588,Illinois,West Town,"WICKER PARK,WEST TOWN"
+447806,Wood St & Hubbard St,41.8899,-87.6715,Illinois,West Town,"WICKER PARK,WEST TOWN"
+443396,Noble St & Milwaukee Ave,41.9007,-87.6626,Illinois,West Town,"WICKER PARK,WEST TOWN"
+412958,Ashland Ave & Blackhawk St,41.9071,-87.6673,Illinois,West Town,"WICKER PARK,WEST TOWN"
+456929,Ogden Ave & Chicago Ave,41.8964,-87.6541,Illinois,West Town,"WICKER PARK,WEST TOWN"
+396360,Wood St & Chicago Ave (*),41.8956,-87.6721,Illinois,West Town,"WICKER PARK,WEST TOWN"
+473972,Ashland Ave & Chicago Ave,41.896,-87.6677,Illinois,West Town,"WICKER PARK,WEST TOWN"
+450463,Leavitt St & Chicago Ave,41.8955,-87.682,Illinois,West Town,"WICKER PARK,WEST TOWN"
+451110,Artesian Ave & Hubbard St,41.8895,-87.6882,Illinois,West Town,"WICKER PARK,WEST TOWN"
+421273,Ashland Ave & Grand Ave,41.8911,-87.6666,Illinois,West Town,"WICKER PARK,WEST TOWN"
+432969,Elston Ave & Wabansia Ave,41.9129,-87.6642,Illinois,West Town,"WICKER PARK,WEST TOWN"
+439920,Smith Park (*),41.892,-87.6894,Illinois,West Town,"WICKER PARK,WEST TOWN"
+438396,HUBBARD ST BIKE CHECKING (LBS-WH-TEST),41.89,-87.6807,Illinois,West Town,"WICKER PARK,WEST TOWN"
+1684603,Wood St & Chicago Ave,41.895634,-87.672069,Illinois,West Town,"WICKER PARK,WEST TOWN"
+1235556,Smith Park,41.892048,-87.689397,Illinois,West Town,"WICKER PARK,WEST TOWN"
+1137770,hubbard_test_lws,41.89,-87.68,Illinois,West Town,"WICKER PARK,WEST TOWN"
+360506,Base - 2132 W Hubbard Warehouse,41.889961,-87.680255,Illinois,West Town,"WICKER PARK,WEST TOWN"
+360812,N Green St & W Lake St,41.89,-87.65,Illinois,West Town,"WICKER PARK,WEST TOWN"
+5483546,N Carpenter St & W Lake St,41.89,-87.65,Illinois,West Town,"WICKER PARK,WEST TOWN"
+6996748,Lyft Driver Center Private Rack,41.9,-87.66,Illinois,West Town,"WICKER PARK,WEST TOWN"
+10090959,Base - 2132 W Hubbard,41.890058875,-87.680146575,Illinois,West Town,"WICKER PARK,WEST TOWN"
+9791838,MTV Hubbard St,41.89,-87.68,Illinois,West Town,"WICKER PARK,WEST TOWN"
+13816508,Public Rack - Washtenaw Ave & Superior St,41.89,-87.69,Illinois,West Town,"WICKER PARK,WEST TOWN"
+475315,Kimbark Ave & 53rd St,41.7996,-87.5947,Illinois,Hyde Park,HYDE PARK
+465415,Harper Ave & 59th St,41.7879,-87.5883,Illinois,Hyde Park,HYDE PARK
+453874,Shore Dr & 55th St,41.7952,-87.5807,Illinois,Hyde Park,HYDE PARK
+403802,Cornell Ave & Hyde Park Blvd,41.8024,-87.5869,Illinois,Hyde Park,HYDE PARK
+448922,Lake Park Ave & 56th St,41.7932,-87.5878,Illinois,Hyde Park,HYDE PARK
+423028,Ellis Ave & 53rd St,41.7993,-87.601,Illinois,Hyde Park,HYDE PARK
+415181,Ellis Ave & 58th St,41.7887,-87.6013,Illinois,Hyde Park,HYDE PARK
+393658,Lake Park Ave & 53rd St,41.7995,-87.5864,Illinois,Hyde Park,HYDE PARK
+475314,University Ave & 57th St,41.7915,-87.5999,Illinois,Hyde Park,HYDE PARK
+414163,Ellis Ave & 55th St,41.7943,-87.6015,Illinois,Hyde Park,HYDE PARK
+439040,Woodlawn Ave & 55th St,41.7953,-87.5965,Illinois,Hyde Park,HYDE PARK
+9503782,Harold Washington Park,41.8,-87.59,Illinois,Hyde Park,HYDE PARK
+429297,Damen Ave & Foster Ave,41.9756,-87.6795,Illinois,Lincoln Square,LINCOLN SQUARE
+441304,Damen Ave & Sunnyside Ave,41.9633,-87.6793,Illinois,Lincoln Square,LINCOLN SQUARE
+436978,Rockwell St & Eastwood Ave,41.9659,-87.6936,Illinois,Lincoln Square,LINCOLN SQUARE
+407394,Winchester (Ravenswood) Ave & Balmoral Ave,41.9798,-87.6775,Illinois,Lincoln Square,LINCOLN SQUARE
+422533,Damen Ave & Leland Ave,41.9671,-87.679,Illinois,Lincoln Square,LINCOLN SQUARE
+403137,Washtenaw Ave & Lawrence Ave,41.969,-87.696,Illinois,Lincoln Square,LINCOLN SQUARE
+450751,Hoyne Ave & Balmoral Ave,41.9799,-87.6819,Illinois,Lincoln Square,LINCOLN SQUARE
+455231,Leavitt St & Lawrence Ave,41.9689,-87.684,Illinois,Lincoln Square,LINCOLN SQUARE
+446676,Campbell Ave & Montrose Ave,41.9615,-87.6912,Illinois,Lincoln Square,LINCOLN SQUARE
+396334,Ravenswood Ave & Lawrence Ave,41.9691,-87.6742,Illinois,Lincoln Square,LINCOLN SQUARE
+434857,Lincoln Ave & Sunnyside Ave,41.963,-87.6848,Illinois,Lincoln Square,LINCOLN SQUARE
+451096,Western Ave & Leland Ave,41.9665,-87.6884,Illinois,Lincoln Square,LINCOLN SQUARE
+397605,Lincoln Ave & Winona St,41.9749,-87.6925,Illinois,Lincoln Square,LINCOLN SQUARE
+460540,Francisco Ave & Foster Ave,41.9756,-87.7014,Illinois,Lincoln Square,LINCOLN SQUARE
+6035445,Western Ave & Gunnison St,41.97,-87.69,Illinois,Lincoln Square,LINCOLN SQUARE
+6369782,Lincoln Ave & Balmoral Ave,41.98,-87.69,Illinois,Lincoln Square,LINCOLN SQUARE
+5036365,California Ave & Winona St,41.97,-87.7,Illinois,Lincoln Square,LINCOLN SQUARE
+5203821,Francisco Ave & Hollywood Ave,41.98,-87.7,Illinois,Lincoln Square,LINCOLN SQUARE
+5051048,N Shore Channel Trail & Argyle Ave,41.97,-87.7,Illinois,Lincoln Square,LINCOLN SQUARE
+12014091,N Shore Channel Trail & Argyle St,41.97,-87.7,Illinois,Lincoln Square,LINCOLN SQUARE
+11393169,Campbell Ave & Montrose Ave (Temp),41.961572,-87.693536,Illinois,Lincoln Square,LINCOLN SQUARE
+472461,State St & 29th St,41.8417,-87.6269,Illinois,Douglas,BRONZEVILLE
+436388,Lake Park Ave & 35th St,41.8313,-87.6088,Illinois,Douglas,BRONZEVILLE
+418356,Indiana Ave & 31st St,41.8388,-87.6219,Illinois,Douglas,BRONZEVILLE
+423026,Calumet Ave & 33rd St,41.8349,-87.6179,Illinois,Douglas,BRONZEVILLE
+445787,Calumet Ave & 35th St,41.8314,-87.618,Illinois,Douglas,BRONZEVILLE
+465193,State St & 35th St,41.8309,-87.628,Illinois,Douglas,BRONZEVILLE
+433972,State St & 33rd St,41.8347,-87.6258,Illinois,Douglas,BRONZEVILLE
+429234,Rhodes Ave & 32nd St,41.8362,-87.6135,Illinois,Douglas,BRONZEVILLE
+424084,MLK Jr Dr & 29th St,41.8421,-87.617,Illinois,Douglas,BRONZEVILLE
+398873,MLK Jr Dr & Pershing Rd,41.8246,-87.6168,Illinois,Douglas,BRONZEVILLE
+424162,Fort Dearborn Dr & 31st St,41.8386,-87.6082,Illinois,Douglas,BRONZEVILLE
+419269,Western Ave & Winnebago Ave,41.9155,-87.687,Illinois,Bucktown,BUCKTOWN
+392524,Walsh Park,41.9146,-87.668,Illinois,Bucktown,BUCKTOWN
+401872,Damen Ave & Charleston St,41.9201,-87.6779,Illinois,Bucktown,BUCKTOWN
+441295,Marshfield Ave & Cortland St,41.916,-87.6689,Illinois,Bucktown,BUCKTOWN
+427293,Logan Blvd & Elston Ave,41.9295,-87.6842,Illinois,Bucktown,BUCKTOWN
+408744,Damen Ave & Cortland St,41.916,-87.6773,Illinois,Bucktown,BUCKTOWN
+448215,Winchester Ave & Elston Ave,41.9241,-87.6765,Illinois,Bucktown,BUCKTOWN
+441053,Leavitt St & Armitage Ave,41.9178,-87.6824,Illinois,Bucktown,BUCKTOWN
+8375464,Elston Ave & Cortland St,41.916433,-87.666746,Illinois,Bucktown,BUCKTOWN
+12917795,Wood St & Webster Ave,41.921072721,-87.672789335,Illinois,Bucktown,BUCKTOWN
+470494,Broadway & Ridge Ave,41.984,-87.6603,Illinois,Edgewater,EDGEWATER
+430026,Clark St & Elmdale Ave,41.9905,-87.6698,Illinois,Edgewater,EDGEWATER
+445097,Broadway & Granville Ave,41.9948,-87.6603,Illinois,Edgewater,EDGEWATER
+414893,Broadway & Berwyn Ave,41.9784,-87.6598,Illinois,Edgewater,EDGEWATER
+459039,Broadway & Thorndale Ave,41.9897,-87.6601,Illinois,Edgewater,EDGEWATER
+430922,Clark St & Bryn Mawr Ave,41.9836,-87.6692,Illinois,Edgewater,EDGEWATER
+464934,Lakefront Trail & Bryn Mawr Ave,41.984,-87.6523,Illinois,Edgewater,EDGEWATER
+467145,California Ave & Montrose Ave,41.9611,-87.6954,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+435801,Bernard St & Elston Ave,41.9499,-87.7139,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+469001,Kilbourn Ave & Milwaukee Ave,41.9488,-87.74,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+411342,Pulaski Rd & Eddy St (Temp),41.9463,-87.731,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+433653,Albany Ave & Montrose Ave,41.961,-87.7059,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+435802,Drake Ave & Addison St,41.9473,-87.7176,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+445865,Kilbourn Ave & Irving Park Rd,41.9537,-87.7406,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+409770,California Ave & Byron St,41.9522,-87.6981,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+436815,Monticello Ave & Irving Park Rd,41.954,-87.7191,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+435740,Sawyer Ave & Irving Park Rd,41.9536,-87.7093,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+424580,Kildare Ave & Montrose Ave,41.9611,-87.7357,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+406638,Knox Ave & Montrose Ave,41.9606,-87.7454,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+463386,Avondale Ave & Irving Park Rd,41.9534,-87.732,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+8008306,Kilbourn & Roscoe,41.94,-87.74,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+6643318,Troy St & Grace St,41.95,-87.71,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+6639411,Whipple St & Irving Park Rd,41.95,-87.7,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+5282037,Francisco Ave & Montrose Ave,41.96,-87.7,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+5055051,Whipple/Irving Park,41.95,-87.7,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+5328509,Sacramento Blvd & Addison St,41.95,-87.7,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+9746956,Hamlin Ave & Montrose Ave,41.96,-87.72,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10091234,Milwaukee Ave & Addison St,41.95,-87.74,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10086245,Avers Ave & Irving Park Rd,41.95,-87.72,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10076077,Kedvale Ave & Avondale Ave,41.95,-87.73,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10080565,Milwaukee Ave & School St,41.94,-87.73,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+9736265,Keystone Ave & Irving Park Rd,41.95,-87.73,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+9746173,Jonathan Y Scammon Public School,41.94,-87.73,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10051512,Avondale Ave & Addison St,41.95,-87.72,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10078451,Milwaukee Ave & Waveland Ave,41.95,-87.74,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10095647,Karlov Ave & Milwaukee Ave,41.94,-87.73,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10042429,St Louis Ave & Berteau Ave,41.96,-87.72,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10097055,Kedvale Ave & Addison St,41.95,-87.73,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10501480,Public Rack - Jensen Park,41.96,-87.72,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10692361,Public Rack - Karlov Ave & Milwaukee Ave,41.94,-87.73,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10478699,Public Rack - St Louis Ave & Berteau Ave,41.96,-87.72,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10493494,Public Rack - Avers Ave & Irving Park Rd,41.95,-87.72,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10579678,Public Rack - Kedvale Ave & Avondale Ave,41.95,-87.73,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10507549,Public Rack - Milwaukee Ave & Addison St,41.95,-87.74,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10352396,Public Rack - Jonathan Y Scammon Public School,41.94,-87.73,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10719772,Public Rack - Kedvale Ave & Addison St,41.95,-87.73,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10873292,Public Rack - Hamlin Ave & Montrose Ave,41.96,-87.72,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10345253,Public Rack - Keystone Ave & Irving Park Rd,41.95,-87.73,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10523364,Public Rack - Milwaukee Ave & School St,41.94,-87.73,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+10254351,Public Rack - Avondale Ave & Addison St,41.95,-87.72,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+13140373,Public Rack - Milwaukee Ave & Waveland Ave,41.95,-87.74,Illinois,Irving Park,"IRVING PARK,AVONDALE"
+429848,Lincoln Ave & Fullerton Ave,41.9259,-87.6493,Illinois,Sheffield & DePaul,SHEFFIELD & DEPAUL
+443187,Sheffield Ave & Wrightwood Ave,41.9287,-87.6538,Illinois,Sheffield & DePaul,SHEFFIELD & DEPAUL
+406478,Wilton Ave & Diversey Pkwy,41.9324,-87.6527,Illinois,Sheffield & DePaul,SHEFFIELD & DEPAUL
+419013,Lincoln Ave & Diversey Pkwy,41.9322,-87.6586,Illinois,Sheffield & DePaul,SHEFFIELD & DEPAUL
+424993,Halsted St & Wrightwood Ave,41.9291,-87.6491,Illinois,Sheffield & DePaul,SHEFFIELD & DEPAUL
+459903,Sheffield Ave & Fullerton Ave,41.9256,-87.6537,Illinois,Sheffield & DePaul,SHEFFIELD & DEPAUL
+474881,Racine Ave & Fullerton Ave,41.9256,-87.6584,Illinois,Sheffield & DePaul,SHEFFIELD & DEPAUL
+12015993,Wilton Ave & Diversey Pkwy - Charging,41.932303429,-87.652688146,Illinois,Sheffield & DePaul,SHEFFIELD & DEPAUL
+12621697,Wilton Ave & Diversey Pkwy*,41.932418,-87.652705,Illinois,Sheffield & DePaul,SHEFFIELD & DEPAUL
+14057341,Racine Ave & Fullerton Ave (Temp),41.925194,-87.657259,Illinois,Sheffield & DePaul,SHEFFIELD & DEPAUL
+435108,Larrabee St & North Ave,41.9102,-87.6435,Illinois,Old Town,OLD TOWN
+470493,Clark St & Armitage Ave,41.9183,-87.6363,Illinois,Old Town,OLD TOWN
+403992,Wells St & Evergreen Ave,41.9067,-87.6348,Illinois,Old Town,OLD TOWN
+467351,Clark St & Lincoln Ave,41.9157,-87.6346,Illinois,Old Town,OLD TOWN
+399250,Clybourn Ave & Division St,41.9046,-87.6406,Illinois,Old Town,OLD TOWN
+463211,Wells St & Concord Ln,41.9121,-87.6347,Illinois,Old Town,OLD TOWN
+443906,Sedgwick St & North Ave,41.9114,-87.6387,Illinois,Old Town,OLD TOWN
+471309,Sedgwick St & Schiller St,41.9076,-87.6386,Illinois,Old Town,OLD TOWN
+447517,Larrabee St & Menomonee St,41.9147,-87.6433,Illinois,Old Town,OLD TOWN
+475135,Larrabee St & Armitage Ave,41.9181,-87.6437,Illinois,Old Town,OLD TOWN
+423811,Wentworth Ave & Cermak Rd (Temp),41.853,-87.6306,Illinois,Chinatown,"ARMOUR SQUARE,CHINATOWN"
+472450,Wentworth Ave & 24th St (Temp),41.8501,-87.6321,Illinois,Chinatown,"ARMOUR SQUARE,CHINATOWN"
+413664,Normal Ave & Archer Ave,41.8495,-87.6406,Illinois,Chinatown,"ARMOUR SQUARE,CHINATOWN"
+441996,Wells St & 19th St,41.8568,-87.6339,Illinois,Chinatown,"ARMOUR SQUARE,CHINATOWN"
+1884980,Wentworth Ave & Cermak Rd,41.853085,-87.631931,Illinois,Chinatown,"ARMOUR SQUARE,CHINATOWN"
+407750,Ashland Ave & Augusta Blvd,41.8996,-87.6677,Illinois,East Village,UKRAINIAN VILLAGE AND EAST VILLAGE
+399720,Wood St & Augusta Blvd,41.8992,-87.6722,Illinois,East Village,UKRAINIAN VILLAGE AND EAST VILLAGE
+455555,Honore St & Division St,41.9031,-87.6739,Illinois,East Village,UKRAINIAN VILLAGE AND EAST VILLAGE
+463000,Sheffield Ave & Waveland Ave,41.9494,-87.6545,Illinois,Wrigleyville,WRIGLEYVILLE
+391970,Southport Ave & Waveland Ave,41.9482,-87.6639,Illinois,Wrigleyville,WRIGLEYVILLE
+393267,Clark St & Grace St,41.9508,-87.6592,Illinois,Wrigleyville,WRIGLEYVILLE
+456732,Ashland Ave & Division St,41.9035,-87.6677,Illinois,Wicker Park,"WICKER PARK,WEST TOWN"
+468336,Campbell Ave & North Ave,41.9105,-87.6896,Illinois,Wicker Park,"WICKER PARK,WEST TOWN"
+454491,Damen Ave & Division St,41.9033,-87.6784,Illinois,Wicker Park,"WICKER PARK,WEST TOWN"
+411922,Wood St & Milwaukee Ave,41.9077,-87.6726,Illinois,Wicker Park,"WICKER PARK,WEST TOWN"
+427292,Milwaukee Ave & Wabansia Ave,41.9126,-87.6814,Illinois,Wicker Park,"WICKER PARK,WEST TOWN"
+419209,Leavitt St & North Ave,41.9102,-87.6823,Illinois,Wicker Park,"WICKER PARK,WEST TOWN"
+412820,Paulina Ave & North Ave,41.9103,-87.6701,Illinois,Wicker Park,"WICKER PARK,WEST TOWN"
+469921,Damen Ave & Pierce Ave,41.9094,-87.6777,Illinois,Wicker Park,"WICKER PARK,WEST TOWN"
+419827,Claremont Ave & Hirsch St,41.9078,-87.6859,Illinois,Wicker Park,"WICKER PARK,WEST TOWN"
+5874364,N Damen Ave & W Wabansia St,41.91,-87.68,Illinois,Wicker Park,"WICKER PARK,WEST TOWN"
+6010536,Damen Ave & Wabansia Ave,41.91,-87.68,Illinois,Wicker Park,"WICKER PARK,WEST TOWN"
+466093,Pulaski Rd & Lake St,41.8854,-87.7265,Illinois,Garfield Park,GARFIELD PARK
+398304,Kedzie Ave & Lake St,41.8846,-87.7063,Illinois,Garfield Park,GARFIELD PARK
+398303,California Ave & Lake St,41.8845,-87.6963,Illinois,Garfield Park,GARFIELD PARK
+415002,Kedzie Ave & Harrison St,41.8736,-87.7049,Illinois,Garfield Park,GARFIELD PARK
+475993,Karlov Ave & Madison St,41.8809,-87.7279,Illinois,Garfield Park,GARFIELD PARK
+399082,Kostner Ave & Lake St,41.8859,-87.7354,Illinois,Garfield Park,GARFIELD PARK
+405784,Pulaski Rd & Congress Pkwy,41.8743,-87.7257,Illinois,Garfield Park,GARFIELD PARK
+452136,Conservatory Dr & Lake St,41.8855,-87.7169,Illinois,Garfield Park,GARFIELD PARK
+426941,Central Park Blvd & 5th Ave,41.8757,-87.7155,Illinois,Garfield Park,GARFIELD PARK
+429794,Kostner Ave & Adams St,41.8779,-87.7357,Illinois,Garfield Park,GARFIELD PARK
+4765144,Keeler Ave & Roosevelt Rd,41.87,-87.73,Illinois,Garfield Park,GARFIELD PARK
+5099130,Sacramento Blvd & Polk St,41.87,-87.7,Illinois,Garfield Park,GARFIELD PARK
+5201889,Mozart St & Jackson Blvd,41.88,-87.7,Illinois,Garfield Park,GARFIELD PARK
+5089634,Whipple St & Roosevelt Rd,41.87,-87.7,Illinois,Garfield Park,GARFIELD PARK
+10091610,Troy St & Jackson Blvd,41.88,-87.7,Illinois,Garfield Park,GARFIELD PARK
+9871481,Kildare Ave & Washignton Blvd,41.88,-87.73,Illinois,Garfield Park,GARFIELD PARK
+9505160,Legler Regional Library,41.88,-87.73,Illinois,Garfield Park,GARFIELD PARK
+9748514,Lawndale Ave & Polk St,41.87,-87.72,Illinois,Garfield Park,GARFIELD PARK
+9730311,Keeler Ave & Madison St,41.88,-87.73,Illinois,Garfield Park,GARFIELD PARK
+10383276,Sacramento Blvd & Washington Blvd,41.88,-87.7,Illinois,Garfield Park,GARFIELD PARK
+10344974,Public Rack - Legler Regional Library,41.88,-87.73,Illinois,Garfield Park,GARFIELD PARK
+13231087,Public Rack - Lawndale Ave & Polk St,41.87,-87.72,Illinois,Garfield Park,GARFIELD PARK
+12941928,Public Rack - Central Park Ave & Fillmore St,41.87,-87.72,Illinois,Garfield Park,GARFIELD PARK
+13182095,Public Rack - Pulaski Rd & 5th Ave,41.87,-87.73,Illinois,Garfield Park,GARFIELD PARK
+13121996,Public Rack - Pulaski Rd & Roosevelt Rd,41.87,-87.72,Illinois,Garfield Park,GARFIELD PARK
+12572388,Public Rack - Pulaski Rd & Flournoy St,41.87,-87.72,Illinois,Garfield Park,GARFIELD PARK
+9486072,Public Rack - Pulaski Rd & Polk St,41.87,-87.73,Illinois,Garfield Park,GARFIELD PARK
+8972145,Public Rack - Hamlin Ave & Madison St,41.88,-87.72,Illinois,Garfield Park,GARFIELD PARK
+13815344,Public Rack - Pulaski Rd & Grenshaw St,41.87,-87.73,Illinois,Garfield Park,GARFIELD PARK
+14106784,Public Rack - Homan Ave & Lake St,41.88,-87.71,Illinois,Garfield Park,GARFIELD PARK
+11290976,Public Rack - Kildare Ave & Washignton Blvd,41.88,-87.73,Illinois,Garfield Park,GARFIELD PARK
+11075634,Public Rack - Independence Blvd & Roosevelt,41.87,-87.72,Illinois,Garfield Park,GARFIELD PARK
+409013,MLK Jr Dr & 63rd St,41.7801,-87.6159,Illinois,Grand Crossing,"SOUTH SHORE, GRAND CROSSING"
+411456,Evans Ave & 75th St,41.7585,-87.6064,Illinois,Grand Crossing,"SOUTH SHORE, GRAND CROSSING"
+411454,State St & 76th St,41.757,-87.6246,Illinois,Grand Crossing,"SOUTH SHORE, GRAND CROSSING"
+411171,Vernon Ave & 75th St,41.7584,-87.6141,Illinois,Grand Crossing,"SOUTH SHORE, GRAND CROSSING"
+425424,Cottage Grove Ave & 78th St,41.7532,-87.605,Illinois,Grand Crossing,"SOUTH SHORE, GRAND CROSSING"
+424838,Perry Ave & 69th St,41.7693,-87.6282,Illinois,Grand Crossing,"SOUTH SHORE, GRAND CROSSING"
+467379,Woodlawn Ave & 75th St,41.7592,-87.5958,Illinois,Grand Crossing,"SOUTH SHORE, GRAND CROSSING"
+430899,Calumet Ave & 71st St,41.7655,-87.6169,Illinois,Grand Crossing,"SOUTH SHORE, GRAND CROSSING"
+440303,Cottage Grove Ave & 71st St,41.7657,-87.605,Illinois,Grand Crossing,"SOUTH SHORE, GRAND CROSSING"
+411371,Michigan Ave & 71st St,41.7653,-87.6217,Illinois,Grand Crossing,"SOUTH SHORE, GRAND CROSSING"
+437716,Vincennes Ave & 75th St,41.758,-87.6312,Illinois,Grand Crossing,"SOUTH SHORE, GRAND CROSSING"
+1912094,Rhodes Ave & 71st St,41.766,-87.6117,Illinois,Grand Crossing,"SOUTH SHORE, GRAND CROSSING"
+9766210,Cottage Grove Ave & 75th St,41.76,-87.61,Illinois,Grand Crossing,"SOUTH SHORE, GRAND CROSSING"
+10808997,Martin Luther King Dr & 69th St,41.77,-87.62,Illinois,Grand Crossing,"SOUTH SHORE, GRAND CROSSING"
+13757801,Public Rack - Martin Luther King Dr & 69th St,41.77,-87.62,Illinois,Grand Crossing,"SOUTH SHORE, GRAND CROSSING"
+404732,Glenwood Ave & Morse Ave,42.008,-87.6655,Illinois,Rogers Park,ROGERS PARK
+403762,Clark St & Lunt Ave,42.0091,-87.6742,Illinois,Rogers Park,ROGERS PARK
+454141,Sheridan Rd & Greenleaf Ave,42.0106,-87.6624,Illinois,Rogers Park,ROGERS PARK
+445096,Glenwood Ave & Touhy Ave,42.0127,-87.6661,Illinois,Rogers Park,ROGERS PARK
+454504,Greenview Ave & Jarvis Ave,42.016,-87.6686,Illinois,Rogers Park,ROGERS PARK
+393750,Clark St & Columbia Ave,42.0045,-87.6724,Illinois,Rogers Park,ROGERS PARK
+433317,Sheridan Rd & Loyola Ave,42.001,-87.6612,Illinois,Rogers Park,ROGERS PARK
+453412,Clark St & Schreiber Ave,41.9993,-87.6714,Illinois,Rogers Park,ROGERS PARK
+393249,Paulina St & Howard St,42.0192,-87.6736,Illinois,Rogers Park,ROGERS PARK
+407985,Wolcott Ave & Fargo Ave,42.017,-87.6777,Illinois,Rogers Park,ROGERS PARK
+430371,Ridge Blvd & Touhy Ave,42.0121,-87.6829,Illinois,Rogers Park,ROGERS PARK
+426906,Clark St & Jarvis Ave,42.016,-87.675,Illinois,Rogers Park,ROGERS PARK
+403540,Ridge Blvd & Howard St,42.0193,-87.6845,Illinois,Rogers Park,ROGERS PARK
+452347,Sheridan Rd & Columbia Ave,42.0046,-87.6614,Illinois,Rogers Park,ROGERS PARK
+414235,Bosworth Ave & Howard St,42.0195,-87.6696,Illinois,Rogers Park,ROGERS PARK
+455129,Clark St & Touhy Ave,42.0126,-87.6744,Illinois,Rogers Park,ROGERS PARK
+14220600,Eastlake Ter & Howard St,42.01923883333333,-87.66438233333334,Illinois,Rogers Park,ROGERS PARK
+450008,Damen Ave & Thomas St (Augusta Blvd),41.9013,-87.6774,Illinois,Ukrainian Village,UKRAINIAN VILLAGE AND EAST VILLAGE
+473971,Western Ave & Walton St,41.8984,-87.6866,Illinois,Ukrainian Village,UKRAINIAN VILLAGE AND EAST VILLAGE
+444301,Western Ave & Division St,41.9029,-87.6873,Illinois,Ukrainian Village,UKRAINIAN VILLAGE AND EAST VILLAGE
+407233,Leavitt St & Division St (*),41.903,-87.6838,Illinois,Ukrainian Village,UKRAINIAN VILLAGE AND EAST VILLAGE
+1368121,Leavitt St & Division St,41.902997,-87.683825,Illinois,Ukrainian Village,UKRAINIAN VILLAGE AND EAST VILLAGE
+6091634,N Damen Ave & W Chicago Ave,41.9,-87.68,Illinois,Ukrainian Village,UKRAINIAN VILLAGE AND EAST VILLAGE
+8915340,Public Rack - Rockwell & Division,41.9,-87.69,Illinois,Ukrainian Village,UKRAINIAN VILLAGE AND EAST VILLAGE
+429602,Broadway & Waveland Ave,41.9491,-87.6486,Illinois,Boystown,BOYSTOWN
+403571,Halsted St & Roscoe St,41.9437,-87.649,Illinois,Boystown,BOYSTOWN
+439127,Broadway & Belmont Ave,41.9401,-87.6455,Illinois,Boystown,BOYSTOWN
+448284,Broadway & Cornelia Ave,41.9455,-87.6464,Illinois,Boystown,BOYSTOWN
+465199,Indiana Ave & Roosevelt Rd,41.8679,-87.623,Illinois,Grant Park,GRANT PARK
+428384,Buckingham Fountain,41.8765,-87.6205,Illinois,Grant Park,GRANT PARK
+444734,Michigan Ave & 8th St,41.8728,-87.624,Illinois,Grant Park,GRANT PARK
+440556,Michigan Ave & Jackson Blvd,41.8779,-87.6241,Illinois,Grant Park,GRANT PARK
+10357073,Buckingham Fountain (Temp),41.869621,-87.623981,Illinois,Grant Park,GRANT PARK
+407030,California Ave & Cortez St,41.9004,-87.6967,Illinois,Humboldt Park,HUMBOLDT PARK
+474883,Troy St & North Ave,41.9098,-87.7053,Illinois,Humboldt Park,HUMBOLDT PARK
+410352,California Ave & Division St,41.903,-87.6975,Illinois,Humboldt Park,HUMBOLDT PARK
+434666,California Ave & North Ave,41.9104,-87.6972,Illinois,Humboldt Park,HUMBOLDT PARK
+405629,Kedzie Ave & Chicago Ave,41.8955,-87.7061,Illinois,Humboldt Park,HUMBOLDT PARK
+448210,Spaulding Ave & Division St,41.9027,-87.7092,Illinois,Humboldt Park,HUMBOLDT PARK
+457499,Central Park Ave & North Ave,41.9097,-87.7166,Illinois,Humboldt Park,HUMBOLDT PARK
+402334,Sacramento Blvd & Franklin Blvd,41.8905,-87.7026,Illinois,Humboldt Park,HUMBOLDT PARK
+1147602,WATSON TESTING - DIVVY,41.89470433333334,-87.73083733333333,Illinois,Humboldt Park,HUMBOLDT PARK
+6668693,WEST CHI-WATSON,41.89477433333333,-87.73086816666667,Illinois,Humboldt Park,HUMBOLDT PARK
+3263406,Monticello Ave & Chicago Ave,41.9,-87.72,Illinois,Humboldt Park,HUMBOLDT PARK
+3791071,Kildare Ave & Division St,41.9,-87.73,Illinois,Humboldt Park,HUMBOLDT PARK
+3252637,Kildare Ave & Chicago Ave,41.9,-87.73,Illinois,Humboldt Park,HUMBOLDT PARK
+6122338,Central Park & Augusta Blvd,41.9,-87.72,Illinois,Humboldt Park,HUMBOLDT PARK
+6395175,Central Park Ave & Ohio St,41.89,-87.72,Illinois,Humboldt Park,HUMBOLDT PARK
+5114650,Kilpatrick Ave & Grand Ave,41.91,-87.74,Illinois,Humboldt Park,HUMBOLDT PARK
+5051012,Francisco Ave & Bloomingdale Ave,41.91,-87.7,Illinois,Humboldt Park,HUMBOLDT PARK
+5092573,Sacramento Blvd & Fulton Ave,41.89,-87.7,Illinois,Humboldt Park,HUMBOLDT PARK
+9502222,Keystone Ave & North Ave,41.91,-87.73,Illinois,Humboldt Park,HUMBOLDT PARK
+10073868,Spaulding Ave & North Ave,41.91,-87.71,Illinois,Humboldt Park,HUMBOLDT PARK
+10082767,Hamlin Ave & Grand Ave,41.9,-87.72,Illinois,Humboldt Park,HUMBOLDT PARK
+9943289,Washtenaw Ave & Superior St,41.89,-87.7,Illinois,Humboldt Park,HUMBOLDT PARK
+9764761,Spaulding Ave & Evergreen Ave,41.91,-87.71,Illinois,Humboldt Park,HUMBOLDT PARK
+9874575,Karlov Ave & Kamerling Ave,41.91,-87.73,Illinois,Humboldt Park,HUMBOLDT PARK
+9716601,Kostner Ave & North Ave,41.91,-87.74,Illinois,Humboldt Park,HUMBOLDT PARK
+9525743,Grand Ave & North Ave,41.91,-87.73,Illinois,Humboldt Park,HUMBOLDT PARK
+9955632,Hamlin Ave & Chicago Ave,41.9,-87.72,Illinois,Humboldt Park,HUMBOLDT PARK
+10755990,Sacramento Blvd & Division St,41.91,-87.7,Illinois,Humboldt Park,HUMBOLDT PARK
+10233606,Al Raby School,41.89,-87.72,Illinois,Humboldt Park,HUMBOLDT PARK
+10870828,Public Rack - Hamlin Ave & Grand Ave,41.9,-87.72,Illinois,Humboldt Park,HUMBOLDT PARK
+10169570,Public Rack - Kostner Ave & North Ave,41.91,-87.74,Illinois,Humboldt Park,HUMBOLDT PARK
+10714099,Public Rack - Keystone Ave & North Ave,41.91,-87.73,Illinois,Humboldt Park,HUMBOLDT PARK
+10424277,Public Rack - Spaulding Ave & Evergreen Ave,41.91,-87.71,Illinois,Humboldt Park,HUMBOLDT PARK
+10358691,Public Rack - California Ave & Cortez St,41.9,-87.7,Illinois,Humboldt Park,HUMBOLDT PARK
+10731802,Public Rack - Karlov Ave & Kamerling Ave,41.91,-87.73,Illinois,Humboldt Park,HUMBOLDT PARK
+10767735,Public Rack - Spaulding Ave & North Ave,41.91,-87.71,Illinois,Humboldt Park,HUMBOLDT PARK
+10607159,Public Rack - Grand Ave & North Ave,41.91,-87.73,Illinois,Humboldt Park,HUMBOLDT PARK
+10607718,Public Rack - Hamlin Ave & Chicago Ave,41.9,-87.72,Illinois,Humboldt Park,HUMBOLDT PARK
+10869426,Public Rack - Sacramento Blvd & Division St,41.91,-87.7,Illinois,Humboldt Park,HUMBOLDT PARK
+10754031,Public Rack - Kildare Ave & Division St,41.9,-87.73,Illinois,Humboldt Park,HUMBOLDT PARK
+12939926,Public Rack - Pulaski Rd & Lake St,41.89,-87.73,Illinois,Humboldt Park,HUMBOLDT PARK
+13222676,Public Rack - Al Raby School,41.89,-87.72,Illinois,Humboldt Park,HUMBOLDT PARK
+9342532,Kildare Ave & Division Ave,41.9,-87.73,Illinois,Humboldt Park,HUMBOLDT PARK
+9259208,Public Rack - Tripp Ave & North Ave,41.91,-87.73,Illinois,Humboldt Park,HUMBOLDT PARK
+8954380,Public Rack - Kedzie Ave & Walnut St,41.89,-87.71,Illinois,Humboldt Park,HUMBOLDT PARK
+14233488,Public Rack - Division St & Christiana Ave,41.9,-87.71,Illinois,Humboldt Park,HUMBOLDT PARK
+13834971,Public Rack - Sawyer Ave & Chicago Ave,41.9,-87.71,Illinois,Humboldt Park,HUMBOLDT PARK
+13758216,Public Rack - Grand Ave & Lawndale Ave,41.9,-87.72,Illinois,Humboldt Park,HUMBOLDT PARK
+13771469,Public Rack - Central Park Ave & Fulton Blvd,41.89,-87.72,Illinois,Humboldt Park,HUMBOLDT PARK
+14024981,Public Rack - Kildare Ave & North Ave,41.91,-87.73,Illinois,Humboldt Park,HUMBOLDT PARK
+11371259,Public Rack - Kedzie Ave & Chicago Ave,41.9,-87.71,Illinois,Humboldt Park,HUMBOLDT PARK
+11271743,Public Rack - Kildare Ave & Division Ave,41.9,-87.73,Illinois,Humboldt Park,HUMBOLDT PARK
+12433375,Public Rack - Garfield Park Conservatory,41.89,-87.72,Illinois,Humboldt Park,HUMBOLDT PARK
+12276484,Public Rack - Kostner Ave & Lake St,41.89,-87.74,Illinois,Humboldt Park,HUMBOLDT PARK
+443431,Millennium Park,41.881,-87.6241,Illinois,Millenium Park,MILLENIUM PARK
+449136,Clark St & Berwyn Ave,41.978,-87.668,Illinois,Andersonville,ANDERSONVILLE
+436951,Shields Ave & 28th Pl,41.8427,-87.6355,Illinois,Armour Square,"ARMOUR SQUARE,CHINATOWN"
+468782,Shields Ave & 31st St,41.8385,-87.6354,Illinois,Armour Square,"ARMOUR SQUARE,CHINATOWN"
+405382,Wentworth Ave & 33rd St,41.8345,-87.6318,Illinois,Armour Square,"ARMOUR SQUARE,CHINATOWN"
+419899,Wentworth Ave & 35th St,41.8308,-87.6325,Illinois,Armour Square,"ARMOUR SQUARE,CHINATOWN"
+475297,Manor Ave & Leland Ave,41.9659,-87.7008,Illinois,Albany Park,"NORTH PARK,ALBANY PARK"
+440663,Keystone Ave & Montrose Ave,41.9611,-87.729,Illinois,Albany Park,"NORTH PARK,ALBANY PARK"
+473214,Kedzie Ave & Leland Ave,41.9667,-87.7081,Illinois,Albany Park,"NORTH PARK,ALBANY PARK"
+398864,Christiana Ave & Lawrence Ave,41.9684,-87.7118,Illinois,Albany Park,"NORTH PARK,ALBANY PARK"
+451919,Drake Ave & Montrose Ave,41.9612,-87.7166,Illinois,Albany Park,"NORTH PARK,ALBANY PARK"
+9845084,Kedzie Ave & Argyle St,41.97,-87.71,Illinois,Albany Park,"NORTH PARK,ALBANY PARK"
+10053824,Lowell Ave & Elston Ave,41.97,-87.74,Illinois,Albany Park,"NORTH PARK,ALBANY PARK"
+9736868,Kimball Ave & Carmen Ave,41.97,-87.71,Illinois,Albany Park,"NORTH PARK,ALBANY PARK"
+10077612,Sawyer Ave & Lawrence Ave,41.97,-87.71,Illinois,Albany Park,"NORTH PARK,ALBANY PARK"
+10693829,Public Rack - Drake Ave & Leland Ave,41.97,-87.72,Illinois,Albany Park,"NORTH PARK,ALBANY PARK"
+10342767,Public Rack - Christiana Ave & Lawrence Ave,41.97,-87.71,Illinois,Albany Park,"NORTH PARK,ALBANY PARK"
+10362681,Public Rack - Kimball Ave & Carmen Ave,41.97,-87.71,Illinois,Albany Park,"NORTH PARK,ALBANY PARK"
+10531619,Public Rack - Lowell Ave & Elston Ave,41.97,-87.74,Illinois,Albany Park,"NORTH PARK,ALBANY PARK"
+10683132,Public Rack - Kedzie Ave & Argyle St,41.97,-87.71,Illinois,Albany Park,"NORTH PARK,ALBANY PARK"
+10343519,Public Rack - Sawyer Ave & Lawrence Ave,41.97,-87.71,Illinois,Albany Park,"NORTH PARK,ALBANY PARK"
+443711,Woodlawn Ave & Lake Park Ave,41.8141,-87.597,Illinois,Kenwood,"KENWOOD,OAKLAND"
+445786,Cottage Grove Ave & 43rd St,41.8165,-87.6066,Illinois,Kenwood,"KENWOOD,OAKLAND"
+467930,Blackstone Ave & Hyde Park Blvd,41.8026,-87.5904,Illinois,Kenwood,"KENWOOD,OAKLAND"
+415180,Lake Park Ave & 47th St,41.8094,-87.5919,Illinois,Kenwood,"KENWOOD,OAKLAND"
+429813,Dorchester Ave & 49th St,41.8058,-87.5925,Illinois,Kenwood,"KENWOOD,OAKLAND"
+429814,Greenwood Ave & 47th St,41.8098,-87.5994,Illinois,Kenwood,"KENWOOD,OAKLAND"
+10166886,Lake Park Ave & 44th St,41.81,-87.6,Illinois,Kenwood,"KENWOOD,OAKLAND"
+14098057,Public Rack - Lake Park Ave & 47th St,41.81,-87.59,Illinois,Kenwood,"KENWOOD,OAKLAND"
+395398,Ashland Ave & Garfield Blvd,41.7928,-87.6644,Illinois,Englewood,ENGLEWOOD
+411174,Eggleston Ave & 69th St (*),41.7689,-87.6359,Illinois,Englewood,ENGLEWOOD
+423552,May St & 69th St,41.7689,-87.6529,Illinois,Englewood,ENGLEWOOD
+422926,Halsted St & 59th St,41.7875,-87.6449,Illinois,Englewood,ENGLEWOOD
+462883,Halsted St & 56th St,41.7929,-87.645,Illinois,Englewood,ENGLEWOOD
+399937,Racine Ave & 65th St,41.7754,-87.6543,Illinois,Englewood,ENGLEWOOD
+413766,Wentworth Ave & 63rd St,41.7801,-87.6297,Illinois,Englewood,ENGLEWOOD
+467380,Stewart Ave & 63rd St (*),41.7798,-87.6348,Illinois,Englewood,ENGLEWOOD
+411528,Halsted St & 63rd St,41.7794,-87.6446,Illinois,Englewood,ENGLEWOOD
+455181,Halsted St & 69th St,41.7691,-87.6446,Illinois,Englewood,ENGLEWOOD
+400251,Racine Ave & 61st St,41.7832,-87.6544,Illinois,Englewood,ENGLEWOOD
+425423,Damen Ave & 59th St,41.786,-87.6742,Illinois,Englewood,ENGLEWOOD
+443910,Ashland Ave & 66th St,41.7741,-87.6638,Illinois,Englewood,ENGLEWOOD
+442578,Carpenter St & 63rd St,41.7799,-87.6509,Illinois,Englewood,ENGLEWOOD
+391816,Ashland Ave & 63rd St,41.7794,-87.6648,Illinois,Englewood,ENGLEWOOD
+2067817,Ashland Ave & 69th St,41.7687,-87.6641,Illinois,Englewood,ENGLEWOOD
+2017396,Marshfield Ave & 59th St,41.7868,-87.6662,Illinois,Englewood,ENGLEWOOD
+2018667,Elizabeth St & 59th St,41.7867,-87.6559,Illinois,Englewood,ENGLEWOOD
+1783420,Stewart Ave & 63rd St,41.779835,-87.634774,Illinois,Englewood,ENGLEWOOD
+1642833,Eggleston Ave & 69th St,41.768898,-87.635876,Illinois,Englewood,ENGLEWOOD
+1199743,Halsted St & 73rd St,41.761605,-87.64416,Illinois,Englewood,ENGLEWOOD
+1114252,Ashland Ave & 73rd St,41.761225,-87.663361,Illinois,Englewood,ENGLEWOOD
+2348009,Ashland Ave & 74th St,41.759236,-87.663474,Illinois,Englewood,ENGLEWOOD
+5929738,Halsted & 63rd - Kennedy-King Vaccination Site,41.77938114228,-87.6446208145,Illinois,Englewood,ENGLEWOOD
+9867241,Damen Ave & 74th St,41.75927403933122,-87.67363429069519,Illinois,Englewood,ENGLEWOOD
+9872098,May St & 63rd St,41.78,-87.65,Illinois,Englewood,ENGLEWOOD
+9677284,Normal Ave & 72nd St,41.76,-87.64,Illinois,Englewood,ENGLEWOOD
+10053984,Ashland Ave & 76th St,41.76,-87.66,Illinois,Englewood,ENGLEWOOD
+9707675,Throop St & 58th St,41.79,-87.66,Illinois,Englewood,ENGLEWOOD
+10074226,Hamilton Park,41.76,-87.64,Illinois,Englewood,ENGLEWOOD
+9597589,Ashland Ave & 71st St,41.77,-87.66,Illinois,Englewood,ENGLEWOOD
+10002090,Racine Ave & 76th,41.76,-87.65,Illinois,Englewood,ENGLEWOOD
+10690214,Racine Ave & 74th St,41.76,-87.65,Illinois,Englewood,ENGLEWOOD
+10755832,Wolcott Ave & 61st St,41.78,-87.67,Illinois,Englewood,ENGLEWOOD
+13182318,Halsted St & 76th St,41.76,-87.64,Illinois,Englewood,ENGLEWOOD
+8730295,Halsted St & 64th St,41.78,-87.64,Illinois,Englewood,ENGLEWOOD
+9169686,Public Rack - Ashland Ave & 63rd St,41.78,-87.66,Illinois,Englewood,ENGLEWOOD
+9252248,Public Rack - Ashland Ave & 76th St,41.76,-87.66,Illinois,Englewood,ENGLEWOOD
+14327246,Public Rack - Ashland Ave & 71st St,41.77,-87.66,Illinois,Englewood,ENGLEWOOD
+13972155,William Rainey Harper High School,41.77,-87.67,Illinois,Englewood,ENGLEWOOD
+13794076,Public Rack - Halsted St & 63rd St,41.78,-87.64,Illinois,Englewood,ENGLEWOOD
+14094937,Public Rack - Racine Ave & 76th,41.76,-87.65,Illinois,Englewood,ENGLEWOOD
+14266521,Public Rack - Halsted St & 64th St,41.78,-87.64,Illinois,Englewood,ENGLEWOOD
+14106503,Public Rack - Racine Ave & 74th St,41.76,-87.65,Illinois,Englewood,ENGLEWOOD
+11323091,Public Rack - Normal Ave & 72nd St,41.76,-87.64,Illinois,Englewood,ENGLEWOOD
+12458071,Public Rack - Halsted St & 76th St,41.76,-87.64,Illinois,Englewood,ENGLEWOOD
+11785769,Public Rack - Ashland Ave & 74th St,41.76,-87.66,Illinois,Englewood,ENGLEWOOD
+464750,State St & Harrison St,41.8741,-87.6277,Illinois,Printers Row,PRINTERS ROW
+465279,Federal St & Polk St,41.8721,-87.6295,Illinois,Printers Row,PRINTERS ROW
+396551,Kedzie Ave & Bryn Mawr Ave,41.9824,-87.7089,Illinois,North Park,"NORTH PARK,ALBANY PARK"
+399876,St. Louis Ave & Balmoral Ave,41.9804,-87.7161,Illinois,North Park,"NORTH PARK,ALBANY PARK"
+427716,Kedzie Ave & Foster Ave,41.9757,-87.7093,Illinois,North Park,"NORTH PARK,ALBANY PARK"
+5337396,Lincoln Ave & Peterson Ave,41.99,-87.71,Illinois,North Park,"NORTH PARK,ALBANY PARK"
+5199518,Virginia Ave & Catalpa Ave,41.98,-87.71,Illinois,North Park,"NORTH PARK,ALBANY PARK"
+9730048,Spaulding Ave & Bryn Mawr Ave,41.98,-87.71,Illinois,North Park,"NORTH PARK,ALBANY PARK"
+10094760,Christiana Ave & Bryn Mawr Ave,41.98,-87.71,Illinois,North Park,"NORTH PARK,ALBANY PARK"
+10076042,Sawyer Ave & Bryn Mawr Ave - SE,41.98,-87.71,Illinois,North Park,"NORTH PARK,ALBANY PARK"
+9597144,Spaulding Ave & Foster Ave,41.98,-87.71,Illinois,North Park,"NORTH PARK,ALBANY PARK"
+10344321,Public Rack - Spaulding Ave & Bryn Mawr Ave,41.98,-87.71,Illinois,North Park,"NORTH PARK,ALBANY PARK"
+10341943,Public Rack - Christiana Ave & Bryn Mawr Ave,41.98,-87.71,Illinois,North Park,"NORTH PARK,ALBANY PARK"
+10353509,Public Rack - Spaulding Ave & Foster Ave,41.98,-87.71,Illinois,North Park,"NORTH PARK,ALBANY PARK"
+10520537,Public Rack - Sawyer Ave & Bryn Mawr Ave - SW,41.98,-87.71,Illinois,North Park,"NORTH PARK,ALBANY PARK"
+10443683,Public Rack - Sawyer Ave & Bryn Mawr Ave - SE,41.98,-87.71,Illinois,North Park,"NORTH PARK,ALBANY PARK"
+13110171,Public Rack - Peterson Ave & Bernard Ave,41.99,-87.72,Illinois,North Park,"NORTH PARK,ALBANY PARK"
+9149491,Public Rack - Peterson Ave & Drake Ave,41.99,-87.72,Illinois,North Park,"NORTH PARK,ALBANY PARK"
+396200,Ashland Ave & Pershing Rd,41.8235,-87.6656,Illinois,Mckinley Park,"BRIGHTON PARK,MCKINLEY PARK"
+427083,Archer (Damen) Ave & 37th St,41.8267,-87.6831,Illinois,Mckinley Park,"BRIGHTON PARK,MCKINLEY PARK"
+468920,Leavitt St & Archer Ave,41.8288,-87.6806,Illinois,Mckinley Park,"BRIGHTON PARK,MCKINLEY PARK"
+396165,Damen Ave & Pershing Rd,41.8232,-87.6766,Illinois,Mckinley Park,"BRIGHTON PARK,MCKINLEY PARK"
+417212,Wood St & 35th St,41.8301,-87.6703,Illinois,Mckinley Park,"BRIGHTON PARK,MCKINLEY PARK"
+3815596,Hoyne Ave & 34th St,41.83,-87.68,Illinois,Mckinley Park,"BRIGHTON PARK,MCKINLEY PARK"
+6481331,Damen Ave & 33rd St,41.83,-87.68,Illinois,Mckinley Park,"BRIGHTON PARK,MCKINLEY PARK"
+449662,Central Ave & Chicago Ave,41.895,-87.7649,Illinois,Austin,AUSTIN
+460832,Central Ave & Madison St,41.8801,-87.7632,Illinois,Austin,AUSTIN
+460829,Laramie Ave & Madison St,41.8802,-87.7553,Illinois,Austin,AUSTIN
+465653,Central Ave & Harrison St,41.873,-87.7645,Illinois,Austin,AUSTIN
+468232,Cicero Ave & Lake St,41.8868,-87.7453,Illinois,Austin,AUSTIN
+399079,Austin Blvd & Lake St,41.8879,-87.7744,Illinois,Austin,AUSTIN
+399084,Laramie Ave & Kinzie St,41.8878,-87.7555,Illinois,Austin,AUSTIN
+438366,Austin Blvd & Madison St,41.8803,-87.7745,Illinois,Austin,AUSTIN
+423343,Latrobe Ave & Chicago Ave,41.8947,-87.7569,Illinois,Austin,AUSTIN
+395593,Austin Blvd & Chicago Ave,41.8949,-87.7747,Illinois,Austin,AUSTIN
+416678,Central Ave & Lake St,41.8877,-87.7655,Illinois,Austin,AUSTIN
+434193,Cicero Ave & Flournoy St,41.8721,-87.7466,Illinois,Austin,AUSTIN
+415178,Cicero Ave & Quincy St,41.8776,-87.7454,Illinois,Austin,AUSTIN
+403516,Laramie Ave & Gladys Ave,41.8758,-87.7553,Illinois,Austin,AUSTIN
+1974218,Kenton Ave & Madison St,41.8807,-87.741,Illinois,Austin,AUSTIN
+3790360,Major Ave & Bloomingdale Ave,41.91,-87.77,Illinois,Austin,AUSTIN
+3121054,Menard Ave & Division St,41.9,-87.77,Illinois,Austin,AUSTIN
+3200849,Lamon Ave & Chicago Ave,41.9,-87.75,Illinois,Austin,AUSTIN
+3222700,Long Ave & North Ave,41.91,-87.76,Illinois,Austin,AUSTIN
+3533029,Lavergne Ave & Division St,41.9,-87.75,Illinois,Austin,AUSTIN
+6496438,Leamington Ave & Hirsch St,41.91,-87.75,Illinois,Austin,AUSTIN
+5319113,Augusta Blvd & Laramie Ave,41.9,-87.76,Illinois,Austin,AUSTIN
+5330572,Menard Ave & North Ave,41.91,-87.77,Illinois,Austin,AUSTIN
+11956036,Mayfield & Roosevelt Rd,41.87,-87.77,Illinois,Austin,AUSTIN
+9517058,Cicero Ave & North Ave,41.91,-87.75,Illinois,Austin,AUSTIN
+10096752,Central Ave & Corcoran Pl,41.89,-87.77,Illinois,Austin,AUSTIN
+10057521,Central Ave & North Ave,41.91,-87.77,Illinois,Austin,AUSTIN
+10089708,Latrobe Ave & Lake St,41.89,-87.76,Illinois,Austin,AUSTIN
+10092322,Menard Ave & Agusta Blvd,41.9,-87.77,Illinois,Austin,AUSTIN
+9732430,Lorel Ave & Chicago Ave,41.89,-87.76,Illinois,Austin,AUSTIN
+9534715,Waller Ave & Chicago Ave,41.89,-87.77,Illinois,Austin,AUSTIN
+9540895,Mason Ave & Roosevelt Rd,41.87,-87.77,Illinois,Austin,AUSTIN
+9729621,Austin Branch Chicago Public Library,41.89,-87.77,Illinois,Austin,AUSTIN
+9966818,Cicero Ave & Le Moyne St - midblock,41.91,-87.75,Illinois,Austin,AUSTIN
+10856826,Menard Ave & Madison St,41.88,-87.77,Illinois,Austin,AUSTIN
+10432868,Public Rack - Cicero Ave & Le Moyne St - midblock,41.91,-87.75,Illinois,Austin,AUSTIN
+10352219,Public Rack - Central Ave & North Ave,41.91,-87.77,Illinois,Austin,AUSTIN
+10698118,Public Rack - Cicero Ave & North Ave,41.91,-87.75,Illinois,Austin,AUSTIN
+13172247,Public Rack - Spencer Elementary Technology Academy,41.89,-87.75,Illinois,Austin,AUSTIN
+13048260,Public Rack - Lorel Ave & Chicago Ave,41.89,-87.76,Illinois,Austin,AUSTIN
+13110979,Public Rack - Latrobe Ave & Lake St,41.89,-87.76,Illinois,Austin,AUSTIN
+12659742,Public Rack - Leclaire Ave & Division St,41.9,-87.75,Illinois,Austin,AUSTIN
+13139891,Central Ave & Congress Pkwy,41.87,-87.76,Illinois,Austin,AUSTIN
+12661128,Public Rack - Michele Clark Magnet High School,41.87,-87.75,Illinois,Austin,AUSTIN
+13226570,Menard Ave & Adams Blvd,41.88,-87.77,Illinois,Austin,AUSTIN
+12623533,Public Rack - La Moyne Ave and Leamington Ave,41.91,-87.75,Illinois,Austin,AUSTIN
+12593226,Public Rack - Lamon Ave & Erie St,41.89,-87.75,Illinois,Austin,AUSTIN
+13737398,Public Rack - Menard Ave & Adams Blvd,41.88,-87.77,Illinois,Austin,AUSTIN
+14176343,Public Rack - Central Ave & Corcoran Pl,41.89,-87.77,Illinois,Austin,AUSTIN
+14144156,Public Rack - Austin Branch Chicago Public Library,41.89,-87.77,Illinois,Austin,AUSTIN
+13876722,Public Rack - Menard Ave & Agusta Blvd,41.9,-87.77,Illinois,Austin,AUSTIN
+14125971,Public Rack - Central Ave & Adams St,41.88,-87.76,Illinois,Austin,AUSTIN
+11341614,Public Rack - Waller Ave & Chicago Ave,41.89,-87.77,Illinois,Austin,AUSTIN
+11322900,Public Rack - Menard Ave & Madison St,41.88,-87.77,Illinois,Austin,AUSTIN
+411288,Jeffery Blvd & 71st St,41.7666,-87.5765,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+411157,Stony Island Ave & 75th St,41.7587,-87.5869,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+405580,Yates Blvd & 75th St,41.7588,-87.5664,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+468578,South Shore Dr & 71st St,41.7664,-87.5657,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+460745,Phillips Ave & 79th St,41.7518,-87.5652,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+434750,Stony Island Ave & 71st St,41.7665,-87.5865,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+399916,Jeffery Blvd & 76th St,41.7571,-87.5758,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+420806,South Shore Dr & 74th St,41.7622,-87.5593,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+449985,Rainbow Beach,41.7579,-87.5494,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+451598,Bennett Ave & 79th St,41.7518,-87.5785,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+9622549,Kimbark Ave & 67th St,41.77,-87.59,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+10093760,Stony Is Ave & 73rd St,41.76,-87.59,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+10084173,Yates Blvd & Exchange Ave,41.77,-87.57,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+10360010,Jeffrey Blvd & 71st St,41.77,-87.58,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+10823662,Public Rack - Exchange Ave & 73rd Pl,41.76,-87.56,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+10691459,Chappel Ave & 71st St,41.77,-87.58,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+13141095,Public Rack - Vincennes Ave & 77th St,41.76,-87.57,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+12563094,Public Rack - Kingston Ave & 75th St,41.76,-87.56,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+8807687,South Shore High School,41.76,-87.58,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+9474145,East End Ave & 75th St,41.76,-87.58,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+13708589,Public Rack - Kimbark Ave & 67th St,41.77,-87.59,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+14102650,Public Rack - Jeffrey Blvd & 71st St,41.77,-87.58,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+14274609,Public Rack - East End Ave & 75th St,41.76,-87.58,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+14128783,Public Rack - Jeffery Blvd & 67th St,41.77,-87.58,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+13781708,Public Rack - Chappel Ave & 71st St,41.77,-87.58,Illinois,South Shore,"SOUTH SHORE, GRAND CROSSING"
+463743,Cottage Grove Ave & 51st St,41.803,-87.6066,Illinois,Grand Boulevard,BRONZEVILLE
+468133,Indiana Ave & 40th St,41.8217,-87.6216,Illinois,Grand Boulevard,BRONZEVILLE
+444739,MLK Jr Dr & 47th St,41.8099,-87.6163,Illinois,Grand Boulevard,BRONZEVILLE
+432567,State St & Pershing Rd,41.823,-87.6266,Illinois,Grand Boulevard,BRONZEVILLE
+444238,Cottage Grove Ave & 47th St,41.8099,-87.6068,Illinois,Grand Boulevard,BRONZEVILLE
+438305,Prairie Ave & 43rd St,41.8167,-87.6194,Illinois,Grand Boulevard,BRONZEVILLE
+437480,Calumet Ave & 51st St,41.8023,-87.6181,Illinois,Grand Boulevard,BRONZEVILLE
+475355,Cottage Grove Ave & Oakwood Blvd,41.823,-87.6071,Illinois,Grand Boulevard,BRONZEVILLE
+9732298,Prairie Ave & 47th St - midblock,41.81,-87.62,Illinois,Grand Boulevard,BRONZEVILLE
+10103821,Forrestville Ave & 47th St,41.81,-87.61,Illinois,Grand Boulevard,BRONZEVILLE
+9727075,532 E 43rd St,41.82,-87.61,Illinois,Grand Boulevard,BRONZEVILLE
+9737744,Martin Luther King Dr & 44th St,41.81,-87.62,Illinois,Grand Boulevard,BRONZEVILLE
+10565769,Public Rack - Langley Ave & Oakwood Blvd,41.82,-87.61,Illinois,Grand Boulevard,BRONZEVILLE
+10632705,Public Rack - King Dr & Oakwood Blvd,41.82,-87.62,Illinois,Grand Boulevard,BRONZEVILLE
+13788605,Public Rack - 532 E 43rd St,41.82,-87.61,Illinois,Grand Boulevard,BRONZEVILLE
+13780464,Public Rack - Forrestville Ave & 47th St,41.81,-87.61,Illinois,Grand Boulevard,BRONZEVILLE
+13818685,Public Rack - Prairie Ave & 47th St ,41.81,-87.62,Illinois,Grand Boulevard,BRONZEVILLE
+14111400,Public Rack - Martin Luther King Dr & 44th St,41.81,-87.62,Illinois,Grand Boulevard,BRONZEVILLE
+437544,Troy St & Elston Ave,41.9452,-87.7067,Illinois,Avondale,"IRVING PARK,AVONDALE"
+438329,Kimball Ave & Belmont Ave,41.9394,-87.7116,Illinois,Avondale,"IRVING PARK,AVONDALE"
+407558,Central Park Ave & Elbridge Ave,41.9353,-87.7169,Illinois,Avondale,"IRVING PARK,AVONDALE"
+396356,California Ave & Fletcher St,41.9384,-87.698,Illinois,Avondale,"IRVING PARK,AVONDALE"
+401885,Avers Ave & Belmont Ave,41.9394,-87.7236,Illinois,Avondale,"IRVING PARK,AVONDALE"
+6286105,Albany Ave & Belmont Ave,41.94,-87.71,Illinois,Avondale,"IRVING PARK,AVONDALE"
+5091567,Elston Ave & Henderson St,41.94,-87.7,Illinois,Avondale,"IRVING PARK,AVONDALE"
+9739265,Monticello Ave & Belmont Ave,41.94,-87.72,Illinois,Avondale,"IRVING PARK,AVONDALE"
+10069959,Christiana Ave & Belmont Ave,41.94,-87.71,Illinois,Avondale,"IRVING PARK,AVONDALE"
+9736504,Milwaukee Ave & Haussen Ct,41.94,-87.72,Illinois,Avondale,"IRVING PARK,AVONDALE"
+10346453,Public Rack - Monticello Ave & Belmont Ave,41.94,-87.72,Illinois,Avondale,"IRVING PARK,AVONDALE"
+10399955,Public Rack - Christiana Ave & Belmont Ave,41.94,-87.71,Illinois,Avondale,"IRVING PARK,AVONDALE"
+10685277,Public Rack - Milwaukee Ave & Haussen Ct,41.94,-87.72,Illinois,Avondale,"IRVING PARK,AVONDALE"
+451980,Ellis Ave & 60th St,41.7851,-87.6011,Illinois,Woodlawn,WOODLAWN
+417037,Cottage Grove Ave & 63rd St,41.7806,-87.6061,Illinois,Woodlawn,WOODLAWN
+453761,Dorchester Ave & 63rd St,41.7804,-87.5914,Illinois,Woodlawn,WOODLAWN
+453760,Stony Island Ave & 64th St,41.7789,-87.5866,Illinois,Woodlawn,WOODLAWN
+416953,Cottage Grove Ave & 67th St,41.7737,-87.6056,Illinois,Woodlawn,WOODLAWN
+449352,Eberhart Ave & 61st St,41.7841,-87.6133,Illinois,Woodlawn,WOODLAWN
+9528228,Evans Ave & 63rd St,41.78,-87.61,Illinois,Woodlawn,WOODLAWN
+9525527,Harper Ave & 63rd St,41.78,-87.59,Illinois,Woodlawn,WOODLAWN
+9608605,Kimbark Ave & 63rd St,41.78,-87.59,Illinois,Woodlawn,WOODLAWN
+10079347,Keef Ave & South Chicago Ave,41.77,-87.61,Illinois,Woodlawn,WOODLAWN
+10615094,Public Rack - Woodlawn Ave & 63rd St - NE,41.78,-87.6,Illinois,Woodlawn,WOODLAWN
+10361967,Public Rack - Woodlawn Ave & 63rd St - SE,41.78,-87.6,Illinois,Woodlawn,WOODLAWN
+10249577,Public Rack - Eberhart Ave & 61st St,41.78,-87.61,Illinois,Woodlawn,WOODLAWN
+13121933,Public Rack - King Dr & 71st St,41.77,-87.61,Illinois,Woodlawn,WOODLAWN
+12847303,Public Rack - Marquette Rd & 67th St,41.77,-87.61,Illinois,Woodlawn,WOODLAWN
+12571428,Public Rack - Champlain Ave & 65th St,41.78,-87.61,Illinois,Woodlawn,WOODLAWN
+8892448,Park Manor Elementary School,41.77,-87.61,Illinois,Woodlawn,WOODLAWN
+14267612,Public Rack - Woodlawn Ave & 63rd St N,41.78,-87.6,Illinois,Woodlawn,WOODLAWN
+13803236,Public Rack - Evans Ave & 63rd St,41.78,-87.61,Illinois,Woodlawn,WOODLAWN
+14239266,Public Rack - Kimbark Ave & 63rd St,41.78,-87.59,Illinois,Woodlawn,WOODLAWN
+14085242,Public Rack - Woodlawn Ave & 63rd St S,41.78,-87.6,Illinois,Woodlawn,WOODLAWN
+14319346,Public Rack - Harper Ave & 63rd St,41.78,-87.59,Illinois,Woodlawn,WOODLAWN
+14103841,Public Rack - Keef Ave & South Chicago Ave,41.77,-87.61,Illinois,Woodlawn,WOODLAWN
+418355,DuSable Museum,41.7916,-87.6079,Illinois,Washington Park,WASHINGTON PARK
+447316,Prairie Ave & Garfield Blvd,41.7949,-87.6187,Illinois,Washington Park,WASHINGTON PARK
+423021,MLK Jr Dr & 56th St,41.7934,-87.6159,Illinois,Washington Park,WASHINGTON PARK
+398005,State St & 54th St,41.7966,-87.6259,Illinois,Washington Park,WASHINGTON PARK
+10078136,Calumet Ave & Garfield Blvd,41.79,-87.62,Illinois,Washington Park,WASHINGTON PARK
+10686023,Public Rack - Prairie Ave & Garfield Blvd,41.79,-87.62,Illinois,Washington Park,WASHINGTON PARK
+13135613,Public Rack - Langley Ave & 49th St,41.8,-87.61,Illinois,Washington Park,WASHINGTON PARK
+12969838,Public Rack - 53rd St & Indiana Ave,41.8,-87.62,Illinois,Washington Park,WASHINGTON PARK
+14238985,Public Rack - Washington Park Ct & 51st St,41.8,-87.62,Illinois,Washington Park,WASHINGTON PARK
+13886116,Public Rack - Calumet Ave & 51st St,41.8,-87.62,Illinois,Washington Park,WASHINGTON PARK
+14134669,Public Rack - Prairie Ave & Garfield Blvd N,41.79,-87.62,Illinois,Washington Park,WASHINGTON PARK
+11340872,Public Rack - Calumet Ave & Garfield Blvd,41.79,-87.62,Illinois,Washington Park,WASHINGTON PARK
+417857,Malcolm X College,41.8776,-87.6739,Illinois,United Center,UNITED CENTER
+402791,Damen Ave & Madison St,41.8814,-87.6749,Illinois,United Center,UNITED CENTER
+405628,Ashland Ave & Lake St,41.8859,-87.6672,Illinois,United Center,UNITED CENTER
+455445,Western Ave & Monroe St,41.8798,-87.6861,Illinois,United Center,UNITED CENTER
+451123,Damen Ave & Walnut (Lake) St (*),41.886,-87.677,Illinois,United Center,UNITED CENTER
+1057102,Damen Ave & Walnut (Lake) St,41.885951,-87.677009,Illinois,United Center,UNITED CENTER
+5427091,Malcolm X College Vaccination Site,41.87756766666666,-87.67388833333334,Illinois,United Center,UNITED CENTER
+5326399,Western Ave & Lake St,41.88,-87.69,Illinois,United Center,UNITED CENTER
+5202721,Washtenaw Ave & Madison St,41.88,-87.69,Illinois,United Center,UNITED CENTER
+423269,Union Ave & Root St,41.8191,-87.6433,Illinois,New City,BACK OF THE YARDS
+443429,Ashland Ave & McDowell Ave,41.8089,-87.6645,Illinois,New City,BACK OF THE YARDS
+421166,Halsted St & 47th Pl,41.8081,-87.6456,Illinois,New City,BACK OF THE YARDS
+394679,Seeley Ave & Garfield Blvd,41.7941,-87.6755,Illinois,New City,BACK OF THE YARDS
+425517,Western Blvd & 48th Pl,41.8057,-87.6834,Illinois,New City,BACK OF THE YARDS
+422928,Racine Ave & Garfield Blvd,41.7942,-87.6551,Illinois,New City,BACK OF THE YARDS
+423558,Halsted St & 51st St,41.8018,-87.6452,Illinois,New City,BACK OF THE YARDS
+420799,Damen Ave & 51st St,41.8009,-87.6747,Illinois,New City,BACK OF THE YARDS
+395031,Hoyne Ave & 47th St,41.8082,-87.6772,Illinois,New City,BACK OF THE YARDS
+461399,Marshfield Ave & 44th St,41.814,-87.6666,Illinois,New City,BACK OF THE YARDS
+445622,Ashland Ave & 50th St,41.803,-87.6647,Illinois,New City,BACK OF THE YARDS
+418906,Throop St & 52nd St,41.7997,-87.6572,Illinois,New City,BACK OF THE YARDS
+2086305,Elizabeth St & 47th St,41.8084,-87.6565,Illinois,New City,BACK OF THE YARDS
+10090555,Marshfield Ave & 45th St,41.81,-87.67,Illinois,New City,BACK OF THE YARDS
+10054226,Damen Ave & 47th St,41.81,-87.68,Illinois,New City,BACK OF THE YARDS
+9648509,Robert Fulton Elementary School,41.8,-87.67,Illinois,New City,BACK OF THE YARDS
+10045340,Ashland Ave & 45th St,41.81,-87.66,Illinois,New City,BACK OF THE YARDS
+9738904,Ashland Ave & 45th St - midblock south,41.81,-87.66,Illinois,New City,BACK OF THE YARDS
+10096341,Lowe Park,41.8,-87.64,Illinois,New City,BACK OF THE YARDS
+9964019,Ashland Ave & 46th St,41.81,-87.66,Illinois,New City,BACK OF THE YARDS
+9780157,Bishop St & 46th St,41.81,-87.66,Illinois,New City,BACK OF THE YARDS
+9511863,Wood St & 47th St,41.81,-87.67,Illinois,New City,BACK OF THE YARDS
+10201846,Emerald Ave & 43rd St,41.82,-87.64,Illinois,New City,BACK OF THE YARDS
+10500390,Laflin St & 51st St,41.8,-87.66,Illinois,New City,BACK OF THE YARDS
+10191853,Emerald Ave & 45th St,41.81,-87.64,Illinois,New City,BACK OF THE YARDS
+12701445,Halsted St & 41st St,41.82,-87.65,Illinois,New City,BACK OF THE YARDS
+12617636,Back of the Yards Park,41.8,-87.66,Illinois,New City,BACK OF THE YARDS
+14161510,Public Rack - Western Ave & 47th Pl,41.81,-87.68,Illinois,New City,BACK OF THE YARDS
+14136999,Public Rack - Ashland Ave & 45th St,41.81,-87.66,Illinois,New City,BACK OF THE YARDS
+14114787,Public Rack - Halsted St & 41st St,41.82,-87.65,Illinois,New City,BACK OF THE YARDS
+13685807,Public Rack - Robert Fulton Elementary School,41.8,-87.67,Illinois,New City,BACK OF THE YARDS
+14082159,Public Rack - Wood St & 47th St,41.81,-87.67,Illinois,New City,BACK OF THE YARDS
+14042308,Public Rack - Emerald Ave & 43rd St,41.82,-87.64,Illinois,New City,BACK OF THE YARDS
+11185323,Public Rack - Damen Ave & 47th St,41.81,-87.68,Illinois,New City,BACK OF THE YARDS
+11101730,Public Rack - Marshfield Ave & 45th St,41.81,-87.67,Illinois,New City,BACK OF THE YARDS
+11310943,Public Rack - Emerald Ave & 45th St,41.81,-87.64,Illinois,New City,BACK OF THE YARDS
+12459857,Public Rack - Laflin St & 51st St,41.8,-87.66,Illinois,New City,BACK OF THE YARDS
+12402450,Public Rack - Laflin St &51st ST,41.8,-87.66,Illinois,New City,BACK OF THE YARDS
+12433174,Public Rack - Loomis Blvd & 47th St,41.81,-87.66,Illinois,New City,BACK OF THE YARDS
+451378,Milwaukee Ave & Cuyler Ave,41.9545,-87.7496,Illinois,Portage Park,PORTAGE PARK
+4782875,Lamon Ave & Belmont Ave,41.94,-87.75,Illinois,Portage Park,PORTAGE PARK
+4273385,Cicero Ave & Grace St,41.95,-87.75,Illinois,Portage Park,PORTAGE PARK
+4765138,Long Ave & Belmont Ave,41.94,-87.76,Illinois,Portage Park,PORTAGE PARK
+4743308,Mason Ave & Belmont Ave,41.94,-87.77,Illinois,Portage Park,PORTAGE PARK
+7984237,Central Ave & Roscoe St,41.94,-87.77,Illinois,Portage Park,PORTAGE PARK
+7567956,Long & Irving Park,41.95,-87.76,Illinois,Portage Park,PORTAGE PARK
+9730384,Laramie Ave & Belmont Ave,41.94,-87.76,Illinois,Portage Park,PORTAGE PARK
+9852455,Cicero Ave & Wellington Ave,41.94,-87.75,Illinois,Portage Park,PORTAGE PARK
+9687449,Linder Ave & Belmont Ave,41.94,-87.76,Illinois,Portage Park,PORTAGE PARK
+9501376,Menard Ave & Belmont Ave,41.94,-87.77,Illinois,Portage Park,PORTAGE PARK
+9543821,Cicero Ave & Roscoe St,41.94,-87.75,Illinois,Portage Park,PORTAGE PARK
+9734812,Menard Ave & Dakin St - midblock,41.95,-87.77,Illinois,Portage Park,PORTAGE PARK
+9559433,Chopin Park,41.94,-87.76,Illinois,Portage Park,PORTAGE PARK
+10343980,Laramie Ave & Warwick Ave,41.95,-87.76,Illinois,Portage Park,PORTAGE PARK
+10362601,Public Rack - Chopin Park,41.94,-87.76,Illinois,Portage Park,PORTAGE PARK
+10511904,Public Rack - Laramie Ave & Belmont Ave,41.94,-87.76,Illinois,Portage Park,PORTAGE PARK
+10341225,Public Rack - Laramie Ave & Warwick Ave,41.95,-87.76,Illinois,Portage Park,PORTAGE PARK
+10735667,Public Rack - Linder Ave & Belmont Ave,41.94,-87.76,Illinois,Portage Park,PORTAGE PARK
+10827203,Public Rack - Cicero Ave & Wellington Ave,41.94,-87.75,Illinois,Portage Park,PORTAGE PARK
+10362698,Public Rack - Menard Ave & Dakin St - midblock,41.95,-87.77,Illinois,Portage Park,PORTAGE PARK
+10695062,Public Rack - Menard Ave & Belmont Ave,41.94,-87.77,Illinois,Portage Park,PORTAGE PARK
+10457761,Public Rack - Cicero Ave & Roscoe St,41.94,-87.75,Illinois,Portage Park,PORTAGE PARK
+422251,Museum of Science and Industry,41.7917,-87.5839,Illinois,Jackson Park,JACKSON PARK
+468855,63rd St Beach,41.781,-87.5761,Illinois,Jackson Park,JACKSON PARK
+453757,Cornell Dr & Hayes Dr,41.7806,-87.5848,Illinois,Jackson Park,JACKSON PARK
+453758,South Shore Dr & 67th St,41.7736,-87.5675,Illinois,Jackson Park,JACKSON PARK
+415915,Jeffery Blvd & 67th St,41.7735,-87.5771,Illinois,Jackson Park,JACKSON PARK
+468337,Stony Island Ave & 67th St,41.7735,-87.5853,Illinois,Jackson Park,JACKSON PARK
+457557,California Ave & 21st St,41.8538,-87.6957,Illinois,Little Village,LITTLE VILLAGE
+445008,Kedzie Ave & 21st St,41.8535,-87.7051,Illinois,Little Village,LITTLE VILLAGE
+428820,California Ave & 23rd Pl,41.8491,-87.6951,Illinois,Little Village,LITTLE VILLAGE
+468573,Millard Ave & 26th St,41.8446,-87.7159,Illinois,Little Village,LITTLE VILLAGE
+411117,Albany Ave & 26th St,41.8445,-87.702,Illinois,Little Village,LITTLE VILLAGE
+472758,Central Park Ave & 24th St,41.8481,-87.7151,Illinois,Little Village,LITTLE VILLAGE
+397619,Kedzie Ave & 24th St,41.8482,-87.7054,Illinois,Little Village,LITTLE VILLAGE
+433267,California Ave & 26th St,41.844,-87.6953,Illinois,Little Village,LITTLE VILLAGE
+4213422,Kildare Ave & 26th St,41.84,-87.73,Illinois,Little Village,LITTLE VILLAGE
+4775035,Pulaski Rd & 21st St,41.85,-87.72,Illinois,Little Village,LITTLE VILLAGE
+4533072,Tripp Ave & 31st St,41.84,-87.73,Illinois,Little Village,LITTLE VILLAGE
+8043877,Harding Ave & 26th St,41.84,-87.72,Illinois,Little Village,LITTLE VILLAGE
+7542629,Komensky Ave & 31st St,41.84,-87.73,Illinois,Little Village,LITTLE VILLAGE
+7474061,Lawndale Ave & 30th St,41.84,-87.72,Illinois,Little Village,LITTLE VILLAGE
+5086606,Rockwell St & Cermak Rd,41.85,-87.69,Illinois,Little Village,LITTLE VILLAGE
+5181451,Sacramento Ave & 25th St,41.85,-87.7,Illinois,Little Village,LITTLE VILLAGE
+5681771,California Ave & 29th St,41.84,-87.69,Illinois,Little Village,LITTLE VILLAGE
+11556234,La Villita Park (Albany/30th),41.84,-87.7,Illinois,Little Village,LITTLE VILLAGE
+11516967,Troy Ave & 27th St,41.84,-87.7,Illinois,Little Village,LITTLE VILLAGE
+10090094,Eli Whitney Public School,41.84,-87.73,Illinois,Little Village,LITTLE VILLAGE
+10740219,Whippie St & 26th St,41.84,-87.7,Illinois,Little Village,LITTLE VILLAGE
+10477366,Avers Ave & Ogden Ave,41.85,-87.72,Illinois,Little Village,LITTLE VILLAGE
+10702668,Homan Ave & 26th St,41.84,-87.71,Illinois,Little Village,LITTLE VILLAGE
+10291630,Piotrowski Park,41.84,-87.73,Illinois,Little Village,LITTLE VILLAGE
+10736993,Public Rack - Zapata Academy,41.84,-87.73,Illinois,Little Village,LITTLE VILLAGE
+10683724,Public Rack - Whipple St & 26th St,41.84,-87.7,Illinois,Little Village,LITTLE VILLAGE
+10384926,Public Rack - Eli Whitney Public School,41.84,-87.73,Illinois,Little Village,LITTLE VILLAGE
+10696938,Public Rack - Avers Ave & Ogden Ave,41.85,-87.72,Illinois,Little Village,LITTLE VILLAGE
+10718760,Public Rack - Homan Ave & 26th St,41.84,-87.71,Illinois,Little Village,LITTLE VILLAGE
+10821080,Public Rack - Karlov Ave & 26th St,41.84,-87.73,Illinois,Little Village,LITTLE VILLAGE
+12774047,Public Rack - Central Park Ave & Ogden Ave,41.85,-87.72,Illinois,Little Village,LITTLE VILLAGE
+8877122,Public Rack - Keeler Ave & 26th St,41.84,-87.73,Illinois,Little Village,LITTLE VILLAGE
+9033845,Public Rack - Komensky Ave & 26th St,41.84,-87.73,Illinois,Little Village,LITTLE VILLAGE
+14112529,Public Rack - Kedvale Ave & 26th St,41.84,-87.73,Illinois,Little Village,LITTLE VILLAGE
+14101939,Public Rack - Lawndale Ave & 23rd St,41.85,-87.72,Illinois,Little Village,LITTLE VILLAGE
+11258013,Public Rack - Piotrowski Park,41.84,-87.73,Illinois,Little Village,LITTLE VILLAGE
+401896,Washtenaw Ave & Ogden Ave,41.8619,-87.6935,Illinois,North Lawndale,NORTH LAWNDALE
+406452,Central Park Ave & Ogden Ave,41.8542,-87.7154,Illinois,North Lawndale,NORTH LAWNDALE
+435845,Kedzie Ave & Roosevelt Rd,41.8665,-87.7065,Illinois,North Lawndale,NORTH LAWNDALE
+414744,Fairfield Ave & Roosevelt Rd,41.8666,-87.6945,Illinois,North Lawndale,NORTH LAWNDALE
+4763189,Central Park Ave & Douglas Blvd,41.86,-87.72,Illinois,North Lawndale,NORTH LAWNDALE
+4248098,Lawndale Ave & 16th St,41.86,-87.72,Illinois,North Lawndale,NORTH LAWNDALE
+4748889,Homan Ave & Fillmore St,41.87,-87.71,Illinois,North Lawndale,NORTH LAWNDALE
+4763451,Tripp Ave & 15th St,41.86,-87.73,Illinois,North Lawndale,NORTH LAWNDALE
+4230778,Spaulding Ave & 16th St,41.86,-87.71,Illinois,North Lawndale,NORTH LAWNDALE
+12024153,California & 16th St,41.86,-87.7,Illinois,North Lawndale,NORTH LAWNDALE
+11550448,Kildare & Cermak,41.85,-87.73,Illinois,North Lawndale,NORTH LAWNDALE
+11597441,Albany Ave & 16th St,41.86,-87.7,Illinois,North Lawndale,NORTH LAWNDALE
+11694947,Albany Ave & Douglas Blvd,41.86,-87.7,Illinois,North Lawndale,NORTH LAWNDALE
+9729813,California Ave & Ogden Ave,41.86,-87.7,Illinois,North Lawndale,NORTH LAWNDALE
+9543146,Central Park Ave & Fillmore St,41.87,-87.71,Illinois,North Lawndale,NORTH LAWNDALE
+9655214,Penn Elementary School / KIPP Ascend Middle School,41.86,-87.72,Illinois,North Lawndale,NORTH LAWNDALE
+10368968,Public Rack - California Ave & Ogden Ave,41.86,-87.7,Illinois,North Lawndale,NORTH LAWNDALE
+10753885,Public Rack - Kostner Ave & 16th St,41.86,-87.73,Illinois,North Lawndale,NORTH LAWNDALE
+10695558,Public Rack - Penn Elementary School / KIPP Ascend Middle School,41.86,-87.72,Illinois,North Lawndale,NORTH LAWNDALE
+12839597,Public Rack - Roswell B. Mason Elementary School,41.86,-87.73,Illinois,North Lawndale,NORTH LAWNDALE
+13110945,Public Rack - Kedzie Ave & Arthington St,41.87,-87.71,Illinois,North Lawndale,NORTH LAWNDALE
+12643518,Public Rack - Central Park Ave & 16th St,41.86,-87.72,Illinois,North Lawndale,NORTH LAWNDALE
+13171571,Public Rack - Pulaski Rd & 15th St,41.86,-87.73,Illinois,North Lawndale,NORTH LAWNDALE
+9195846,Public Rack - S Kostner Ave & W 18th Pl,41.86,-87.73,Illinois,North Lawndale,NORTH LAWNDALE
+14012412,Public Rack - Homan Ave & Roosevelt,41.87,-87.71,Illinois,North Lawndale,NORTH LAWNDALE
+11260132,Public Rack - St Louis Ave & Flournoy St,41.87,-87.71,Illinois,North Lawndale,NORTH LAWNDALE
+396870,Field Museum,41.8653,-87.6179,Illinois,Museum Campus,MUSEUM CAMPUS
+468195,Burnham Harbor,41.8563,-87.6133,Illinois,Museum Campus,MUSEUM CAMPUS
+395413,Shedd Aquarium,41.8672,-87.6154,Illinois,Museum Campus,MUSEUM CAMPUS
+438864,Adler Planetarium,41.8661,-87.6073,Illinois,Museum Campus,MUSEUM CAMPUS
+392578,Keystone Ave & Fullerton Ave,41.9246,-87.7279,Illinois,Hermosa,"BELMONT CRAIGIN,HERMOSA"
+4736408,Kilpatrick Ave & Parker Ave,41.93,-87.74,Illinois,Hermosa,"BELMONT CRAIGIN,HERMOSA"
+8010062,Kostner Ave & Wrightwood Ave,41.93,-87.74,Illinois,Hermosa,"BELMONT CRAIGIN,HERMOSA"
+8029166,Kilbourn & Belden,41.92,-87.74,Illinois,Hermosa,"BELMONT CRAIGIN,HERMOSA"
+9666071,Kenton Ave & Palmer St,41.92,-87.74,Illinois,Hermosa,"BELMONT CRAIGIN,HERMOSA"
+10036987,Pulaski Rd & Armitage Ave,41.92,-87.73,Illinois,Hermosa,"BELMONT CRAIGIN,HERMOSA"
+10087092,Pulaski Rd & Fullerton Ave,41.92,-87.73,Illinois,Hermosa,"BELMONT CRAIGIN,HERMOSA"
+9727375,Kostner Ave & Armitage Ave,41.92,-87.74,Illinois,Hermosa,"BELMONT CRAIGIN,HERMOSA"
+10079108,Kilbourn Ave & Fullerton Ave,41.92,-87.74,Illinois,Hermosa,"BELMONT CRAIGIN,HERMOSA"
+10196104,Public Rack - Kenton Ave & Palmer St,41.92,-87.74,Illinois,Hermosa,"BELMONT CRAIGIN,HERMOSA"
+10347714,Public Rack - Pulaski Rd & Armitage Ave,41.92,-87.73,Illinois,Hermosa,"BELMONT CRAIGIN,HERMOSA"
+10889878,Public Rack - Pulaski Rd & Fullerton Ave,41.92,-87.73,Illinois,Hermosa,"BELMONT CRAIGIN,HERMOSA"
+10350717,Public Rack - Kilbourn Ave & Fullerton Ave,41.92,-87.74,Illinois,Hermosa,"BELMONT CRAIGIN,HERMOSA"
+12571915,Public Rack - Kostner Ave & Diversey Ave,41.93,-87.74,Illinois,Hermosa,"BELMONT CRAIGIN,HERMOSA"
+9199217,Public Rack - Kostner Ave & Wrightwood Ave,41.93,-87.74,Illinois,Hermosa,"BELMONT CRAIGIN,HERMOSA"
+14106689,Public Rack - Kostner Ave & Armitage Ave,41.92,-87.74,Illinois,Hermosa,"BELMONT CRAIGIN,HERMOSA"
+408205,Ellis Ave & 83rd St,41.7441,-87.599,Illinois,Chatham,"CHATHAM,BURNSIDE"
+401934,Cottage Grove Ave & 83rd St,41.7434,-87.6048,Illinois,Chatham,"CHATHAM,BURNSIDE"
+408823,Wabash Ave & 87th St,41.7366,-87.6226,Illinois,Chatham,"CHATHAM,BURNSIDE"
+462540,State St & 79th St,41.7508,-87.6244,Illinois,Chatham,"CHATHAM,BURNSIDE"
+465036,MLK Jr Dr & 83rd St,41.7431,-87.6148,Illinois,Chatham,"CHATHAM,BURNSIDE"
+441160,Wabash Ave & 83rd St,41.7433,-87.6228,Illinois,Chatham,"CHATHAM,BURNSIDE"
+407067,Vernon Ave & 79th St,41.7509,-87.6138,Illinois,Chatham,"CHATHAM,BURNSIDE"
+2021093,Greenwood Ave & 79th St,41.7513,-87.5976,Illinois,Chatham,"CHATHAM,BURNSIDE"
+1512247,Stewart Ave & 83rd St,41.743717,-87.634088,Illinois,Chatham,"CHATHAM,BURNSIDE"
+2386102,Eberhart Ave & 91st St,41.729267,-87.611829,Illinois,Chatham,"CHATHAM,BURNSIDE"
+1000493,Dauphin Ave & 87th St,41.73641933333333,-87.6012565,Illinois,Chatham,"CHATHAM,BURNSIDE"
+9730685,West Chatham Park,41.75,-87.63,Illinois,Chatham,"CHATHAM,BURNSIDE"
+9636342,Cottage Grove Ave & 87th St,41.74,-87.61,Illinois,Chatham,"CHATHAM,BURNSIDE"
+9636995,Cottage Grove & 86th St,41.74,-87.61,Illinois,Chatham,"CHATHAM,BURNSIDE"
+9739341,83rd St (Avalon Park) Metra,41.74,-87.6,Illinois,Chatham,"CHATHAM,BURNSIDE"
+9502732,Cottage Grove & 84th St,41.74,-87.6,Illinois,Chatham,"CHATHAM,BURNSIDE"
+10074613,Langley Ave & 79th St,41.75,-87.61,Illinois,Chatham,"CHATHAM,BURNSIDE"
+10091235,Lafayette Ave & 87th St - NW,41.74,-87.63,Illinois,Chatham,"CHATHAM,BURNSIDE"
+10097929,Tuley (Murray) Park,41.73,-87.61,Illinois,Chatham,"CHATHAM,BURNSIDE"
+9729639,Wentworth Ave & 79th St,41.75,-87.63,Illinois,Chatham,"CHATHAM,BURNSIDE"
+10092296,King Dr & 83rd St,41.74,-87.62,Illinois,Chatham,"CHATHAM,BURNSIDE"
+10446077,Cottage Grove & 85th St,41.74,-87.6,Illinois,Chatham,"CHATHAM,BURNSIDE"
+10293722,Maryland Ave & 87th ST,41.74,-87.6,Illinois,Chatham,"CHATHAM,BURNSIDE"
+10812745,Greenwood Ave & 87th St,41.74,-87.6,Illinois,Chatham,"CHATHAM,BURNSIDE"
+10848662,Ingleside Ave & 79th St,41.75,-87.6,Illinois,Chatham,"CHATHAM,BURNSIDE"
+10340067,Lafayette Ave & 87th St - SW,41.74,-87.63,Illinois,Chatham,"CHATHAM,BURNSIDE"
+13109064,Drexel Ave & 87th St,41.74,-87.6,Illinois,Chatham,"CHATHAM,BURNSIDE"
+12698964,Rhodes Ave & 79th St,41.75,-87.61,Illinois,Chatham,"CHATHAM,BURNSIDE"
+9012415,Public Rack - Langley Ave & 87th St,41.74,-87.61,Illinois,Chatham,"CHATHAM,BURNSIDE"
+14163376,Public Rack - Cottage Grove & 86th St,41.74,-87.6,Illinois,Chatham,"CHATHAM,BURNSIDE"
+14345888,Public Rack - Langley Ave & 79th St,41.75,-87.61,Illinois,Chatham,"CHATHAM,BURNSIDE"
+13789574,Public Rack - Cottage Grove Ave & 87th St,41.74,-87.61,Illinois,Chatham,"CHATHAM,BURNSIDE"
+14108434,Public Rack - Wentworth Ave & 79th St,41.75,-87.63,Illinois,Chatham,"CHATHAM,BURNSIDE"
+11239158,Public Rack - Cottage Grove & 85th St,41.74,-87.6,Illinois,Chatham,"CHATHAM,BURNSIDE"
+11099381,Public Rack - King Dr & 83rd St,41.74,-87.61,Illinois,Chatham,"CHATHAM,BURNSIDE"
+11018561,Public Rack - Wabash Ave & 87th St,41.74,-87.62,Illinois,Chatham,"CHATHAM,BURNSIDE"
+12191610,Public Rack - West Chatham Park,41.75,-87.63,Illinois,Chatham,"CHATHAM,BURNSIDE"
+12269239,Public Rack - Lafayette Ave & 87th St SW,41.74,-87.63,Illinois,Chatham,"CHATHAM,BURNSIDE"
+11786492,Public Rack - Burnside Academy,41.73,-87.61,Illinois,Chatham,"CHATHAM,BURNSIDE"
+453630,Commercial Ave & 83rd St,41.7446,-87.5512,Illinois,South Chicago,SOUTH CHICAGO
+453629,Exchange Ave & 79th St,41.7517,-87.5528,Illinois,South Chicago,SOUTH CHICAGO
+2028410,Phillips Ave & 83rd St,41.7445,-87.5651,Illinois,South Chicago,SOUTH CHICAGO
+2375767,Baltimore Ave & 87th St,41.73731083333333,-87.5485015,Illinois,South Chicago,SOUTH CHICAGO
+2110955,Houston Ave & 92nd St,41.72819466666667,-87.549638,Illinois,South Chicago,SOUTH CHICAGO
+2108764,Marquette Ave & 89th St,41.73375966666666,-87.558463,Illinois,South Chicago,SOUTH CHICAGO
+9670438,Houston Ave & 91st St,41.73,-87.55,Illinois,South Chicago,SOUTH CHICAGO
+9733242,Marquette Ave & 79th St,41.75,-87.56,Illinois,South Chicago,SOUTH CHICAGO
+9544744,Brandon Ave & 91st St,41.73,-87.55,Illinois,South Chicago,SOUTH CHICAGO
+10344293,Colfax Ave & 83rd St,41.74,-87.56,Illinois,South Chicago,SOUTH CHICAGO
+10190984,Commercial Ave & 89th St,41.73,-87.55,Illinois,South Chicago,SOUTH CHICAGO
+10200200,Buffalo Ave & 89th St,41.73,-87.54,Illinois,South Chicago,SOUTH CHICAGO
+13137369,Public Rack - Paxton Ave & 79th St,41.75,-87.57,Illinois,South Chicago,SOUTH CHICAGO
+13134717,Marquette Ave & 83rd St,41.74,-87.56,Illinois,South Chicago,SOUTH CHICAGO
+12748646,Public Rack - Jeffery Blvd & 81st St,41.75,-87.57,Illinois,South Chicago,SOUTH CHICAGO
+12517257,Mackinaw Ave & 85th St,41.74,-87.54,Illinois,South Chicago,SOUTH CHICAGO
+9197241,Public Rack - Crandon Ave & 80th St,41.75,-87.57,Illinois,South Chicago,SOUTH CHICAGO
+14137571,Public Rack - Brandon Ave & 91st St,41.73,-87.55,Illinois,South Chicago,SOUTH CHICAGO
+14218780,Public Rack - Buffalo Ave & 89th St,41.73,-87.54,Illinois,South Chicago,SOUTH CHICAGO
+13844772,Public Rack - Commercial Ave & 89th St,41.73,-87.55,Illinois,South Chicago,SOUTH CHICAGO
+13744568,Public Rack - Colfax Ave & 83rd St,41.74,-87.56,Illinois,South Chicago,SOUTH CHICAGO
+420978,Princeton Ave & 47th St,41.8093,-87.6334,Illinois,Fuller Park,BACK OF THE YARDS
+467918,Princeton Ave & Garfield Blvd,41.795,-87.6331,Illinois,Fuller Park,BACK OF THE YARDS
+441309,Shields Ave & 43rd St,41.8162,-87.6348,Illinois,Fuller Park,BACK OF THE YARDS
+10074562,Princeton Ave & 43rd St,41.82,-87.63,Illinois,Fuller Park,BACK OF THE YARDS
+9653391,State St & 47th st,41.81,-87.63,Illinois,Fuller Park,BACK OF THE YARDS
+10764842,Public Rack - State ST & 42nd St,41.82,-87.63,Illinois,Fuller Park,BACK OF THE YARDS
+463641,South Chicago Ave & 83rd St,41.7439,-87.5752,Illinois,Avalon Park,"AVALON PARK,CALUMET HEIGHTS"
+408423,Stony Island Ave & South Chicago Ave,41.7512,-87.5853,Illinois,Avalon Park,"AVALON PARK,CALUMET HEIGHTS"
+442973,Stony Island Ave & 82nd St,41.7466,-87.586,Illinois,Avalon Park,"AVALON PARK,CALUMET HEIGHTS"
+1743390,South Chicago Ave & Elliot Ave,41.747363,-87.580046,Illinois,Avalon Park,"AVALON PARK,CALUMET HEIGHTS"
+561212,Clyde Ave & 87th St,41.73717716666667,-87.57269933333333,Illinois,Avalon Park,"AVALON PARK,CALUMET HEIGHTS"
+9564684,Stony Island Ave & 86th St,41.74,-87.59,Illinois,Avalon Park,"AVALON PARK,CALUMET HEIGHTS"
+13275528,Public Rack - Stony Island & 87th St,41.74,-87.59,Illinois,Avalon Park,"AVALON PARK,CALUMET HEIGHTS"
+13140941,Public Rack - Clyde Ave & 87th St,41.74,-87.57,Illinois,Avalon Park,"AVALON PARK,CALUMET HEIGHTS"
+12666102,Public Rack - Cornell Ave & 87th Pl,41.74,-87.58,Illinois,Avalon Park,"AVALON PARK,CALUMET HEIGHTS"
+9195353,Jeffery Blvd & 83rd St,41.74,-87.57,Illinois,Avalon Park,"AVALON PARK,CALUMET HEIGHTS"
+14093428,Public Rack - East End Ave & 87th St,41.74,-87.58,Illinois,Avalon Park,"AVALON PARK,CALUMET HEIGHTS"
+12356818,Public Rack - Jeffery Blvd & 83rd St,41.74,-87.57,Illinois,Avalon Park,"AVALON PARK,CALUMET HEIGHTS"
+1105189,Halsted St & 78th St,41.752487,-87.643902,Illinois,Auburn Gresham,AUBURN GRESHAM
+1147393,Ashland Ave & 78th St,41.752223,-87.66377083333333,Illinois,Auburn Gresham,AUBURN GRESHAM
+2707250,Loomis Blvd & 84th St,41.741599666666666,-87.65842466666666,Illinois,Auburn Gresham,AUBURN GRESHAM
+2116442,Summit Ave & 86th St,41.73786366666667,-87.64490583333334,Illinois,Auburn Gresham,AUBURN GRESHAM
+8422505,Loomis St & 89th St,41.73249916666666,-87.65807416666667,Illinois,Auburn Gresham,AUBURN GRESHAM
+10082702,Loomis St & 87th St,41.74,-87.66,Illinois,Auburn Gresham,AUBURN GRESHAM
+9544863,Honore St & 87th St - SE,41.74,-87.67,Illinois,Auburn Gresham,AUBURN GRESHAM
+9622618,Ada St & 79th St,41.75,-87.66,Illinois,Auburn Gresham,AUBURN GRESHAM
+10087977,Justine St & 87th St,41.74,-87.66,Illinois,Auburn Gresham,AUBURN GRESHAM
+10097480,Morgan St & 87th St,41.74,-87.65,Illinois,Auburn Gresham,AUBURN GRESHAM
+10689641,Damen Ave & 84th St,41.74,-87.67,Illinois,Auburn Gresham,AUBURN GRESHAM
+10885474,Marshfield Ave & 87th St,41.74,-87.66,Illinois,Auburn Gresham,AUBURN GRESHAM
+10353656,Winchester Ave & 87th St,41.74,-87.67,Illinois,Auburn Gresham,AUBURN GRESHAM
+10190389,Sangamon St & 79th St,41.75,-87.65,Illinois,Auburn Gresham,AUBURN GRESHAM
+13172550,May St & 78th St,41.75,-87.65,Illinois,Auburn Gresham,AUBURN GRESHAM
+13222586,Halsted St & 80th St,41.75,-87.64,Illinois,Auburn Gresham,AUBURN GRESHAM
+13174646,Vincennes Ave & 87th St,41.74,-87.65,Illinois,Auburn Gresham,AUBURN GRESHAM
+12816987,Loomis Blvd & 83rd St,41.74,-87.66,Illinois,Auburn Gresham,AUBURN GRESHAM
+9340662,Public Rack - Ashland Ave & 83rd St,41.74,-87.66,Illinois,Auburn Gresham,AUBURN GRESHAM
+9463314,Racine Ave & 83rd St,41.74,-87.65,Illinois,Auburn Gresham,AUBURN GRESHAM
+9000962,Damen Ave & 80th St,41.75,-87.67,Illinois,Auburn Gresham,AUBURN GRESHAM
+9444733,Laflin St & 79th St,41.75,-87.66,Illinois,Auburn Gresham,AUBURN GRESHAM
+14091062,Public Rack - Loomis St & 87th St,41.74,-87.66,Illinois,Auburn Gresham,AUBURN GRESHAM
+14133766,Public Rack - Damen Ave & 80th St,41.75,-87.67,Illinois,Auburn Gresham,AUBURN GRESHAM
+14123616,Public Rack - Aida Food Market,41.75,-87.64,Illinois,Auburn Gresham,AUBURN GRESHAM
+11091922,Public Rack - Marshfield Ave & 87th St,41.74,-87.66,Illinois,Auburn Gresham,AUBURN GRESHAM
+11052491,Public Rack - May St & 78th St,41.75,-87.65,Illinois,Auburn Gresham,AUBURN GRESHAM
+10913754,Public Rack - Loomis Blvd & 83rd St,41.74,-87.66,Illinois,Auburn Gresham,AUBURN GRESHAM
+12401181,Public Rack - Morgan St & 87th St,41.74,-87.65,Illinois,Auburn Gresham,AUBURN GRESHAM
+2500046,East End Ave & 87th St,41.736779166666665,-87.58287333333334,Illinois,Calumet Heights,"AVALON PARK,CALUMET HEIGHTS"
+478878,Jeffery Blvd & 91st St,41.729738,-87.57595683333334,Illinois,Calumet Heights,"AVALON PARK,CALUMET HEIGHTS"
+477569,Stony Island Ave & 90th St,41.731379,-87.58585683333334,Illinois,Calumet Heights,"AVALON PARK,CALUMET HEIGHTS"
+7007394,Yates Blvd & 93rd St,41.72617683333333,-87.56641683333334,Illinois,Calumet Heights,"AVALON PARK,CALUMET HEIGHTS"
+10693553,Public Rack - Saginaw Ave & 93rd St,41.73,-87.56,Illinois,Calumet Heights,"AVALON PARK,CALUMET HEIGHTS"
+9448003,Muskegon Ave & 89th St,41.73,-87.56,Illinois,Calumet Heights,"AVALON PARK,CALUMET HEIGHTS"
+2161716,Elizabeth St & 92nd St,41.726829333333335,-87.65433933333334,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+2137791,Halsted St & 96th St,41.719712,-87.64302,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+501290,Eggleston Ave & 92nd St,41.72755966666666,-87.63487833333333,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+6986011,S Aberdeen St & W 106th St,41.7,-87.65,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+9603097,Ada St & 95th St,41.72,-87.66,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+10080041,Vincennes Ave & 99th St,41.71,-87.65,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+9502438,Racine Ave & 109th Pl,41.7,-87.65,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+9548432,Morgan St & 103rd St,41.71,-87.65,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+9847664,Green St & 103rd St,41.71,-87.64,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+10119976,Halsted St & 102nd St,41.71,-87.64,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+10085104,Parnell Ave & 103rd St,41.71,-87.64,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+10382218,Morgan St & 95th St,41.72,-87.65,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+10296892,Halsted St & 95th St - SW,41.72,-87.64,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+12499154,Vincennes Ave & 95th Pl,41.72,-87.65,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+12573964,Lowe Ave & 98th St,41.72,-87.64,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+13128009,Halsted St & 94th St,41.72,-87.64,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+13108207,Halsted St & 95th St - SE,41.72,-87.64,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+9082074,Public Rack - Ashland Ave & 91st St,41.73,-87.66,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+8804717,Percy Julian HS,41.71,-87.65,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+8794313,Parnell Ave & 98th St,41.72,-87.64,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+9475043,Public Rack - Brainerd Park,41.73,-87.65,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+14343253,Public Rack - Vincennes Ave & 95th St,41.72,-87.65,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+14094124,Public Rack - Morgan St & 95th St,41.72,-87.65,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+14343202,Public Rack - Halsted St & 95th St - SE,41.72,-87.64,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+14119371,Public Rack - Green St & 103rd St,41.71,-87.64,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+14033460,Public Rack - Halsted St & 102nd St,41.71,-87.64,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+14086866,Public Rack - Halsted St & 95th St - SW,41.72,-87.64,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+11378969,Public Rack - Parnell Ave & 103rd St,41.71,-87.64,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+11194152,Public Rack - Percy Julian HS,41.71,-87.65,Illinois,Washington Heights,"WASHINGTON HEIGHTS,ROSELAND"
+2163513,Prospect Sq & 91st St,41.72798433333333,-87.66762233333333,Illinois,Beverly,BEVERLY
+676399,Walden Pkwy & 100th St,41.71223883333333,-87.66767933333334,Illinois,Beverly,BEVERLY
+2962611,Western Ave & 104th St,41.70454066666667,-87.6811965,Illinois,Beverly,BEVERLY
+2769705,Vincennes Ave & 104th St,41.704937666666666,-87.65712816666667,Illinois,Beverly,BEVERLY
+9734468,Bell Ave & 95th St,41.72,-87.68,Illinois,Beverly,BEVERLY
+10074442,Walden Pkwy & 103rd St,41.71,-87.67,Illinois,Beverly,BEVERLY
+9727470,Wood St & 103rd St,41.71,-87.67,Illinois,Beverly,BEVERLY
+9582339,Western Ave & 92nd Pl,41.73,-87.68,Illinois,Beverly,BEVERLY
+9732125,Western Ave & 106th St - East,41.7,-87.68,Illinois,Beverly,BEVERLY
+9735088,Western Ave & 105th St,41.7,-87.68,Illinois,Beverly,BEVERLY
+9855631,Hamilton Ave & 95th St,41.72,-87.68,Illinois,Beverly,BEVERLY
+9543157,Longwood Dr & 95th St,41.72,-87.67,Illinois,Beverly,BEVERLY
+10352764,Western Ave & 104th St - East,41.7,-87.68,Illinois,Beverly,BEVERLY
+10350055,Western Ave & 100th St,41.71,-87.68,Illinois,Beverly,BEVERLY
+10740214,Walden Pkwy & 99th St,41.71,-87.67,Illinois,Beverly,BEVERLY
+13114538,Western Ave & 106th St - West,41.7,-87.68,Illinois,Beverly,BEVERLY
+13141213,Public Rack - Western Ave & 96th St,41.72,-87.68,Illinois,Beverly,BEVERLY
+12745986,Public Rack - Western Ave & 107th Pl,41.7,-87.68,Illinois,Beverly,BEVERLY
+12701053,Public Rack - Western Ave & 98th St,41.72,-87.68,Illinois,Beverly,BEVERLY
+9044665,Public Rack - Western Ave & 107th St,41.7,-87.68,Illinois,Beverly,BEVERLY
+8759839,Public Rack - 10557 S Western Ave,41.7,-87.68,Illinois,Beverly,BEVERLY
+13985371,Public Rack - Western Ave & 106th St - East,41.7,-87.68,Illinois,Beverly,BEVERLY
+14123551,Public Rack - Hamilton Ave & 95th St,41.72,-87.68,Illinois,Beverly,BEVERLY
+14246651,Public Rack - Wood St & 103rd St,41.71,-87.67,Illinois,Beverly,BEVERLY
+14119087,Public Rack - Western Ave & 105th St,41.7,-87.68,Illinois,Beverly,BEVERLY
+14111434,Public Rack - Western Ave & 104th St - East,41.7,-87.68,Illinois,Beverly,BEVERLY
+14115758,Public Rack - Walden Pkwy & 103rd St,41.71,-87.67,Illinois,Beverly,BEVERLY
+14107765,Public Rack - Bell Ave & 95th St,41.72,-87.68,Illinois,Beverly,BEVERLY
+14125752,Public Rack - Western Ave & 92nd Pl,41.73,-87.68,Illinois,Beverly,BEVERLY
+13761643,Public Rack - Western Ave & 100th St,41.71,-87.68,Illinois,Beverly,BEVERLY
+11337419,Public Rack - Walden Pkwy & 99th St,41.71,-87.67,Illinois,Beverly,BEVERLY
+10957056,Public Rack - Western Ave & 104th St - West,41.7,-87.68,Illinois,Beverly,BEVERLY
+11322618,Public Rack - Longwood Dr & 95th St,41.72,-87.67,Illinois,Beverly,BEVERLY
+2159030,State St & 95th St,41.721587,-87.62284033333333,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+2533633,Indiana Ave & 103rd St,41.7071655,-87.61839216666667,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+2119259,Dauphin Ave & 103rd St,41.70731216666667,-87.6077295,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+493886,Vernon Ave & 107th St,41.70025433333333,-87.61234616666667,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+519117,Halsted St & 104th St,41.70500216666667,-87.64235616666667,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+894204,Michigan Ave & 114th St,41.68700566666666,-87.62117916666666,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+476129,Wentworth Ave & 104th St,41.70536533333333,-87.62890533333334,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+5879447,Chicago State University,41.718984,-87.60836633333334,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+5874413,S Wentworth Ave & W 111th St,41.69,-87.63,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+9730015,Michigan Ave & 113th St,41.69,-87.62,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+10092343,Michigan Ave & 96th St,41.72,-87.62,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+10074962,Lafayette Ave & 95th St,41.72,-87.62,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+9733152,Michigan Ave & 110th St,41.69,-87.62,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+10087948,Michigan Ave & 102nd St,41.71,-87.62,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+9624792,Perry Ave & 108th Pl,41.7,-87.63,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+10232689,Calumet Ave & 103rd St,41.71,-87.62,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+10357345,Wallace St & 112 St,41.69,-87.64,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+10306610,Harvard Ave & 103rd St,41.71,-87.63,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+13180770,Wentworth Ave & 103rd St,41.71,-87.63,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+12943174,Abbott Park,41.72,-87.62,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+12842984,Public Rack - Michigan Ave & 107th St,41.7,-87.62,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+12548024,Public Rack - Perry Ave & 111th St,41.69,-87.63,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+13131166,Public Rack - Normal Ave & 111th St,41.69,-87.64,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+12980374,Public Rack - Halsted St & 109th St,41.7,-87.64,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+13143627,Public Rack - Union Ave & 111th St,41.69,-87.64,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+13115141,Public Rack - Halsted St & 113th St,41.69,-87.64,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+12888667,Eggleston Ave & 114th St,41.69,-87.63,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+9482236,Eggleston Ave & 115th St,41.69,-87.63,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+9455811,Langley Ave & 105th Pl,41.7,-87.61,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+9194560,Lawrence Ave & 103rd St,41.71,-87.61,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+14139098,Public Rack - Lafayette Ave & 95th St,41.72,-87.62,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+14118061,Public Rack - Michigan Ave & 96th St,41.72,-87.62,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+13994510,Public Rack - Eggleston Ave & 115th St,41.69,-87.63,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+11244109,Public Rack - Michigan Ave & 113th St,41.69,-87.62,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+11354719,Public Rack - Perry Ave & 108th Pl,41.7,-87.63,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+12391804,Public Rack - Wentworth Ave & 103rd St,41.71,-87.63,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+12441520,Public Rack - Halsted St & 111th St,41.69,-87.64,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+12425709,Public Rack - Abbott Park,41.72,-87.62,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+11780654,Public Rack - Harvard Ave & 103rd St,41.71,-87.63,Illinois,Roseland,"WASHINGTON HEIGHTS,ROSELAND"
+2360648,Cottage Grove Ave & 111th Pl,41.6916825,-87.60996666666666,Illinois,Pullman,PULLMAN
+492156,Greenwood Ave & 97th St,41.7187315,-87.59698966666667,Illinois,Pullman,PULLMAN
+8418023,Woodlawn & 103rd - Olive Harvey Vaccination Site,41.71,-87.59,Illinois,Pullman,PULLMAN
+7023450,Maryland Ave & 104th St,41.71,-87.6,Illinois,Pullman,PULLMAN
+3260841,Doty Ave & 111th St,41.6950495,-87.59877016666667,Illinois,Pullman,PULLMAN
+5634650,Olive Harvey College,41.709526,-87.590236,Illinois,Pullman,PULLMAN
+10074239,Cottage Grove Ave & 111th St,41.69,-87.61,Illinois,Pullman,PULLMAN
+9524028,Pullman - Walmart,41.7,-87.6,Illinois,Pullman,PULLMAN
+9843846,Cottage Grove Ave & 98th St,41.72,-87.6,Illinois,Pullman,PULLMAN
+10082170,Pullman - Planet Fitness,41.7,-87.6,Illinois,Pullman,PULLMAN
+10227353,Martin Luther King Dr & 111th St,41.69,-87.61,Illinois,Pullman,PULLMAN
+10343369,Public Rack - King Dr & 115th St,41.69,-87.61,Illinois,Pullman,PULLMAN
+10770453,Pullman - Ross Dress for Less,41.7,-87.6,Illinois,Pullman,PULLMAN
+10342954,Stony Island & 95th St,41.72,-87.59,Illinois,Pullman,PULLMAN
+9486061,Corliss Ave & 103rd St,41.71,-87.6,Illinois,Pullman,PULLMAN
+14095366,Public Rack - Pullman - Walmart,41.7,-87.6,Illinois,Pullman,PULLMAN
+14089411,Public Rack - Pullman - Planet Fitness,41.7,-87.6,Illinois,Pullman,PULLMAN
+14080809,Public Rack - Cottage Grove Ave & 98th St,41.72,-87.6,Illinois,Pullman,PULLMAN
+2361948,Oglesby Ave & 100th St,41.713397,-87.565841,Illinois,South Deering,SOUTHEAST SIDE
+779041,Constance Ave & 95th St,41.72206666666666,-87.57896733333334,Illinois,South Deering,SOUTHEAST SIDE
+805779,Torrence Ave & 106th St,41.7028,-87.559726,Illinois,South Deering,SOUTHEAST SIDE
+482427,Big Marsh Park,41.68586233333333,-87.5737605,Illinois,South Deering,SOUTHEAST SIDE
+2734556,Bradley Park,41.71792966666667,-87.56461066666667,Illinois,South Deering,SOUTHEAST SIDE
+5398403,Commercial Ave & 100th St,41.71330583333334,-87.55117416666667,Illinois,South Deering,SOUTHEAST SIDE
+10064834,Oglesby Ave & 95th St,41.72,-87.57,Illinois,South Deering,SOUTHEAST SIDE
+9737032,Oglesby Ave & 105th St,41.71,-87.57,Illinois,South Deering,SOUTHEAST SIDE
+10392233,Bensley Ave & 103rd St,41.71,-87.56,Illinois,South Deering,SOUTHEAST SIDE
+10494477,Torrence Ave  & 106th St,41.7,-87.56,Illinois,South Deering,SOUTHEAST SIDE
+12522264,Torrence Ave & 103rd St,41.71,-87.56,Illinois,South Deering,SOUTHEAST SIDE
+8754508,Bennett Ave & 96th St,41.72,-87.58,Illinois,South Deering,SOUTHEAST SIDE
+9248179,10101 S Stony Island Ave,41.71,-87.58,Illinois,South Deering,SOUTHEAST SIDE
+9088037,Pullman Community Center,41.7,-87.59,Illinois,South Deering,SOUTHEAST SIDE
+13809038,Orville T Bright School,41.7,-87.56,Illinois,South Deering,SOUTHEAST SIDE
+14045290,Public Rack - Yates Ave & 100th St,41.71,-87.56,Illinois,South Deering,SOUTHEAST SIDE
+14133197,Public Rack - Pullman Community Center,41.7,-87.59,Illinois,South Deering,SOUTHEAST SIDE
+12261990,Public Rack - Bensley Ave & 103rd St,41.71,-87.56,Illinois,South Deering,SOUTHEAST SIDE
+940422,Greenwood Ave & 91st St,41.7287195,-87.59726583333334,Illinois,Burnside,"CHATHAM,BURNSIDE"
+9545022,Cottage Grove Ave & 91st St,41.73,-87.6,Illinois,Burnside,"CHATHAM,BURNSIDE"
+10885541,Cottage Grove Ave & 89th Pl,41.73,-87.6,Illinois,Burnside,"CHATHAM,BURNSIDE"
+13123729,Cottage Grove Ave & 92nd St,41.73,-87.6,Illinois,Burnside,"CHATHAM,BURNSIDE"
+12462169,Public Rack - Cottage Grove Ave & 92nd St,41.73,-87.6,Illinois,Burnside,"CHATHAM,BURNSIDE"
+996052,Major Taylor Trail & 115th St,41.68496716666667,-87.6453465,Illinois,West Pullman,WEST PULLMAN
+517266,State St & 123rd St,41.670677,-87.62279333333333,Illinois,West Pullman,WEST PULLMAN
+958216,Major Taylor Trail & 124th St,41.668712166666666,-87.63722966666667,Illinois,West Pullman,WEST PULLMAN
+24579,S Michigan Ave & E 118th St,41.68,-87.62,Illinois,West Pullman,WEST PULLMAN
+9762828,Stewart Ave & 123rd St,41.67,-87.63,Illinois,West Pullman,WEST PULLMAN
+9544833,Parnell Ave & 119th St,41.68,-87.63,Illinois,West Pullman,WEST PULLMAN
+10581197,Michigan Ave & 119th St,41.68,-87.62,Illinois,West Pullman,WEST PULLMAN
+10343573,Harvard Ave & 119th St,41.68,-87.63,Illinois,West Pullman,WEST PULLMAN
+12604687,Ada St & 117th St,41.68,-87.66,Illinois,West Pullman,WEST PULLMAN
+13134936,Lafayette Ave & 119th St,41.68,-87.62,Illinois,West Pullman,WEST PULLMAN
+13131069,Yale Ave & 119th St,41.68,-87.63,Illinois,West Pullman,WEST PULLMAN
+13102739,Ada St & 119th St,41.68,-87.65,Illinois,West Pullman,WEST PULLMAN
+9321321,Public Rack - Wallace St & 119th St,41.68,-87.64,Illinois,West Pullman,WEST PULLMAN
+11409287,Public Rack - Stewart Ave & 123rd St,41.67,-87.63,Illinois,West Pullman,WEST PULLMAN
+12419362,Public Rack - Michigan Ave & 119th St,41.68,-87.62,Illinois,West Pullman,WEST PULLMAN
+1003714,Burnham Greenway & 105th St,41.70462216666667,-87.5284175,Illinois,East Side,SOUTHEAST SIDE
+552079,Ewing Ave & Burnham Greenway,41.712712833333335,-87.53458616666667,Illinois,East Side,SOUTHEAST SIDE
+3949610,Avenue L & 114th St,41.69,-87.54,Illinois,East Side,SOUTHEAST SIDE
+4099155,Calumet Park,41.71371916666666,-87.53080833333334,Illinois,East Side,SOUTHEAST SIDE
+11994815,Burnham Greenway & 112th St,41.69177385116831,-87.53043115139008,Illinois,East Side,SOUTHEAST SIDE
+9551591,Ewing Ave & 99th St,41.72,-87.54,Illinois,East Side,SOUTHEAST SIDE
+9778463,Ewing Ave & 106th St,41.7,-87.54,Illinois,East Side,SOUTHEAST SIDE
+10033633,Mackinaw Ave & 108th St,41.7,-87.54,Illinois,East Side,SOUTHEAST SIDE
+10695362,Ewing Ave & 105th St,41.7,-87.53,Illinois,East Side,SOUTHEAST SIDE
+10533457,Ewing Ave & 96th St,41.72,-87.54,Illinois,East Side,SOUTHEAST SIDE
+10691277,Avenue J & 102nd St,41.71,-87.53,Illinois,East Side,SOUTHEAST SIDE
+10819433,Ewing Ave & Indianapolis Ave,41.71,-87.54,Illinois,East Side,SOUTHEAST SIDE
+10676881,Mackinaw Ave & 106th St,41.7,-87.54,Illinois,East Side,SOUTHEAST SIDE
+10357569,Avenue J & 106th St,41.7,-87.53,Illinois,East Side,SOUTHEAST SIDE
+10295769,Ewing Ave & 101st St,41.71,-87.54,Illinois,East Side,SOUTHEAST SIDE
+13109364,Ewing Ave & 112th St,41.69,-87.54,Illinois,East Side,SOUTHEAST SIDE
+12664922,Public Rack - Ewing Ave & 106th St,41.7,-87.54,Illinois,East Side,SOUTHEAST SIDE
+12517595,Public Rack - Ave N & 106th St,41.7,-87.54,Illinois,East Side,SOUTHEAST SIDE
+13179995,Public Rack - Ewing Ave & 107th St,41.7,-87.54,Illinois,East Side,SOUTHEAST SIDE
+8798564,Public Rack - Ave L & 105th St,41.7,-87.54,Illinois,East Side,SOUTHEAST SIDE
+8799223,Public Rack - Ewing Ave & 95th St,41.72,-87.54,Illinois,East Side,SOUTHEAST SIDE
+14079695,Public Rack - Ewing Ave & 96th St N,41.72,-87.54,Illinois,East Side,SOUTHEAST SIDE
+14339872,Public Rack - Ewing Ave & 101st St,41.71,-87.54,Illinois,East Side,SOUTHEAST SIDE
+14120685,Public Rack - Ewing Ave & 105th St,41.7,-87.54,Illinois,East Side,SOUTHEAST SIDE
+11261596,Public Rack - Ewing Ave & 102nd St,41.71,-87.54,Illinois,East Side,SOUTHEAST SIDE
+11257791,Public Rack - Mackinaw Ave & 106th St,41.7,-87.54,Illinois,East Side,SOUTHEAST SIDE
+12426346,Public Rack - Ewing Ave & 106th St NW,41.7,-87.54,Illinois,East Side,SOUTHEAST SIDE
+12441128,Public Rack - Avenue J & 106th St,41.7,-87.53,Illinois,East Side,SOUTHEAST SIDE
+11860772,Public Rack - Ewing Ave & 96th St S,41.72,-87.54,Illinois,East Side,SOUTHEAST SIDE
+11833738,Public Rack - Avenue J & 102nd St,41.71,-87.53,Illinois,East Side,SOUTHEAST SIDE
+11777082,Public Rack - Ewing Ave & 99th St,41.72,-87.54,Illinois,East Side,SOUTHEAST SIDE
+492673,Halsted St & 111th St,41.69228966666667,-87.64269866666666,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+2772319,Hale Ave & 107th St,41.699202,-87.66887216666667,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+2762739,Homewood Ave & 115th St,41.68457033333333,-87.6708795,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+2744576,Ada St & 113th St,41.68753483333333,-87.6552665,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+2756903,Western Ave & 111th St,41.691211,-87.68124266666666,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+9736845,111th St - Morgan Park Metra,41.69,-87.67,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+9729478,Homewood Ave & Monterey Ave,41.69,-87.67,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+10092989,Hoyne Ave & 110th Pl,41.69,-87.67,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+10124126,Rockwell & 111th St,41.69,-87.69,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+10079867,Western Ave & 118th St,41.68,-87.68,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+10324977,Longwood Dr & 111th St,41.69,-87.67,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+10543020,Western Ave & 111th St - NW,41.69,-87.68,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+10687306,Western Ave & 111th St - SE,41.69,-87.68,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+10731052,Western Ave & 111th St - SW,41.69,-87.68,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+13205921,Hale Ave & 111th St,41.69,-87.67,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+12661305,Public Rack - Western Ave & 110th St,41.69,-87.68,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+9015598,Western Ave & 116th St,41.68,-87.68,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+14136056,Public Rack - Hoyne Ave & 110th Pl,41.69,-87.67,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+14097075,Public Rack - Rockwell & 111th St,41.69,-87.69,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+14165159,Public Rack - Racine Ave & 109th Pl,41.69,-87.65,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+14077795,Public Rack - Western Ave & 111th St - SW,41.69,-87.68,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+14356814,Public Rack - Throop St & 109th Pl,41.69,-87.65,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+14097137,Public Rack - 111th St - Morgan Park Metra,41.69,-87.67,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+13758228,Public Rack - Western Ave & 111th St - NW,41.69,-87.68,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+14083150,Public Rack - Western Ave & 118th St,41.68,-87.68,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+11051476,Public Rack - Western Ave & 116th St,41.68,-87.68,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+12279657,Public Rack - Longwood Dr & 111th St,41.69,-87.67,Illinois,Morgan Park,"MOUNT GREENWOOD,MORGAN PARK"
+569357,Avenue O & 134th St,41.651867,-87.539671,Illinois,Hegewisch,SOUTHEAST SIDE
+559947,Torrence Ave & 126th Pl,41.66628516666667,-87.55710416666666,Illinois,Hegewisch,SOUTHEAST SIDE
+993026,Avenue O & 118th St,41.68100983333333,-87.538001,Illinois,Hegewisch,SOUTHEAST SIDE
+2743725,Commercial Ave & 130th St,41.6591145,-87.55078466666667,Illinois,Hegewisch,SOUTHEAST SIDE
+248941,Hegewisch Metra Station,41.6485,-87.546089,Illinois,Hegewisch,SOUTHEAST SIDE
+9639710,Avenue J & 112th St,41.69,-87.53,Illinois,Hegewisch,SOUTHEAST SIDE
+9512727,Avenue M & 132nd St,41.66,-87.54,Illinois,Hegewisch,SOUTHEAST SIDE
+10686765,Baltimore Ave & 132nd St,41.66,-87.55,Illinois,Hegewisch,SOUTHEAST SIDE
+10606018,Buffalo Ave & 133rd St,41.65,-87.54,Illinois,Hegewisch,SOUTHEAST SIDE
+10607460,Baltimore Ave & 133rd St,41.65,-87.55,Illinois,Hegewisch,SOUTHEAST SIDE
+12200416,Public Rack - Baltimore Ave & 132nd St,41.66,-87.55,Illinois,Hegewisch,SOUTHEAST SIDE
+11884919,Public Rack - Buffalo Ave & 133rd St,41.65,-87.54,Illinois,Hegewisch,SOUTHEAST SIDE
+11793322,Public Rack - Houston Ave & 131st St,41.66,-87.55,Illinois,Hegewisch,SOUTHEAST SIDE
+11776986,Public Rack - Avenue J & 112th St,41.69,-87.53,Illinois,Hegewisch,SOUTHEAST SIDE
+992593,Eberhart Ave & 131st St,41.657947666666665,-87.61076616666666,Illinois,Riverdale,RIVERDALE
+3897815,Altgeld Gardens,41.6570855,-87.5988655,Illinois,Riverdale,RIVERDALE
+10092411,Champlain Ave & 134th St,41.66,-87.61,Illinois,Riverdale,RIVERDALE
+9470803,Ellis Ave & 132nd Pl,41.66,-87.6,Illinois,Riverdale,RIVERDALE
+9128286,Corliss Ave & 133rd St,41.65,-87.6,Illinois,Riverdale,RIVERDALE
+11860669,Public Rack - Ellis Ave & Doty Ave,41.66,-87.6,Illinois,Riverdale,RIVERDALE
+2743312,Lawndale Ave & 111th St,41.691305,-87.71281766666667,Illinois,Mount Greenwood,"MOUNT GREENWOOD,MORGAN PARK"
+5425726,Kedzie Ave & 110th St,41.6924035,-87.70094716666667,Illinois,Mount Greenwood,"MOUNT GREENWOOD,MORGAN PARK"
+4034080,Kedzie Ave & 104th St,41.7,-87.7,Illinois,Mount Greenwood,"MOUNT GREENWOOD,MORGAN PARK"
+8429189,W 103rd St & S Avers Ave,41.71,-87.72,Illinois,Mount Greenwood,"MOUNT GREENWOOD,MORGAN PARK"
+9577566,Sawyer Ave & 111th St,41.69,-87.7,Illinois,Mount Greenwood,"MOUNT GREENWOOD,MORGAN PARK"
+9792738,Albany Ave & 111th St - NW,41.69,-87.7,Illinois,Mount Greenwood,"MOUNT GREENWOOD,MORGAN PARK"
+10243583,Troy & 111th St,41.69,-87.7,Illinois,Mount Greenwood,"MOUNT GREENWOOD,MORGAN PARK"
+10485789,Mt Greenwood Library - South,41.69,-87.7,Illinois,Mount Greenwood,"MOUNT GREENWOOD,MORGAN PARK"
+10444374,Mt Greenwood Library - North,41.69,-87.7,Illinois,Mount Greenwood,"MOUNT GREENWOOD,MORGAN PARK"
+13129820,Homan Ave & 111th St,41.69,-87.71,Illinois,Mount Greenwood,"MOUNT GREENWOOD,MORGAN PARK"
+13139148,Trumbull Ave & 111th St,41.69,-87.71,Illinois,Mount Greenwood,"MOUNT GREENWOOD,MORGAN PARK"
+13111775,Christiana Ave & 111th St,41.69,-87.7,Illinois,Mount Greenwood,"MOUNT GREENWOOD,MORGAN PARK"
+14094256,Public Rack - Homan Ave & 111th St,41.69,-87.71,Illinois,Mount Greenwood,"MOUNT GREENWOOD,MORGAN PARK"
+14076060,Public Rack - Troy & 111th St,41.69,-87.7,Illinois,Mount Greenwood,"MOUNT GREENWOOD,MORGAN PARK"
+13839819,Public Rack - Mt Greenwood Library N,41.69,-87.7,Illinois,Mount Greenwood,"MOUNT GREENWOOD,MORGAN PARK"
+10980643,Public Rack - Albany Ave & 111th St - NW,41.69,-87.7,Illinois,Mount Greenwood,"MOUNT GREENWOOD,MORGAN PARK"
+4331052,Lavergne & Fullerton,41.92,-87.75,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+4446413,Long Ave & Belden Ave,41.92,-87.76,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+4413492,Meade Ave & Diversey Ave,41.93,-87.78,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+4761750,Parkside Ave & Armitage Ave,41.92,-87.77,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+4836074,Central Ave & Parker Ave,41.93,-87.77,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+7542198,Mulligan Ave & Wellington Ave,41.93,-87.78,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+7454615,351,41.93,-87.78,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+8027668,Lockwood Ave & Wrightwood Ave,41.93,-87.76,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+8171228,Lamon Ave & Armitage Ave,41.92,-87.75,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+3362734,Narragansett & Wrightwood,41.93,-87.79,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+3762339,Narragansett & McLean,41.92,-87.79,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+12121403,Fullerton & Monitor,41.92,-87.77,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+10084546,Central Ave & George St,41.93,-87.77,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+9735226,Narragansett Ave & Fullerton Ave,41.92,-87.78,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+9734675,Laramie Ave & Fullerton Ave,41.92,-87.76,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+9526852,Cicero Ave & Wrightwood Ave,41.93,-87.75,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+10092600,Austin Ave & Wrightwood Ave,41.93,-87.78,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+10087186,Laramie Ave & Grand Ave,41.92,-87.76,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+10001728,Menard Ave & Grand Ave,41.92,-87.77,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+9727541,Cicero Ave & Cortland St - midblock,41.92,-87.75,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+10097538,N Narragansett Ave & Grand Ave,41.92,-87.79,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+10080796,Cicero Ave & Altgeld St,41.93,-87.75,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+9727313,Austin Ave & Wellington Ave - midblock,41.93,-87.78,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+9661313,McVicker Ave & Grand Ave,41.92,-87.78,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+10794523,WestChi,41.92729883333333,-87.78524683333333,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+10361598,Public Rack - Lorel Ave & Grand Ave,41.92,-87.76,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+10224013,Public Rack - Cicero Ave & Wrightwood Ave,41.93,-87.75,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+10362739,Public Rack - Central Ave & George St,41.93,-87.77,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+10169040,Public Rack - Cicero Ave & Cortland St - midblock,41.92,-87.75,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+10485565,Public Rack - Narragansett Ave & Fullerton Ave,41.92,-87.78,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+10740546,Public Rack - Laramie Ave & Grand Ave,41.92,-87.76,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+10687313,Public Rack - Laramie Ave & Fullerton Ave,41.92,-87.76,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+10382143,Public Rack - Cicero Ave & Altgeld St,41.93,-87.75,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+10346148,Public Rack - Austin Ave & Wrightwood Ave,41.93,-87.78,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+10299600,Public Rack - McVicker Ave & Grand Ave,41.92,-87.78,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+10796115,Public Rack - Menard Ave & Grand Ave,41.92,-87.77,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+10686536,Public Rack - Austin Ave & Wellington Ave - midblock,41.93,-87.78,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+13107021,Public Rack - Fullerton Ave & Lavergne Ave,41.92,-87.75,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+13103833,Public Rack - Lockwood Ave & Diversey Ave,41.93,-87.76,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+13106683,Public Rack - Fullerton Ave & Narragansett Ave,41.92,-87.79,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+9495247,Public Rack - Laporte Ave & Armitage Ave,41.92,-87.75,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+13725979,Public Rack - N Narragansett Ave & Grand Ave,41.92,-87.78,Illinois,Belmont Cragin,"BELMONT CRAGIN,HERMOSA"
+7395246,Meade Ave & Addison St,41.95,-87.78,Illinois,Dunning,DUNNING
+7607306,Narragansett Ave & School St,41.94,-87.79,Illinois,Dunning,DUNNING
+7423772,Plainfield & Irving Park,41.95,-87.83,Illinois,Dunning,DUNNING
+8175465,Roscoe & Harlem,41.94,-87.81,Illinois,Dunning,DUNNING
+8043784,Oketo Ave & Addison St,41.94,-87.81,Illinois,Dunning,DUNNING
+7928689,Harlem Ave & Grace St,41.95,-87.81,Illinois,Dunning,DUNNING
+3182597,Orange & Addison,41.94,-87.82,Illinois,Dunning,DUNNING
+3788414,Narragansett & Irving Park,41.95,-87.79,Illinois,Dunning,DUNNING
+3774101,Harlem & Irving Park,41.95,-87.81,Illinois,Dunning,DUNNING
+3658375,Panama Ave & Grace St,41.95,-87.83,Illinois,Dunning,DUNNING
+6464649,Shabbona Park,41.94,-87.8,Illinois,Dunning,DUNNING
+10052975,Oleander Ave & Addison St,41.95,-87.82,Illinois,Dunning,DUNNING
+9588106,Austin Ave & Roscoe St,41.94,-87.78,Illinois,Dunning,DUNNING
+9735803,Rutherford Ave & Belmont Ave,41.94,-87.79,Illinois,Dunning,DUNNING
+9528930,Newcastle Ave & Belmont Ave,41.94,-87.8,Illinois,Dunning,DUNNING
+9598175,Melvina Ave & Belmont Ave,41.94,-87.78,Illinois,Dunning,DUNNING
+10094952,Hiawatha Park,41.94,-87.83,Illinois,Dunning,DUNNING
+10344335,Pittsburgh Ave & Irving Park,41.95,-87.83,Illinois,Dunning,DUNNING
+10359188,Ozark Ave & Addison St,41.95,-87.82,Illinois,Dunning,DUNNING
+10677210,New England Ave & Grace St,41.95,-87.8,Illinois,Dunning,DUNNING
+10696852,Public Rack - Austin Ave & Roscoe St,41.94,-87.78,Illinois,Dunning,DUNNING
+10686932,Public Rack - Melvina Ave & Belmont Ave,41.94,-87.78,Illinois,Dunning,DUNNING
+10356467,Nordica Ave & Addison St,41.95,-87.8,Illinois,Dunning,DUNNING
+10185536,Nagle Ave & Belmont Ave,41.94,-87.79,Illinois,Dunning,DUNNING
+10340506,Canty Elementary School,41.95,-87.83,Illinois,Dunning,DUNNING
+12604251,Plainfield Ave & Irving Park Rd,41.95,-87.83,Illinois,Dunning,DUNNING
+13113071,Panama Ave & Forest Preserve Ave,41.94,-87.83,Illinois,Dunning,DUNNING
+13134843,Oketo Ave & Belmont Ave,41.94,-87.81,Illinois,Dunning,DUNNING
+14102748,Public Rack - Nagle Ave & Belmont Ave,41.94,-87.79,Illinois,Dunning,DUNNING
+14028029,Public Rack - Rutherford Ave & Belmont Ave,41.94,-87.79,Illinois,Dunning,DUNNING
+13849266,Public Rack - Ozark Ave & Addison St,41.95,-87.82,Illinois,Dunning,DUNNING
+14129300,Public Rack - Austin Ave & Wellington Ave,41.94,-87.78,Illinois,Dunning,DUNNING
+13836327,Public Rack - Oketo Ave & Belmont Ave,41.94,-87.81,Illinois,Dunning,DUNNING
+13831246,Public Rack - Nordica Ave & Addison St,41.95,-87.8,Illinois,Dunning,DUNNING
+13738282,Public Rack - Roscoe St & Osceola Ave,41.94,-87.81,Illinois,Dunning,DUNNING
+11259292,Public Rack - Oleander Ave & Addison St,41.94,-87.82,Illinois,Dunning,DUNNING
+11320919,Public Rack - Newcastle Ave & Belmont Ave,41.94,-87.8,Illinois,Dunning,DUNNING
+11256183,Public Rack - Canty Elementary School,41.95,-87.83,Illinois,Dunning,DUNNING
+11780841,Public Rack - Newcastle Ave & Wellington Ave,41.94,-87.8,Illinois,Dunning,DUNNING
+8175104,Sayre & Diversey,41.93,-87.8,Illinois,Montclare,"MONTCLARE, GALEWOOD"
+3281537,Oak Park & Wellington,41.93,-87.8,Illinois,Montclare,"MONTCLARE, GALEWOOD"
+9730466,Newland Ave & Diversey Ave,41.93,-87.8,Illinois,Montclare,"MONTCLARE, GALEWOOD"
+9645357,Newcastle Ave & Wellington Ave,41.93,-87.8,Illinois,Montclare,"MONTCLARE, GALEWOOD"
+7727328,North Ave & New England Ave,41.91,-87.8,Illinois,Galewood,"MONTCLARE, GALEWOOD"
+3775279,Nordica & Medill,41.92,-87.8,Illinois,Galewood,"MONTCLARE, GALEWOOD"
+10098243,Harvey Ave & North Ave,41.91,-87.78,Illinois,Galewood,"MONTCLARE, GALEWOOD"
+10050180,Newcastle Ave & Belden Ave,41.92,-87.8,Illinois,Galewood,"MONTCLARE, GALEWOOD"
+9621534,Austin Blvd & North Ave,41.91,-87.78,Illinois,Galewood,"MONTCLARE, GALEWOOD"
+10091685,Harriet E Sayre Public School,41.91,-87.8,Illinois,Galewood,"MONTCLARE, GALEWOOD"
+10346139,N Sayre Ave & W Belden Ave,41.92,-87.8,Illinois,Galewood,"MONTCLARE, GALEWOOD"
+10356620,Public Rack - Harvey Ave & North Ave,41.91,-87.78,Illinois,Galewood,"MONTCLARE, GALEWOOD"
+10725883,Public Rack - Austin Blvd & North Ave,41.91,-87.78,Illinois,Galewood,"MONTCLARE, GALEWOOD"
+14112052,Public Rack - Neva Ave & Grand Ave,41.92,-87.8,Illinois,Galewood,"MONTCLARE, GALEWOOD"
+14106943,Public Rack - Harriet E Sayre Public School,41.91,-87.8,Illinois,Galewood,"MONTCLARE, GALEWOOD"
+11318939,Public Rack - N Sayre Ave & W Belden Ave,41.92,-87.8,Illinois,Galewood,"MONTCLARE, GALEWOOD"
+3771491,Kedzie Ave & 52nd St,41.8,-87.7,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+3790431,Kedzie Ave & 48th Pl,41.8,-87.7,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+3245976,St Louis Ave & Norman Bobbins Ave,41.79,-87.71,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+3779163,Richmond St & 59th St,41.79,-87.7,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+3310328,Maplewood Ave & 59th St,41.79,-87.69,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+6035992,Rockwell St & 57th St,41.79,-87.69,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+6238434,Artesian Ave & 55th St,41.79,-87.69,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+6238603,Kedzie Ave & 57th St,41.79,-87.7,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+6487327,Campbell Ave & 51st St,41.8,-87.69,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+6639459,St Louis Ave & 59th St,41.79,-87.71,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+9919054,Kedzie Ave & 54th St - SW,41.8,-87.7,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+10094956,Western Blvd & 49th St,41.8,-87.68,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+10084155,Talman Ave & 51st St - midblock,41.8,-87.69,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+9500441,Kedzie Ave & 58th St,41.79,-87.7,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+9843885,Kedzie Ave & 54th St - SE,41.79,-87.7,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+9735917,Christiana Ave & 55th St,41.79,-87.71,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+13182572,Western Blvd & 53rd St,41.8,-87.68,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+13114059,"Senka ""Edward Duke"" Park",41.79,-87.71,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+9045078,Public Rack - Kedzie Ave & 60th St,41.79,-87.7,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+9379608,Public Rack - Kedzie Ave & 54th St - SE,41.79,-87.7,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+14165087,Public Rack - Western Blvd & 49th St,41.8,-87.68,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+13969176,Public Rack - Oakley Ave & 50th Pl,41.8,-87.68,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+14008512,Public Rack - Hoyne Ave & 51st St,41.8,-87.68,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+14079096,Public Rack - Kedzie Ave & 58th St,41.79,-87.7,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+14132737,Public Rack - Kedzie Ave & 54th Pl,41.79,-87.7,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+14123829,Public Rack - Kedzie Ave & 54th St - SW,41.8,-87.7,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+11334512,Public Rack - Talman Ave & 51st St,41.8,-87.69,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+11330103,"Public Rack - Senka ""Edward Duke"" Park",41.79,-87.71,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+11802967,Public Rack - Christiana Ave & 55th St,41.79,-87.71,Illinois,Gage Park,"MARQUETTE PARK,GAGE PARK"
+3150832,Western Ave & 62nd St,41.78,-87.68,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+6582194,Spaulding Ave & 63rd St,41.78,-87.71,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+6475305,California Ave & Marquette Rd,41.77,-87.69,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+11538133,Rockwell St & 63rd St,41.78,-87.69,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+11612371,Homan Ave & 65th St,41.78,-87.71,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+9692345,63rd & Western Ave - south corner,41.78,-87.68,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+9757853,Kedzie Ave & 64th St - SW,41.78,-87.7,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+10087105,Kedzie Ave & 63rd St,41.78,-87.7,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+10095642,63rd & Western Ave - north corner,41.78,-87.68,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+9868437,Albany Ave & 63rd St,41.78,-87.7,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+10090515,Claremont Ave & 71st St,41.76,-87.68,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+10091415,Kedzie Ave & 61st Pl,41.78,-87.7,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+10064645,NewHastings,41.779269218,-87.683834195,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+10413147,Kedzie Ave & 64th St - SE,41.78,-87.7,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+10735843,Public Rack - Lawndale Ave & 63rd St,41.78,-87.71,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+10342153,Washtenaw Ave & 63rd St,41.78,-87.69,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+9466532,Public Rack - Kedzie Ave &amp; 62nd Pl,41.78,-87.7,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+8844913,Public Rack - Kedzie Ave & 61st Pl,41.78,-87.7,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+14168928,Public Rack - Kedzie Ave & 62nd Pl,41.78,-87.7,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+14126524,Public  Rack - Albany Ave & 63rd St,41.78,-87.7,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+14096352,Public Rack - Lawndale & 63rd St,41.78,-87.71,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+14053103,Public Rack - Kedzie Ave & 61st Pl E,41.78,-87.7,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+14115596,Public Rack - Kedzie Ave & 61st Pl W,41.78,-87.7,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+14327623,Public Rack - Kedzie Ave & 64th St - SW,41.78,-87.7,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+14104039,Public Rack - Fairfield Ave & 63rd St,41.78,-87.69,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+14091508,Public Rack - 63rd & Western Ave N,41.78,-87.68,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+14083098,Public Rack - Maplewood Ave & 63rd St,41.78,-87.69,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+14107980,Public Rack - Claremont Ave & 71st St,41.76,-87.68,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+11260095,Public Rack - Kedzie Ave & 64th St - SE,41.78,-87.7,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+11337200,Public Rack - 63rd & Western Ave S,41.78,-87.68,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+11257657,Public Rack - Kedzie Ave & 63rd St,41.78,-87.7,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+11334304,Public Rack - Whipple St & 63rd St,41.78,-87.7,Illinois,Chicago Lawn,"MARQUETTE PARK,GAGE PARK"
+3633067,California Ave & 36th St,41.83,-87.69,Illinois,Brighton Park,"BRIGHTON PARK,MCKINLEY PARK"
+3126769,Rockwell St & Archer Ave,41.82,-87.69,Illinois,Brighton Park,"BRIGHTON PARK,MCKINLEY PARK"
+3631672,Sacramento Ave & Pershing Rd,41.82,-87.7,Illinois,Brighton Park,"BRIGHTON PARK,MCKINLEY PARK"
+3164593,Archer Ave & 43rd St,41.82,-87.7,Illinois,Brighton Park,"BRIGHTON PARK,MCKINLEY PARK"
+6565497,Fairfield Ave & 44th St,41.81,-87.69,Illinois,Brighton Park,"BRIGHTON PARK,MCKINLEY PARK"
+5377400,Francisco Ave & 47th St,41.81,-87.7,Illinois,Brighton Park,"BRIGHTON PARK,MCKINLEY PARK"
+12114187,Kedzie Ave & 45th St,41.81,-87.7,Illinois,Brighton Park,"BRIGHTON PARK,MCKINLEY PARK"
+9573833,Christiana Ave & Archer Ave,41.81,-87.71,Illinois,Brighton Park,"BRIGHTON PARK,MCKINLEY PARK"
+9701630,Kedzie Ave & Archer Ave,41.81,-87.7,Illinois,Brighton Park,"BRIGHTON PARK,MCKINLEY PARK"
+9993562,Brighton Park Branch Chicago Library,41.82,-87.7,Illinois,Brighton Park,"BRIGHTON PARK,MCKINLEY PARK"
+9581845,Kedzie Ave & Pershing Rd,41.82,-87.7,Illinois,Brighton Park,"BRIGHTON PARK,MCKINLEY PARK"
+9972777,California Ave & Pershing Rd,41.82,-87.69,Illinois,Brighton Park,"BRIGHTON PARK,MCKINLEY PARK"
+9161931,Public Rack - Talman Ave & Pershing Rd,41.82,-87.69,Illinois,Brighton Park,"BRIGHTON PARK,MCKINLEY PARK"
+8803073,Public Rack - Kedzie Ave & Archer Ave,41.81,-87.7,Illinois,Brighton Park,"BRIGHTON PARK,MCKINLEY PARK"
+13737642,Public Rack - Christiana Ave & Archer Ave,41.81,-87.71,Illinois,Brighton Park,"BRIGHTON PARK,MCKINLEY PARK"
+14243788,Public Rack - California Ave & Pershing Rd,41.82,-87.69,Illinois,Brighton Park,"BRIGHTON PARK,MCKINLEY PARK"
+14179444,Public Rack - Kedzie Ave & Pershing Rd,41.82,-87.7,Illinois,Brighton Park,"BRIGHTON PARK,MCKINLEY PARK"
+13783250,Public Rack - Maplewood Ave & 47th St,41.81,-87.69,Illinois,Brighton Park,"BRIGHTON PARK,MCKINLEY PARK"
+11867259,Public Rack - Brighton Park Branch Chicago Library,41.82,-87.7,Illinois,Brighton Park,"BRIGHTON PARK,MCKINLEY PARK"
+6632588,Komensky Ave & 55th St,41.79,-87.72,Illinois,West Elsdon,"ARCHER HEIGHTS,WEST ELSDON"
+6483938,Pulaski Rd & 51st St,41.8,-87.72,Illinois,West Elsdon,"ARCHER HEIGHTS,WEST ELSDON"
+6553919,Kildare Ave & 55th St,41.79,-87.73,Illinois,West Elsdon,"ARCHER HEIGHTS,WEST ELSDON"
+10094310,Komensky Ave & 59th St,41.79,-87.72,Illinois,West Elsdon,"ARCHER HEIGHTS,WEST ELSDON"
+9728781,Pulaski Rd & 51st Rd,41.8,-87.72,Illinois,West Elsdon,"ARCHER HEIGHTS,WEST ELSDON"
+10028421,Strohacker Park,41.79,-87.73,Illinois,West Elsdon,"ARCHER HEIGHTS,WEST ELSDON"
+9606173,Pulaski & 52nd,41.8,-87.72,Illinois,West Elsdon,"ARCHER HEIGHTS,WEST ELSDON"
+9660055,Avers Ave & Archer Ave,41.8,-87.72,Illinois,West Elsdon,"ARCHER HEIGHTS,WEST ELSDON"
+10221425,Keeler Ave & 55th St,41.79,-87.73,Illinois,West Elsdon,"ARCHER HEIGHTS,WEST ELSDON"
+14132577,Public Rack - Avers Ave & Archer Ave,41.8,-87.72,Illinois,West Elsdon,"ARCHER HEIGHTS,WEST ELSDON"
+14104473,Public Rack - Pulaski Rd & 51st Rd,41.8,-87.72,Illinois,West Elsdon,"ARCHER HEIGHTS,WEST ELSDON"
+13736571,Public Rack - Pulaski & 52nd,41.8,-87.72,Illinois,West Elsdon,"ARCHER HEIGHTS,WEST ELSDON"
+11313648,Public Rack - Keeler Ave & 55th St,41.79,-87.73,Illinois,West Elsdon,"ARCHER HEIGHTS,WEST ELSDON"
+11016834,Public Rack - Komensky Ave & 59th St,41.79,-87.72,Illinois,West Elsdon,"ARCHER HEIGHTS,WEST ELSDON"
+6082354,Tripp Ave & 65th St,41.77,-87.73,Illinois,West Lawn,WEST LAWN
+6530961,Hamlin Ave & 62nd Pl,41.78,-87.72,Illinois,West Lawn,WEST LAWN
+6240477,Pulaski Rd & 60th St,41.78,-87.72,Illinois,West Lawn,WEST LAWN
+6478986,Kostner Ave & 63rd St,41.78,-87.73,Illinois,West Lawn,WEST LAWN
+10093667,Kildare Ave & 63rd St,41.78,-87.73,Illinois,West Lawn,WEST LAWN
+9551986,Kenneth Ave & 63rd St,41.78,-87.73,Illinois,West Lawn,WEST LAWN
+9560983,Kedvale Ave & 63rd St,41.78,-87.72,Illinois,West Lawn,WEST LAWN
+10123033,Springfield Ave & 63rd St,41.78,-87.72,Illinois,West Lawn,WEST LAWN
+13133946,West Lawn Park,41.77,-87.73,Illinois,West Lawn,WEST LAWN
+13738760,Public Rack - Pulaski Rd & 65th St,41.77,-87.72,Illinois,West Lawn,WEST LAWN
+13914614,Public Rack - Kedvale Ave & 63rd St,41.78,-87.73,Illinois,West Lawn,WEST LAWN
+13824216,Public Rack - Pulaski Rd &amp; 65th St,41.77,-87.72,Illinois,West Lawn,WEST LAWN
+14088570,Public Rack - Komensky Ave & 63rd St,41.78,-87.72,Illinois,West Lawn,WEST LAWN
+14105670,Public Rack - Springfield Ave & 63rd St,41.78,-87.72,Illinois,West Lawn,WEST LAWN
+13765034,Public Rack - Kildare Ave & 63rd St,41.78,-87.73,Illinois,West Lawn,WEST LAWN
+13764310,Public Rack - Kenneth Ave & 63rd St E,41.78,-87.73,Illinois,West Lawn,WEST LAWN
+11339808,Public Rack - Kedvale Ave & 63rd St W,41.78,-87.73,Illinois,West Lawn,WEST LAWN
+12441792,Public Rack - Kenneth Ave & 63rd St W,41.78,-87.73,Illinois,West Lawn,WEST LAWN
+12426280,Public Rack - Kedvale Ave & 63rd St E,41.78,-87.73,Illinois,West Lawn,WEST LAWN
+6553149,Springfield Ave & 47th St,41.81,-87.72,Illinois,Archer Heights,"ARCHER HEIGHTS,WEST ELSDON"
+6632971,Pulaski & Ann Lurie Pl,41.82,-87.72,Illinois,Archer Heights,"ARCHER HEIGHTS,WEST ELSDON"
+6574548,Kenneth Ave & 50th St,41.8,-87.73,Illinois,Archer Heights,"ARCHER HEIGHTS,WEST ELSDON"
+5057141,Kildare Ave & 47th St,41.81,-87.73,Illinois,Archer Heights,"ARCHER HEIGHTS,WEST ELSDON"
+9878812,Pulaski Rd & 44th St,41.81,-87.72,Illinois,Archer Heights,"ARCHER HEIGHTS,WEST ELSDON"
+10087802,Pulaski Rd & 41st,41.82,-87.72,Illinois,Archer Heights,"ARCHER HEIGHTS,WEST ELSDON"
+10089813,Kolin Ave & Archer Ave,41.8,-87.73,Illinois,Archer Heights,"ARCHER HEIGHTS,WEST ELSDON"
+9694766,Harding Ave & 47th St,41.81,-87.72,Illinois,Archer Heights,"ARCHER HEIGHTS,WEST ELSDON"
+10321064,Pulaski Rd & 40th St,41.82,-87.73,Illinois,Archer Heights,"ARCHER HEIGHTS,WEST ELSDON"
+9221120,Public Rack - Pulaski Rd & 40th St,41.82,-87.72,Illinois,Archer Heights,"ARCHER HEIGHTS,WEST ELSDON"
+9464132,Public Rack - Pulaski Rd & 44th St,41.81,-87.72,Illinois,Archer Heights,"ARCHER HEIGHTS,WEST ELSDON"
+14114195,Pubic Rack - Pulaski Rd & 41st,41.82,-87.72,Illinois,Archer Heights,"ARCHER HEIGHTS,WEST ELSDON"
+14091097,Public Rack - Harding Ave & 47th St,41.81,-87.72,Illinois,Archer Heights,"ARCHER HEIGHTS,WEST ELSDON"
+14118286,Public Rack - Kolin Ave & Archer Ave,41.8,-87.73,Illinois,Archer Heights,"ARCHER HEIGHTS,WEST ELSDON"
+6211067,Lavergne Ave & 46th St,41.81,-87.75,Illinois,Garfield Ridge,MIDWAY AIRPORT
+6176958,Lawler Ave & 50th St,41.8,-87.75,Illinois,Garfield Ridge,MIDWAY AIRPORT
+10091325,Midway Orange Line,41.79,-87.74,Illinois,Garfield Ridge,MIDWAY AIRPORT
+9994566,Lamon Ave & Archer Ave,41.8,-87.74,Illinois,Garfield Ridge,MIDWAY AIRPORT
+10686808,Archer Park,41.8,-87.74,Illinois,Garfield Ridge,MIDWAY AIRPORT
+14097290,Public Rack - Midway Orange Line,41.79,-87.74,Illinois,Garfield Ridge,MIDWAY AIRPORT
+10064314,Western Ave & 79th St,41.75,-87.68,Illinois,Ashburn,ASHBURN
+14113083,Public Rack - Western Ave & 79th St,41.75,-87.68,Illinois,Ashburn,ASHBURN
+10286141,Greenwood Ave & Lake Park Ave,41.82,-87.6,Illinois,Oakland,"OAKLAND,KENWOOD"
+13894152,Public Rack - Greenwood Ave & Lake Park Ave,41.82,-87.6,Illinois,Oakland,"OAKLAND,KENWOOD"

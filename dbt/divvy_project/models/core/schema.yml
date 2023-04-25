@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: dim_neighbourhoods
+    description: >
+      List of unique neighborhoods and their geo-locational information identified by station name. 
+  - name: facts_divvy
+    description: >
+      Bike trips corresponding to both subscribers (member and casual).
+      The table contains both user and geo-locational records.
