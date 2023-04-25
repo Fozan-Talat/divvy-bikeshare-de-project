@@ -41,3 +41,5 @@ The following technologies are used to build this project
 Check out the interactive dashboard [here](https://lookerstudio.google.com/reporting/3f37599d-b72c-4197-9cd3-8ca25288742f)
 
 ![](images/divvy_dashboard.PNG)
+
+## Reproduce it yourself
