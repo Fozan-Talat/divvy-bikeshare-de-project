@@ -85,3 +85,10 @@ terraform apply -var="project=<your-gcp-project-id>"
 ```bash
 python prefect/prefect_blocks.py
 ```
+- To execute the flow, run the following commands in two different terminals
+```bash
+prefect agent start -q 'default'
+```
+```bash
+python prefect/web_to_gcs_to_bq.py
+```
