@@ -18,3 +18,5 @@ The following technologies are used to build this project
 - Prefect - for orchestration <br>
 - dbt - for transformation and data modeling <br>
 - Google Looker studio - for visualizations <br>
+## Data Pipeline Architecture
+![data-pipline](images/divvy.png)
