@@ -38,4 +38,5 @@ The following technologies are used to build this project
 |end_lng |Longitude of the End Station|
 |member_casual | Field with Two Values Indicating Whether the Rider has a Divvy Membership or Paid with Credit Card(Casual)|
 ## Dashboard
-![alt tex](images/divvy-dash.gif)
+Check out the interactive dashboard here
+![alt tex](images/divvy_dashboard)
