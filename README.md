@@ -43,3 +43,14 @@ Check out the interactive dashboard [here](https://lookerstudio.google.com/repor
 ![](images/divvy_dashboard.PNG)
 
 ## Reproduce it yourself
+1. Setup your Google Cloud environment
+- Create a [Google Cloud Platform project](https://console.cloud.google.com/cloud-resource-manager)
+- Configure Identity and Access Management (IAM) for the service account, giving it the following privileges: BigQuery Admin, Storage Admin and Storage Object Admin
+- Download the JSON credentials and save it, e.g. to `~/.gc/<credentials>`
+- Install the [Google Cloud SDK](https://cloud.google.com/sdk/docs/install-sdk)
+- Let the [environment variable point to your GCP key](https://cloud.google.com/docs/authentication/application-default-credentials#GAC), authenticate it and refresh the session token
+```bash
+export GOOGLE_APPLICATION_CREDENTIALS=<path_to_your_credentials>.json
+gcloud auth activate-service-account --key-file $GOOGLE_APPLICATION_CREDENTIALS
+gcloud auth application-default login
+```
