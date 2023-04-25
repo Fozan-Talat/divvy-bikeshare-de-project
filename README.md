@@ -61,3 +61,20 @@ Check out this [link](https://www.youtube.com/watch?v=Hajwnmj0xfQ&list=PL3MmuxUb
 ```bash
 pip install -r requirements.txt
 ```
+3. Setup your infrastructure
+- Run the following commands to install Terraform - if you are using a different OS please choose the correct version [here](https://developer.hashicorp.com/terraform/downloads) and exchange the download link and zip file name
+
+```bash
+sudo apt-get install unzip
+cd ~/bin
+wget https://releases.hashicorp.com/terraform/1.4.1/terraform_1.4.1_linux_amd64.zip
+unzip terraform_1.4.1_linux_amd64.zip
+rm terraform_1.4.1_linux_amd64.zip
+```
+- To initiate, plan and apply the infrastructure, adjust and run the following Terraform commands
+```bash
+cd terraform/
+terraform init
+terraform plan -var="project=<your-gcp-project-id>"
+terraform apply -var="project=<your-gcp-project-id>"
+```
