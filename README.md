@@ -46,7 +46,11 @@ Check out the interactive dashboard [here](https://lookerstudio.google.com/repor
 1. First fork this repo, and clone it to your local environment.
 2. Setup your Google Cloud environment
 - Create a [Google Cloud Platform project](https://console.cloud.google.com/cloud-resource-manager)
-- Configure Identity and Access Management (IAM) for the service account, giving it the following privileges: BigQuery Admin, Storage Admin and Storage Object Admin
+- Configure Identity and Access Management (IAM) for the service account, giving it the following privileges: 
+    - Viewer
+    - Storage Admin 
+    - Storage Object Admin 
+    - BigQuery Admin
 - Download the JSON credentials and save it, e.g. to `~/.gc/<credentials>`
 - Install the [Google Cloud SDK](https://cloud.google.com/sdk/docs/install-sdk)
 - Let the [environment variable point to your GCP key](https://cloud.google.com/docs/authentication/application-default-credentials#GAC), authenticate it and refresh the session token
