@@ -94,7 +94,7 @@ python prefect/web_to_gcs_to_bq.py
 ```
 - After running the flow web_to_gcs_to_bq.py you will find the data at divvy_data_raw.divvy_default_data, the flow will take around 45 mins to complete.
 6. Data tranformation and modeling using dbt
-cd into the dbt/divvy_project and run the following command
+`cd` into the dbt/divvy_project directory and run the following command
 ```bash
 dbt build --var 'is_test_run: false'
 ```
