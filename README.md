@@ -44,7 +44,7 @@ Check out the interactive dashboard [here](https://lookerstudio.google.com/repor
 
 ## Reproduce it yourself
 1. First fork this repo, and clone it to your local environment.
-<br>
+
 `git clone https://github.com/Fozan-Talat/divvy-bikeshare-de-project.git`
 3. Setup your Google Cloud environment
 - Create a [Google Cloud Platform project](https://console.cloud.google.com/cloud-resource-manager)
