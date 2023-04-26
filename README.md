@@ -74,6 +74,7 @@ wget https://releases.hashicorp.com/terraform/1.4.1/terraform_1.4.1_linux_amd64.
 unzip terraform_1.4.1_linux_amd64.zip
 rm terraform_1.4.1_linux_amd64.zip
 ```
+- change the variables.tf file with your corresponding variables, I would recommend to leave the name of the dataset, table and bucket as they are; otherwise you need to change them in the prefect flows and dbt.
 - To initiate, plan and apply the infrastructure, adjust and run the following Terraform commands
 ```bash
 cd terraform/
