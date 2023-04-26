@@ -47,7 +47,7 @@ Check out the interactive dashboard [here](https://lookerstudio.google.com/repor
 
 `git clone https://github.com/Fozan-Talat/divvy-bikeshare-de-project.git`
 
-3. Setup your Google Cloud environment
+2. Setup your Google Cloud environment
 - Create a [Google Cloud Platform project](https://console.cloud.google.com/cloud-resource-manager)
 - Configure Identity and Access Management (IAM) for the service account, giving it the following privileges: 
     - Viewer
