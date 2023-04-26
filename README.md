@@ -60,6 +60,8 @@ Check out this [link](https://www.youtube.com/watch?v=Hajwnmj0xfQ&list=PL3MmuxUb
 
 3. Install all required dependencies into your environment
 ```bash
+conda create -n divvy_project python=3.10
+conda activate divvy_project
 pip install -r requirements.txt
 ```
 4. Setup your infrastructure
