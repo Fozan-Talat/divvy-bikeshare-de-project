@@ -110,5 +110,7 @@ You will get 4 tables in divvy_data_dbt data set
   - facts_divvy
   - stg_divvy_data
 
-You can now query the data and connect it to looker to visualize the data, when connecting to data source use facts_divvy table to build the data source in looker, dont use partitioned table, as you wont get any data in your report.
+7. Data Vizualization and Dashboarding
+- You can now query the data and connect it to looker to visualize the data, when connecting to data source use facts_divvy table to build the data source in looker, dont use partitioned table, as you wont get any data in your report.
+- go to [Looker Studio](https://lookerstudio.google.com/) &rarr; create &rarr; BigQuery &rarr; choose your project, dataset & transformed table.
 
