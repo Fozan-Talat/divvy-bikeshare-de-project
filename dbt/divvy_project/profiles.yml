@@ -19,3 +19,4 @@ divvy-dbt-cli-profile:
       threads: 8
       type: bigquery
   target: dev
+
