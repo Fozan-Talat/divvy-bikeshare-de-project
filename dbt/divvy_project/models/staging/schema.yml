@@ -10,7 +10,7 @@ sources:
 models:
   - name: stg_divvy_data
     description: >
-        Bike trips made by annual and non-annual Divvy subscribers in the Chicago Metropolitan area between 2020-2023
+        Bike trips made by annual and non-annual Divvy subscribers in  Chicago Metropolitan area between 2020-2023
     columns:
         - name: r_id
           description: Primary key for this table
