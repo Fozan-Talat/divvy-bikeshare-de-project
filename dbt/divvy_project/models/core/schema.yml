@@ -8,3 +8,4 @@ models:
     description: >
       Bike trips corresponding to both subscribers (member and casual).
       The table contains both user and geo-locational records.
+      
