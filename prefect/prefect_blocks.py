@@ -5,7 +5,7 @@ from prefect_dbt.cli import BigQueryTargetConfigs, DbtCliProfile, DbtCoreOperati
 # This is an alternative to creating GCP blocks in the UI
 # (1) insert your own GCS bucket name
 # (2) insert your own service_account_file path or service_account_info dictionary from the json file
-# IMPORTANT - do not store credentials in a publicly available repository!
+# IMPORTANT - do not store credentials in a publicly available repository..
 
 your_GCS_bucket_name = "divvy_data_lake_tidal-cipher-381616"  # (1) insert your GCS bucket name
 gcs_credentials_block_name = "divvy-creds"
