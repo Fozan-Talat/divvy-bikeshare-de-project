@@ -93,6 +93,7 @@ def write_bq(df: pd.DataFrame) -> None:
 # thats why I commented this part of the code and ran it using cli
 # If you want to try it out for yourself uncomment the below block run this script
 #
+#
 # @task(log_prints=True, name="Runs dbt to transform the data and derive columns")
 # def trigger_dbt_flow() -> object:
 #     """Triggers the dbt dependency and build commands"""
